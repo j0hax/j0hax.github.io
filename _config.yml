@@ -19,13 +19,14 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Johannes Arnold
-email: johannes.arnold@stud.uni-hannover.de
 description: >- # this means to ignore newlines until "baseurl:"
   My place to overshare about computers and less important things in life.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://j0hax.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
-github_username:  j0hax
+author:
+  name: "Johannes Arnold"
+  email: "johannes.arnold@stud.uni-hannover.de"
 
 # Build settings
 #theme: minima
@@ -34,6 +35,9 @@ remote_theme: jekyll/minima
 
 minima:
   skin: carl
+  social_links:
+    github: j0hax
+    telegram: j0hax
 
 plugins:
   - jekyll-feed
