@@ -28,7 +28,13 @@ url: "https://j0hax.github.io" # the base hostname & protocol for your site, e.g
 github_username:  j0hax
 
 # Build settings
-theme: minima
+#theme: minima
+
+remote_theme: jekyll/minima
+
+minima:
+  skin: carl
+
 plugins:
   - jekyll-feed
 
