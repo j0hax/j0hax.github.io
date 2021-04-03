@@ -19,7 +19,7 @@ It's open-source and can be self-hosted!
 ## Flaws
 
 My current implementation isn't perfect;
-because the script doesn't use cookies and is called for every page with the same referrer, counts are *per-site*, not *per-page*, and update with every load.
+because the script doesn't use cookies, ~~and is called for every page with the same referrer, counts are *per-site*, not *per-page*, and update with every load.~~ the counter increases per load, regardless of unique visitor.
 Additionally, most adblockers will prevent counting.
 With my current setup, both Brave and uBlock Origin block the the JavaScript from loading by default.
 
@@ -32,16 +32,21 @@ I followed the project's usage example and created a simple script for my site. 
 
 ```javascript
 window.addEventListener('DOMContentLoaded', (event) => {
+  // send out request with page URL
+  const targetUrl = window.location.href
+  const query = '?url=' + encodeURIComponent(targetUrl)
   const xmlHttp = new XMLHttpRequest()
   xmlHttp.withCredentials = true
-  xmlHttp.open('GET', 'https://hitcounter.pythonanywhere.com/count', false)
+  xmlHttp.open('GET', 'https://hitcounter.pythonanywhere.com/count' + query, false)
   xmlHttp.send(null)
-  const count = xmlHttp.responseText
+  count = xmlHttp.responseText
 
+  // get the desired footer element
   const footer = document.getElementsByClassName('footer-col')[1]
 
+  // add our text
   const newP = document.createElement('p')
-  const textNode = document.createTextNode('Ca. ' + count + ' site visits')
+  const textNode = document.createTextNode('Ca. ' + count + ' page visits')
   newP.appendChild(textNode)
   footer.appendChild(newP)
 })
@@ -52,3 +57,9 @@ window.addEventListener('DOMContentLoaded', (event) => {
 It's far from a perfect solution, but finds the proper balance between getting rough estimates and maintaining user privacy. By using JavaScript to inject the resulting count in the bottom corner of the page, it stays out of people's way and doesn't result in the eyesore of one of these things:
 
 <div style="text-align: center;"><span style="font-family: serif; font-size: 1.5em; color: red; background: black;">123,456</span></div>
+
+### Update
+
+It didn't take long to adapt the code to count per-page visits. All I had to do was query the page URL instead of the referrer.
+
+This post has been updated accordingly.
