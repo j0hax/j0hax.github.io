@@ -6,7 +6,7 @@ draft: false
 
 # Hello there!
 
-My name is Johannes, and I go by the handle `j0hax` online. This is my personal site, filled with random information pertaining to me.
+My name is Johannes, and I go by the handle `j0hax` online. I am currently studying computer science at the Leibniz University of Hannover.
 
 ## TL;DR
 
