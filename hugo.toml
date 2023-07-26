@@ -6,9 +6,5 @@ theme = 'github.com/hugcis/hugo-astatine-theme'
 sectionPagesMenu = 'main'
 enableGitInfo = true
 
-[permalinks]
-    post = "/:year/:month/:day/:slug/"
-    page = "/:slug/"
-
 [params]
     authorName = "Johannes Arnold"
