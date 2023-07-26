@@ -1,5 +1,7 @@
 ---
 title: "Computing"
+date: 2023-07-15
+draft: true
 ---
 
 Since recieving my first computer at the age of 10, computers have been a dominant interest of mine. I spend a lot of time doing recreational programming.

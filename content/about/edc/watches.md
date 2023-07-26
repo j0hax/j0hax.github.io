@@ -1,5 +1,6 @@
 ---
 title: "Watches"
+date: 2023-07-15
 ---
 
 I currently have a couple watches in my daily rotation:

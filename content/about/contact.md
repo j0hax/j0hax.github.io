@@ -1,5 +1,6 @@
 ---
 title: "Contact"
+date: 2023-07-15
 ---
 
 Questions or comments on my articles? Want to get in touch? Here are the best ways to reach out:

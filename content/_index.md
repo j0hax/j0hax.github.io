@@ -22,5 +22,3 @@ Location
 Occupation
 : Computer science undergrad
 : Movie theater worker
-
-- [Contact me]({{< ref "contact" >}})

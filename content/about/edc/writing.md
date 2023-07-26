@@ -1,5 +1,6 @@
 ---
 title: "Writing Instruments"
+date: 2023-07-15
 ---
 
 Having grown up in the US and spending my summers in Germany, I learned to appreciate fountain pens at an early age. This developed into an appreciation of fine writing later on. While a lot of people will just use whatever disposable ballpoint they have lying around, I think it's nice to have a small collection of pens you actually enjoy using again and again over years.

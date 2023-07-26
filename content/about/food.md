@@ -1,5 +1,7 @@
 ---
 title: "Food and Drink"
+date: 2023-07-15
+draft: true
 ---
 
 I’m not sure I have a favorite food ;)
