@@ -1,7 +1,10 @@
 ---
-title: "Analysis Spickzettel"
+title: "Allgemeiner Spickzettel"
 date: 2023-07-19T13:28:34+02:00
+weight: 1
 katex: true
+categories:
+- university
 ---
 
 ## Wichtige Rechenregeln
@@ -60,34 +63,4 @@ Der Ausdruck \\[\frac{4^k \cdot \dots}{4^{k+1} \cdot \dots} = \frac{\dots}{4 \cd
 2. \\((a-b)^2 = a^2 + b^2 - 2ab\\)
 3. \\((a+b)(a-b) = a^2 - b^2\\)
 
-## Konvergenz/Divergenz
 
-### Wurzelkriterium
-
-Man kann \\(\sum_{k=0}^\infty a_k\\) umschreiben als
-\\[
-\lim_{k \to \infty} \sqrt[k]{|a_k|} =
-\begin{cases}
-< 1 & \text{konvergiert}\\ > 1 & \text{divergiert}\\ = 1 & \text{keine Aussage}
-\end{cases}
-\\]
-
-- Das Ergebnis des Limes ist nur eine Kennzahl und **nicht** der Grenzwert!
-- Durch die Betragsstriche fällt das \\((-1)^K\\) bei alternierenden Reihen weg.
-- Insbesondere geeignet für Formen wie \\(\left(\frac{x}{y}\right)^k\\) oder \\(\frac{1}{(\ln{x})^k}\\)
-
-### Quotientenkriterium
-
-Man kann \\(\sum_{k=0}^\infty a_k\\) umschreiben als
-\\[
-\lim_{k \to \infty} \left|\frac{a_{k+1}}{a_k}\right| =
-\begin{cases}
-< 1 & \text{konvergiert}\\ > 1 & \text{divergiert}\\ = 1 & \text{keine Aussage}
-\end{cases}
-\\]
-
-- Hier ist insbesondere der [Doppelbruch](#Doppelbruch) wichtig.
-
-### Leibnizkriterium
-
-- To-Do
