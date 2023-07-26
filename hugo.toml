@@ -1,6 +1,6 @@
 baseURL = 'https://j0hax.github.io'
 languageCode = 'en-us'
-title = 'Johannes Blog'
+title = 'Johannes Karl Arnold'
 
 theme = 'github.com/hugcis/hugo-astatine-theme'
 sectionPagesMenu = 'main'
