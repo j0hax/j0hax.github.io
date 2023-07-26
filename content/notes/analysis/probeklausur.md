@@ -4,6 +4,7 @@ date: 2023-07-20T12:41:36+02:00
 categories:
 - university
 katex: true
+draft: true
 ---
 
 **Note:** This page is currently a work in progress. Solutions are updated as I have time.
