@@ -15,7 +15,7 @@ After some pondering for the both of us, it dawned on me while staring at an emp
 The excellent [Libre-Sudoku](https://github.com/kaajjo/Libre-Sudoku) app for Android allows one to generate 6x6 playing fields. All that had to be done was solve the puzzle, trim the playing field to the amount of pigs in the experiment, and map integers to the specific feeds.
 
 | F | T | N | P |
-|---|---|---|---|
+|:---:|:---:|:---:|:---:|
 | P | B | B+L | B+HL |
 | B+HL | P+L | P+HL | B+L |
 | B+L | P+HL | B | P |
