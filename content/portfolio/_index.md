@@ -13,9 +13,11 @@ These are select university projects that I found particularly fun:[^pp]
 |------------------------------------------------------------------------------------|---------------------------------------------|-------------------|---------------------------------------------------------------------------------------------------------------------------------------|
 | [Human-Computer-Interaction Group](https://www.pi.uni-hannover.de/de/hci)          | [mau-mau](https://github.com/j0hax/mau-mau) | Java              | GUI Multiplayer Card Game (2nd Semester Project)                                                                                      |
 | [Systems Research and Architecture](https://www.sra.uni-hannover.de/)              | [MPStuBS](https://github.com/j0hax/MPStuBS) | C++               | Implementation of an educational multicore operating system                                                                           |
-| [Department of real-time systems](https://www.ise.uni-hannover.de/de/rts)          | [Vision](https://github.com/j0hax/vision)   | C++               | [ROS](https://www.ros.org/) module to detect signage using Lidar and OpenCV                                                                |
+| [Department of real-time systems](https://www.ise.uni-hannover.de/de/rts)          | [Vision](https://github.com/j0hax/vision)   | C++               | [ROS](https://www.ros.org/) computer vision module to detect signage using Lidar and OpenCV                                                                |
 | [Institute of Microelectronic Systems](https://www.ims.uni-hannover.de)            | [PPTI](https://github.com/j0hax/PPTI)       | C++               | "Programming Lab Technical Computer Science," an elective course to learn practical C++                                                                                          |
 | [Department of Software Engineering](https://www.pi.uni-hannover.de/de/se/lehre/swp/) | WebGate-Components                          | Python, HTML, JavaScript | 5th semester software project for [Kraft-Wärme-Kopplung GmbH](https://kwk.info). Completed in Januarary 2023, bringing 8 ECTS Credit Points.[^contract] |
+
+{{< figure src="triangle.png" title="Computer Vision Simulation" caption="Screenshot of the robots view, overlayed with data about a detected sign" link="https://github.com/j0hax/vision" >}}
 
 [^pp]: Please note that some projects were the result of pair-programming or group work.
 
