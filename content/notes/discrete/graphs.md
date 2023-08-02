@@ -25,3 +25,18 @@ Um zu zeigen dass ein Graph eulersch ist, muss man einfach zeigen dass jede Ecke
 ## Hamiltonsche Graphen
 
 > **Definition 3.12.** Ein (Multi-)Graph heißt hamiltonsch, wenn es einen Kreis in \\(G\\) gibt, der jede Ecke von \\(G\\) enthält. Ein solcher Kreis heißt dann *Hamilton-Kreis* (oder auch hamiltonscher Kreis).
+
+# Prüfercodes
+Der Prüfercode ist immer 2 kürzer als die Knoten vom Baum.
+
+## Code zu Baum
+1. Mahle die \\(n\\) Knoten des Baumes
+2. Erstelle eine Liste \\(1, \dots, n\\)
+3. Starte mit der ersten Zahl des Codes: finde die kleinste Zahl in der Liste welche nicht im Code enthalten ist. Verbinde diese Knoten und streiche beide aus ihren sequenzen.
+4. Wiederhole Schrtt 3 bis die letzten Zahlen in der Liste stehen. Diese werden miteinander verbunden.
+
+Der Algorithmus ist nicht schwer, aber es empfehlt sich zu üben, üben, üben!
+
+## Baum zu Code
+1. Streiche das kleinste Blatt im Baum und notiere sein Elternknoten.
+2. Wiederhole Schritt 1 bis die letzten zwei Knoten im Baum vorhanden sind. Diese werden nicht notiert.
