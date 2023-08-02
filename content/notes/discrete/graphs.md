@@ -40,3 +40,16 @@ Der Algorithmus ist nicht schwer, aber es empfehlt sich zu üben, üben, üben!
 ## Baum zu Code
 1. Streiche das kleinste Blatt im Baum und notiere sein Elternknoten.
 2. Wiederhole Schritt 1 bis die letzten zwei Knoten im Baum vorhanden sind. Diese werden nicht notiert.
+
+# Adjazenzmatrizen
+
+## Wege der Länge \\(\ell\\)
+> **Satz 3.18.** Sei \\(G = (E, K)\\) ein Graph mit Eckenmenge \\(E = \\{u_1, \dots, u_n\\}\\) und sei \\(A\\) die Adjazenzmatrix von \\(G\\). Für jede Zahl \\(\ell \in \mathbb{N}\\) ist die Anzahl der Wege in \\(G\\) von \\(u_i\\) nach \\(u_j\\) mit Länge \\(\ell\\) gegeben durch den \\((i, j)\\)-Eintrag der Matrix \\(A^\ell\\).
+
+Um alle Wege der Länge \\(\ell\\) zu berechnen, muss man die potenzierte Adjazenzmatrix aufsummieren.
+```julia
+# Beispiel um alle Wege der Länge 2 zu berechnen
+A = [0 1 0 0 0; 1 0 1 1 1; 0 1 0 1 0; 0 1 1 0 1; 0 1 0 1 0]
+l = sum(A^2)
+println(l)
+```
