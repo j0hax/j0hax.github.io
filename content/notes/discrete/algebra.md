@@ -18,3 +18,9 @@ Der ultimative Life-Hack, wenn man bei der Primfaktorzerlegung stecken ist.
 # Die Eulersche \\(\varphi\\)-Funktion
 
 > **Definition 4.13.** Die Eulersche \\(\varphi\\)-Funktion ist die Abbildung \\[\varphi : \mathbb{N} \mapsto \mathbb{N}, \varphi(n) = \left| \left\\{a \mid 1 \leq a \leq n \land \gcd{(a, n)} = 1 \right\\} \right|.\\] Nach Definition 4.12 ist \\(\varphi(n) = |\mathbb{Z}^*_n|\\) die Anzahl der invertierbaren Elemente in \\(\mathbb{Z}_n\\) .
+
+## Formeln für die Eulersche \\(\varphi\\)-Funktion
+> **Satz 4.15.** Für die Eulersche \\(\varphi\\)-Funktion gelten folgende Formeln.
+> 1. Ist \\(p\\) eine Primzahl und \\(e \in \mathbb{N}\\), so gilt \\[\varphi(p^e) = p^{e−1}(p − 1).\\]
+> 2. Sind \\(n_1, \ldots, n_k \in \mathbb{N}\\) paarweise teilerfremd, so gilt für das Produkt \\[\varphi (n_1 \cdot \ldots \cdot n_k) = \varphi(n_1) \cdot \ldots \cdot \varphi(n_k).\\]
+> 3. Ist \\(n = \prod_{i=1}^k p_i^{e_i}\\) die Primfaktorzerlegung einer natürlichen Zahl \\(n \geq 2\\), so gilt \\[\varphi(n) = \prod_{i=1}^k p_i^{e_i -1} (p_i -1).\\]
