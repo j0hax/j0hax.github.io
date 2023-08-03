@@ -1,6 +1,6 @@
 ---
 title: "Algebraische Strukturen"
-date: 2023-08-03T11:21:43+02:00
+date: 2023-07-03
 katex: true
 ---
 

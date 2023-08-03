@@ -1,6 +1,6 @@
 ---
 title: "Stirling Zahlen (der zweiten Art)"
-date: 2023-08-02T15:16:28+02:00
+date: 2023-05-08
 katex: true
 ---
 

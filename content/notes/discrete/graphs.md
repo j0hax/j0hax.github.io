@@ -1,6 +1,6 @@
 ---
 title: "Graphentheorie"
-date: 2023-08-02T20:46:04+02:00
+date: 2023-06-12
 katex: true
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Rekursionsgleichungen"
-date: 2023-08-02T17:05:11+02:00
+date: 2023-05-15
 katex: true
 ---
 
