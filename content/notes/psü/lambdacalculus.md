@@ -37,9 +37,12 @@ All variable names are local to definitions.
 
 \\(\alpha\\)-Conversion
 : Renaming the parameter in a function abstraction
+: For example, \\(\alpha\\)-conversion of \\(\lambda x.x\\) might yield \\(\lambda y.y\\)
+: Terms that differ only by \\(\alpha\\)-conversion are called \\(\alpha\\)-equivalent
 
 \\(\beta\\)-Reduction
 : The replacement of a bound variable in a function body with a function argument
+: For example, assuming some encoding of \\(2, 7, \times\\), we have the following \\(\beta\\)-reduction: \\((\lambda n.n \times 2)~7 \implies 7 \times 2\\).
 
 Church-Rosser-Theorem
 : When applying reduction rules to terms, the ordering in which the reductions are chosen does not make a difference to the eventual result
