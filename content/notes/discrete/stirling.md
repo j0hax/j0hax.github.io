@@ -4,6 +4,8 @@ date: 2023-05-08
 katex: true
 ---
 
+Gegeben einer Menge \\(\\{x_1, \dots x_n\\}\\), zähle die Anzahl von Möglichkeiten diese auf \\(k\\) Partitionen aufzuteilen.
+
 Die rekursive Definition der Stirling-Zahlen lautet
 \begin{equation}
 S_{n,k} = S_{n-1, k-1} + k S_{n-1, k}
