@@ -1,6 +1,6 @@
 ---
 title: "Lambda Calculus"
-date: 2023-08-09T12:49:07+02:00
+date: 2023-04-27
 katex: true
 ---
 
