@@ -27,11 +27,11 @@ fun traverse (empty) = []
 fun print (empty) = "_"
   | print (node (v, t1, t2)) = "(" ^ (print t1) ^ ", " ^ (Int.toString v) ^ ", " ^ (print t2) ^ ")";
 
-traverse(t);
-print(t);
+traverse t;
+print t;
 ```
 
-The outputs of `traverse(t)` and `print(t)` respectively yield
+The outputs of `traverse t;` and `print t;` respectively yield
 ```sml
 [1, 2, 3, 4, 5]: int list;
 ```
