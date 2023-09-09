@@ -2,9 +2,48 @@ baseURL = 'https://j0hax.github.io'
 languageCode = 'en-us'
 title = 'Johannes Karl Arnold'
 
-theme = 'github.com/hugcis/hugo-astatine-theme'
+theme = 'github.com/adityatelange/hugo-PaperMod'
 sectionPagesMenu = 'main'
 enableGitInfo = true
 
 [params]
-    authorName = "Johannes Arnold"
+ShowReadingTime = true
+author = ["Johannes Arnold"]
+math = true
+
+[params.profileMode]
+enabled = true
+title = "Hello There!"
+subtitle = "And welcome to my personal homepage."
+imageUrl = "/Carl_the_Llama.webp"
+imageTitle = "Cal the Llama"
+imageWidth = 120
+imageHeight = 120
+
+  [[params.profileMode.buttons]]
+  name = "About"
+  url = "/about"
+
+  [[params.profileMode.buttons]]
+  name = "Archive"
+  url = "/archive"
+
+[[params.socialIcons]]
+name = "email"
+url = "mailto:j0hannes.arnold@stud.uni-hannover.de"
+
+[[params.socialIcons]]
+name = "instagram"
+url = "https://instagram.com/j0hax"
+
+[[params.socialIcons]]
+name = "mastodon"
+url = "https://norden.social/@j0hax"
+
+[[params.socialIcons]]
+name = "matrix"
+url = "https://matrix.to/#/@e8h-fc1:matrix.uni-hannover.de"
+
+[[params.socialIcons]]
+name = "github"
+url = "github.com/j0hax"
