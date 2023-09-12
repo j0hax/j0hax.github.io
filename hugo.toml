@@ -15,10 +15,8 @@ math = true
 enabled = true
 title = "Hello There!"
 subtitle = "And welcome to my personal homepage."
-imageUrl = "/Carl_the_Llama.webp"
-imageTitle = "Cal the Llama"
-imageWidth = 120
-imageHeight = 120
+imageUrl = "/profile.png"
+imageTitle = "Profile Picture"
 
   [[params.profileMode.buttons]]
   name = "About"
