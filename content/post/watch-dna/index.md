@@ -4,6 +4,7 @@ date: 2023-11-29T08:33:44+01:00
 tags:
     - horology
     - review
+    - design
 ---
 
 ## It started with Black Friday Curiosity
@@ -28,10 +29,10 @@ Glycine enjoyed a [long history](https://en.wikipedia.org/wiki/Glycine_(watch)#H
 Just my luck, these Glycine watches were "on sale" just as those of their parent company: reduced from € 1026 to *just* € 545, a generous 53% off.
 
 #### Value for the Money?
-Considering the specifications of the Combat Subs:
+Going over the specifications of modern Combat Subs:
 
 Automatic Movement
-: Using the GL224 movement, AKA the SW200-1, a clone of the well-regarded ETA 2824, a reliable workhorse movement that is easy to service and features all the basic complications such as centered seconds and a calendar.
+: Using the GL224 movement, AKA the SW200-1, a reliable workhorse movement that is easy to service and features all the basic complications such as central seconds and a calendar.
 
 Sapphire Crystal
 : "Unscratchably" hard material. While these are grown artificially and should not be confused for a precious gem, they do of course increase the value of a watch compared to one using mineral glass.
@@ -48,7 +49,7 @@ Unfortunately, I was not able to find a more traditional Combat Sub design, such
 ## Déjà vu?
 Looking at the watch from a distance does remind one of perhaps more famous ~~status symbols~~ watches. Without a doubt, Rolex has had an enormous impact on not just the industry but our day-to-day perception of watches.
 
-{{< figure src="comparison.png" title="Corporate needs you to identify the difference between this picture and this picture." caption="They're the same picture: Rolex GMT-Master II vs. Pagani Design \"Pepsi\" vs. Glycine Combat Sub" >}}
+{{< figure src="comparison.png" title="Corporate needs you to identify the difference between this picture and this picture." caption="They're the same picture: Rolex GMT-Master II vs. Pagani Design \"Pepsi\" vs. Glycine Combat Sub." >}}
 
 This specific Combat Sub's similarity has, of course, caught the attention of watch ~~snobs~~ enthusiasts, with varying opinions. Following [quote](https://www.watchuseek.com/threads/does-the-glycine-combat-sub-pepsi-gmt-count-as-an-homage.5286224/post-53116271) in particular got to me:
 
@@ -58,16 +59,18 @@ This specific Combat Sub's similarity has, of course, caught the attention of wa
 
 Yes, there are GMT colors (in reference to day/night cycles between circa 06:00 and 18:00) on the watch, and I'll admit that Rolex was the first company to produce a watch with this a two-tone bezel. But does that make it an homage? I don't think so. Consider something like the Seiko SKX009K2 or the SNE591. These have also featured red/blue bezels for decades without being considered an homage to anything.
 
-What about the Dial, featuring triangle/rectangle/circle hours indices? As far as I'm concerned, these are also a very traditional style, found on dive watches from Bremont and Hamilton. The Glycine GL0388 simply happens to check all the boxes of an archetypical dive watch.
+What about the dial, featuring triangle/rectangle/circle hours indices? As far as I'm concerned, these are also a very traditional style, found on dive watches from Bremont and Hamilton. The Glycine GL0388 simply happens to check all the boxes of an archetypical dive watch.
 
-### Not just Glycine
-I'm under the impression that certain styles will never die. For example, I adore my Nomos Tangente, but they weren't the first Bauhaus watch by far, and very few would claim they are "just" an homage.
+Still, the Glycine _is_ different. It doesn't feature the typical Rolex date magnifier. The date display, and minute tracks and seconds hand are very different from the GMT-Master II or Submariner. The bezel's form and typography are unique as well. The devil is in the details.
 
-{{< figure src="Antea_Back_To_Bauhaus_history.jpg" title="Bauhaus style watches over the decades" caption="Lange & Söhne and Stowa have featured the typical " attr="manufaktuhr.info" attrlink="https://manufaktuhr.info/?p=1560" >}}
+### It's not just Glycine
+I'm under the impression that certain styles will never die. For example, I adore my NOMOS Tangente, but they weren't the first Bauhaus watch by far, and very few enthusiasts would claim they are "just" an homage.
+
+{{< figure src="Antea_Back_To_Bauhaus_history.jpg" title="Bauhaus style watches over the decades" caption="Lange & Söhne and STOWA built similar watches many decades before NOMOS was even founded." attr="manufaktuhr.info" attrlink="https://manufaktuhr.info/?p=1560" >}}
 
 {{< figure src="tangente.jpg" title="NOMOS Tangente Reference No. 139" caption="Perhaps one of the most celebrated German watches in the past 30 years." attr="nomos-glashuette.com" attrlink="https://nomos-glashuette.com/en/tangente/tangente-139" >}}
 
-All in all, I believe watch designs boil down to their heritage, much like phenotypes in biology. These traits can be seen a celebration of history while still providing leeway for individuality in the details.
+All in all, I believe that much like phenotypes in biology, watch designs boil down to their heritage. These traits can be seen a celebration of history, while still providing leeway for individuality in the details.
 
 [^drop]: They were better when they offered a broader range of things outside of keyboards and audiophile equipment. I stopped frequently browsing around 2022
 [^elapsed]: ...for someone as easily distracted as me *(how long has that french press been steeping?)*
