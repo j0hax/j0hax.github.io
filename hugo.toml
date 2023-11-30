@@ -15,7 +15,7 @@ math = true
 enabled = true
 title = "Hello There!"
 subtitle = "And welcome to my personal homepage."
-imageUrl = "/profile.png"
+imageUrl = "/profile.webp"
 imageTitle = "Profile Picture"
 
   [[params.profileMode.buttons]]
