@@ -1,6 +1,7 @@
 ---
 title: "The Greatest Struggle of my Life"
 date: 2024-01-01T16:31:33+01:00
+draft: true
 ---
 
 I'm starting the new year in a particularly rough state, yet my social and emotional life has never been better. Beginning this time last year, I blazed through exams and a big software project, met my current partner, and --- after half a year with her --- decided to move in with her, for which we found and renovated a new apartment. To top it off, I had the opportunity to start a part-time job in the IT division of an insurance provider, a major step up to my previous jobs.
