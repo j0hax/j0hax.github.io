@@ -1,10 +1,7 @@
 ---
-title: "ILIAS Lösungen"
+title: "Online-Trainer Nr. 1 zu Kombinatorik"
 date: 2024-01-05T16:58:30+01:00
-weight: 100
 ---
-
-# Online-Trainer Nr. 1 zu Kombinatorik
 
 ## Buchstaben kombinieren
 
@@ -88,7 +85,20 @@ Die Stelle \\(x\\) hat 8 Möglichkeiten, also von \\(2\\) bis \\(9\\). Die ander
 
 >Aus einer Gruppe von \\(14\\) Studierenden soll für ein Projekt ein Team aus \\(3\\) Personen gebildet werden. Zwei der Studierenden weigern sich, in einem Team zusammenzuarbeiten. Wie viele mögliche Teams lassen sich bilden?
 
-- *Hier weiß ich leider nicht weiter :(*
+### Variante 1: *Eklusion*
+
+Hier Zählt man die Gesamtanzahl der Gruppenmöglichkeiten und zieht dann die anzahl der Gruppen, in der sich die Zwei nicht-kooperierenden treffen, ab:[^thanks]
+\\[
+    \binom{14}{3} - (14 - 2) = 364 - 12 = 352
+\\]
+
+[^thanks]: Danke an Nico für den Lösungshinweis.
+
+### Variante 2: *Inklusion*
+
+Alternativ Zählt man mögliche Gruppen zusammen. Es gibt zwei zweier Gruppen aus 12 Studenten (indem es nur einen verweigernden gibt) und eine 12er-Gruppe in der alle drei Studenten kooperieren.
+
+\\[2 \cdot \binom{12}{2} + \binom{12}{3} = 2 \cdot 66 + 220 = 352\\]
 
 ## Bücher auswählen
 
