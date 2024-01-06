@@ -2,7 +2,6 @@
 title: "Allgemeiner Spickzettel"
 date: 2023-07-19T13:28:34+02:00
 weight: 1
-katex: true
 categories:
 - university
 ---

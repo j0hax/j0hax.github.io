@@ -1,7 +1,6 @@
 ---
 title: "Stirling Zahlen"
 date: 2023-05-08
-katex: true
 ---
 
 # ...der Ersten Art

@@ -2,7 +2,6 @@
 title: "Reihen"
 date: 2023-07-26T14:47:55+02:00
 weight: 2
-katex: true
 categories:
 - university
 ---

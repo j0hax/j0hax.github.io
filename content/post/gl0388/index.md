@@ -1,7 +1,6 @@
 ---
 title: "Glycine GL0388 -- Cheap Homage or a Modern Classic?"
 date: 2023-11-29T08:33:44+01:00
-ShowToc: true
 tags:
     - horology
     - review

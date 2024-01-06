@@ -1,7 +1,6 @@
 ---
 title: "Lagrange-Multiplikator"
 date: 2023-07-27T08:21:48+02:00
-katex: true
 ---
 
 Suche von Extremstellen einer Funktion \\(f\\) mit der Nebenbedingung \\(s\\).

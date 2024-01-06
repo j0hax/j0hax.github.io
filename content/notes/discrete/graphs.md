@@ -1,7 +1,6 @@
 ---
 title: "Graphentheorie"
 date: 2023-06-12
-katex: true
 ---
 
 > **Satz 3.5.** Sei \\(G = (E, K)\\) ein (Multi-)Graph. Dann gilt:

@@ -1,7 +1,6 @@
 ---
 title: "Binomischer Lehrsatz"
 date: 2023-12-26T16:03:40+01:00
-katex: true
 ---
 
 > **Lemma 1.9** (Binomischer Lehrsatz). Seien \\(x\\) und \\(y\\) Unbestimmte oder Zahlen, die kommutieren, d.h. \\(xy = yx\\). Dann gilt für alle \\(n \in \mathbb{N}\\): \\[(x+y)^n = \sum_{i=0}^{n} \binom{n}{i} x^{n-i}y^i\\]

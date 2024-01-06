@@ -1,7 +1,6 @@
 ---
 title: "Rekursionsgleichungen"
 date: 2023-05-15
-katex: true
 ---
 
 Der Unterschied zwischen **homogen** und **inhomogen** ist nur, dass eine inhomogenene Rekursionsgleichung eine Konstante hinzugefügt hat. Beispielsweise ist \\(x_n = 2 x_{n-1} + 3\\) inhomogen.

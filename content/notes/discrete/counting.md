@@ -1,7 +1,6 @@
 ---
 title: "Kombinatorik & Zählprobleme"
 date: 2023-05-08
-katex: true
 ---
 
 # Inklusion und Exklusion

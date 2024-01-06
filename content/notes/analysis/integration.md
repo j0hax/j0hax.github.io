@@ -1,7 +1,6 @@
 ---
 title: "Integration"
 date: 2023-07-27T12:39:45+02:00
-katex: true
 ---
 
 ## Partielle Integration

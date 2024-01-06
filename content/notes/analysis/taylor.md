@@ -2,7 +2,6 @@
 title: "Taylorpolynome"
 date: 2023-07-06
 weight: 10
-katex: true
 categories:
 - university
 ---
