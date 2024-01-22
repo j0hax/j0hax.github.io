@@ -1,4 +1,7 @@
-p {
+p, blockquote {
     text-align: justify;
+}
+
+* {
     hyphens: auto;
-  }
+}
