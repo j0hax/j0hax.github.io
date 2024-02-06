@@ -263,6 +263,48 @@ Unserer Tabelle nach hat *L* den Wert 12. Wir rechen also unseren mit unseren je
 >
 >Seien \\(z_1 z_2 \dots z_{12}\\) die ersten zwölf Ziffern der ISBN. Die Prüfziffer \\(z_{13} \in \\{0,1,2,3,4,5,6,7,8,9\\}\\) ist dann bestimmt durch die Kongruenz \\[(z_1+z_3+z_5+z_7+z_9+z_{11}+z_{13})+3 \cdot (z_2+z_4+z_6+z_8+z_{10}+z_{12}) \equiv 0 \mod 10.\\]
 
-> Bestimmen Sie die Prüfziffer der ISBN \\({978-3-453-60393-❓}\\)
+>Bestimmen Sie die Prüfziffer der ISBN \\({978-3-453-60393-❓}\\)
 
-Wir rechen: \\[9+8+4+3+9+x_{13} + 3 \cdot (7+3+5+6+3+3) = 114 + x_{13}.\\] Da wir mit \\(0 \bmod 10\\) rechnen, muss die Zahl ohne Rest durch 10 teilbar sein. 120 ist die nächstgröße Zahl, die durch 10 teilbar ist, also \\(x_{13} = 6.\\)
+Wir rechen: \\[9+8+4+3+9+x_{13} + 3 \cdot (7+3+5+6+3+3) = 114 + x_{13}.\\] Da wir mit \\(\dots 0 \bmod 10\\) rechnen, muss die Zahl ohne Rest durch 10 teilbar sein. 120 ist die nächstgröße Zahl, die durch 10 teilbar ist, also \\(x_{13} = 6.\\)
+
+>In der ISBN 978−3−764−3❓730−4 ist die 9. Ziffer unlesbar geworden. Bestimmen Sie die fehlende Ziffer.
+
+Analog zur obigen Aufgabe rechnen wir \\[(9+8+7+4 + x_{9} +3+4)+ 3\cdot (7+3+6+3+7+0) = 113 + x_9.\\] Um auf \\(120\\) zu kommen, muss also \\(x_9 = 7.\\)
+
+# Mächtigkeit von Restklassen
+
+>Bestimmen Sie die Mächtigkeit von \\(\mathbb{Z}^\*\_{{3}}\times\mathbb{Z}^\*\_{{13}}\times\mathbb{Z}^\*\_{{14}}\\)
+
+**Notiz:** mit diesem Thema habe ich ein "wenig" kämpfen müssen. Relvant sind **Definition 4.12,** **Definition 4.13,** und **Satz 4.15,** zu finden auf Paginae 97--102 des Skriptes.
+
+Um die Mächtigkeit zu bestimmen, rechnet man \\[\varphi(3) \cdot \varphi(13) \cdot \varphi(14)\\].
+
+Da diese Zahlen klein sind, können wir nach Definitionen 4.12 und 4.13 die Mengen stumpf ausrechnen und zählen: \\[|\mathbb{Z}\_3^\*| = |\\{\overline{1}, \overline{2}\\}| = 2,\\] \\[|\mathbb{Z}\_{13}^\*| = |\\{\overline{1}, \overline{2}, \dots, \overline{12}\\}| = 12\\] und schlussendlich die zusammengesetzte Zahl 14: \\[|\mathbb{Z}\_{14}^\*| = |\\{\overline{1}, \overline{3}, \overline{5}, \overline{9}, \overline{11}, \overline{13}\\}| = 6.\\]
+
+Somit ist \\[|\mathbb{Z}\_3^\*| \cdot |\mathbb{Z}\_{13}^\*| \cdot |\mathbb{Z}\_{14}^\*| = |\mathbb{Z}\_3^\* \times \mathbb{Z}\_{13}^\* \times \mathbb{Z}\_{14}^\*| = 2 \cdot 12 \cdot 6 = 144.\\]
+
+# Mächtigkeit von Restklassen
+
+>Bestimmen Sie die Mächtigkeit von \\(\mathbb{Z}^*_{{756}}\\)
+
+Zuerst zerlegen wir die Zahl in ihre Primfaktoren:
+\\[
+    \begin{aligned}
+    756 &= 2 \cdot 378\\\
+    &= 2 \cdot 2 \cdot 189\\\
+    &= 2 \cdot 2 \cdot 3 \cdot 63\\\
+    &= 2 \cdot 2 \cdot 3 \cdot 3 \cdot 21\\\
+    &= 2 \cdot 2 \cdot 3 \cdot 3 \cdot 3 \cdot 7\\\
+    &= 2^2 \cdot 3^3 \cdot 7
+    \end{aligned}
+\\]
+und nutzen nun **Satz 4.15 (c)** des Skriptes:
+\\[
+    \begin{aligned}
+    | \mathbb{Z}^*_{{756}} | &= 2^{2-1}(2-1) \cdot 3^{3-1}(3-1) \cdot 7^{1-1}(7-1)\\\
+    &= 2 \cdot 3^2 \cdot 2 \cdot 6\\\
+    &= 216
+    \end{aligned}
+\\]
+
+# Simultane Kongruenzen
