@@ -1,6 +1,11 @@
+/*
+I love the aesthetics of LaTeX and other properly typeset bodies of text.
+Unfortunately, the justification algorithms of browsers just aren't
+of a high quality yet, especially on mobile.
 p, blockquote {
     text-align: justify;
 }
+*/
 
 * {
     hyphens: auto;
