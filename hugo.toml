@@ -19,6 +19,15 @@ enableGitInfo = true
     languageDirection = 'ltr'
     languageName = 'English'
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.extensions]
+      [markup.goldmark.extensions.passthrough]
+        enable = true
+        [markup.goldmark.extensions.passthrough.delimiters]
+          block = [['\[', '\]'], ['$$', '$$']]
+          inline = [['\(', '\)']]
+
 [params]
 ShowReadingTime = true
 author = ["Johannes Karl Arnold"]
