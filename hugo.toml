@@ -1,74 +1,41 @@
-baseURL = 'https://j0hax.github.io'
-languageCode = 'en-US'
-title = 'Johannes Karl Arnold'
+baseURL = "https://j0hax.github.io"
+languageCode = "en-US"
+title = "Johannes Karl Arnold"
+copyright = "Johannes Arnold"
 
-theme = 'github.com/adityatelange/hugo-PaperMod'
-sectionPagesMenu = 'main'
+theme = "github.com/athul/archie"
+sectionPagesMenu = "main"
 enableGitInfo = true
 
 [languages]
-  [languages.de]
-    languageCode = 'de-DE'
-    languageDirection = 'ltr'
-    languageName = 'Deutsch'
-    [languages.de.params.profileMode]
-      title = 'Moin!'
-      subtitle = "und willkommen auf meiner Homepage."
-  [languages.en]
-    languageCode = 'en-US'
-    languageDirection = 'ltr'
-    languageName = 'English'
-
-[markup]
-  [markup.goldmark]
-    [markup.goldmark.extensions]
-      [markup.goldmark.extensions.passthrough]
-        enable = true
-        [markup.goldmark.extensions.passthrough.delimiters]
-          block = [['\[', '\]'], ['$$', '$$']]
-          inline = [['\(', '\)']]
+[languages.de]
+languageCode = 'de-DE'
+languageDirection = 'ltr'
+languageName = 'Deutsch'
+[languages.de.params]
+subtitle = "Moin!"
+[languages.en]
+languageCode = 'en-US'
+languageDirection = 'ltr'
+languageName = 'English'
 
 [params]
-ShowReadingTime = true
-author = ["Johannes Karl Arnold"]
-math = true
-showtoc = true
+mode = "auto"
+useCDN = false
+subtitle = "Howdy!"
+katex = true
 
-[params.profileMode]
-enabled = true
-title = "Hello There!"
-subtitle = "And welcome to my personal homepage."
-imageUrl = "/profile.webp"
-imageTitle = "Profile Picture"
+[[params.social]]
+name = "GitHub"
+icon = "github"
+url = "https://github.com/j0hax"
 
-  [[params.profileMode.buttons]]
-  name = "About"
-  url = "/about"
+[[params.social]]
+name = "LinkedIn"
+icon = "linkedin"
+url = "https://www.linkedin.com/in/johannes-karl-arnold/"
 
-  [[params.profileMode.buttons]]
-  name = "Archive"
-  url = "/archive"
-
-[[params.socialIcons]]
-name = "email"
-url = "mailto:j0hannes.arnold@stud.uni-hannover.de"
-
-[[params.socialIcons]]
-name = "instagram"
-url = "https://instagram.com/j0hax"
-
-[[params.socialIcons]]
-name = "mastodon"
-url = "https://norden.social/@j0hax"
-
-[[params.socialIcons]]
-name = "matrix"
-url = "https://matrix.to/#/@e8h-fc1:matrix.uni-hannover.de"
-
-[[params.socialIcons]]
-name = "github"
-url = "github.com/j0hax"
-
-[[params.socialIcons]]
-name = "linkedin"
-url = "https://www.linkedin.com/in/johannes-karl-arnold"
+[[params.social]]
+name = "Email"
+icon = "mail"
+url = "mailto:johannes@rnold.online"
