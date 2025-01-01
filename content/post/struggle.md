@@ -5,6 +5,7 @@ tags:
     - personal
     - university
     - mental health
+draft: true
 ---
 
 I'm starting the new year in a particularly rough state, although my social and emotional life has never been better. Around this time last year, I blazed through exams and a big software project, met my current partner, and --- after half a year with her --- decided to move together with her, for which we found and renovated a new apartment. To top it off, I had the opportunity to start a part-time job in the IT division of an insurance provider, a major step up to my previous jobs.

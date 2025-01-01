@@ -5,6 +5,7 @@ tags:
     - personal
     - university
     - mental health
+draft: true
 ---
 
 >Meine Werten Herren, wie manche von euch wissen habe ich mich in den letzten Semestern ziemlich um's Studium geschlagen. Die meisten Klausuren liefen dementsprechend gut, allerdings war ich nach jahrelangem Aufschieben oder Durchfallen in den Drittversuch der Fächer Analysis und Diskrete Strukturen gelandet, zwei Mathefächern.

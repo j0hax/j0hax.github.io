@@ -5,6 +5,7 @@ tags:
     - personal
     - university
     - mental health
+draft: true
 ---
 
 >Gentlemen, as some of you know, I've really struggled with my studies over the last few semesters. Most of the exams went accordingly well, but after years of procrastinating or failing, I ended up in the last examination attempt of Analysis and Discrete Structures, two math subjects.
