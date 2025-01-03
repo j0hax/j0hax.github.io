@@ -1,0 +1,12 @@
+{{ $score := float (.Get "score") }}
+{{ $nStars := math.Floor (div $score 20) }}
+{{ $nBlanks := sub 5 $nStars}}
+
+{{
+  $desc := printf "%s%s | %.0f%%" 
+  (strings.Repeat $nStars "&starf;")
+  (strings.Repeat $nBlanks "&star;")
+  $score
+}}
+
+<p><strong>Rating:</strong> <span style="color: goldenrod;">{{ $desc | safeHTML }}</span></p>
