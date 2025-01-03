@@ -1,10 +1,2 @@
-github.com/Iossefy/kaslaanka v0.0.0-20241018122350-b6fff4183d15 h1:CStrLEvY0tL+w1gj8TQkdnfFUp8PPC9JoKM2QvipLYA=
-github.com/Iossefy/kaslaanka v0.0.0-20241018122350-b6fff4183d15/go.mod h1:c2CMIcKlSjnfh1aZEteR3fJw1E8J7f8038AGbrOcjZ0=
-github.com/Junyi-99/hugo-theme-anubis2 v1.3.5 h1:+ht3ivmZTc7sp1wWcauMSrNegtDLExYGQ3U+YJgoba8=
-github.com/Junyi-99/hugo-theme-anubis2 v1.3.5/go.mod h1:xKACdZaRlk2G1sGz5USbO32xFmL5smbU4UcYEbllgyI=
-github.com/athul/archie v0.0.0-20240805181042-d8819d5eee8b h1:tRNzrm1jYOiylAR9IJIYYg1DF9fVtw8V2NqTPnMJ+x0=
-github.com/athul/archie v0.0.0-20240805181042-d8819d5eee8b/go.mod h1:toV1NH0HG3QeUEXX3aXgyCLuSh9JjAdCSge+cKN7LFs=
-github.com/mismith0227/hugo_theme_pickles v0.0.0-20241107230221-7836542c6094 h1:NhSk6aihVvpTkE/+fJ7NQRtRXPKsXshh1qUo5nBWlsw=
-github.com/mismith0227/hugo_theme_pickles v0.0.0-20241107230221-7836542c6094/go.mod h1:k/VZhcaWwBpt8bz72apvGYCHHlUT7S5oVLGtvfRYxm0=
-github.com/monkeyWzr/hugo-theme-cactus v0.0.0-20240312084910-a5df1d6bed25 h1:wAV8qlIZA6AA+Nq6WHk2+pJgDTE37EUUKq73E1TwOy4=
-github.com/monkeyWzr/hugo-theme-cactus v0.0.0-20240312084910-a5df1d6bed25/go.mod h1:pelyER/z3wJ0lzJtj5JVIlUfnKJJ/sfe4RYyfQG0E/4=
+github.com/j0hax/archie v0.0.0-20250103165717-2bda5c292c12 h1:OcVOUg8iPI2/NJ4ESJjWxGIkSfJ2cSoBrX8ydxS9JJs=
+github.com/j0hax/archie v0.0.0-20250103165717-2bda5c292c12/go.mod h1:C5j0neaECtC2Gyc9OCvxj8A7Eevp8eXFpjfvtuNYXlU=
