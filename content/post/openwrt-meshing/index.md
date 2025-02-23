@@ -1,6 +1,10 @@
 ---
 title: "OpenWRT Meshing"
 date: 2025-02-08T14:58:04+01:00
+tags:
+  - linux
+  - openwrt
+  - mesh
 ---
 
 After moving to a new, larger apartment, I had a problem: **the office had a terrible Wi-Fi connection,** and the office was so far away from our DSL gateway that laying a long ethernet cable was out of the question. Fortunately, during a trip to the USA, I found something I couldn't pass up: a TP-Link Archer A7[^old] at Goodwill for a whopping $6.99.

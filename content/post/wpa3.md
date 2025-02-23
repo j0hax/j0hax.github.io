@@ -9,6 +9,7 @@ tags:
 - 802.11w
 - n6205
 - iwlwifi
+- linux
 ---
 
 After doing a clean install of OpenWRT 21.02.0-rc3 and configuring WPA3 I expected some devices to have trouble re-connecting to the fresh Wi-Fi network, the least of which was my trusted ThinkPad X230. Of course, the problem was quickly diagnosed: the culprit turned out to be WPA3 *and* 802.11w Management Frame Protection.

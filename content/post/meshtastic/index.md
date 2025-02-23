@@ -1,7 +1,10 @@
 ---
 title: "My first Meshtastic Node is now Online!"
 date: 2024-03-27
-tags: [diy, meshtastic, raspberry pi]
+tags:
+    - diy
+    - meshtastic
+    - raspberry pi
 ---
 
 I believe the first time I head of [Meshtastic](https://meshtastic.org/) was during the COVID pandemic, probably through one of Andreas Spiess' [videos](https://www.youtube.com/watch?v=TY6m6fS8bxU). I thought the Idea was neat (I was deeply into DIY electronics then as I am now), but I quickly decided the project wasn't for me. I wasn't aware of LoRa's range nor did I have the money as a broke college student to go out and build a transciever with no other people to talk to.

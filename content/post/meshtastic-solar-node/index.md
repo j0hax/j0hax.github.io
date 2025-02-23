@@ -1,6 +1,8 @@
 ---
 title: "Building an Outdoor Meshtastic Solar Node"
 date: 2024-04-29
+tags:
+  - meshtastic
 ---
 
 Meshtastic has taken off in my hometown. After my first post detailing the build of my [first Meshtastic node]({{< relref "meshtastic" >}}) and chatting with new users in the area, I decided to continue "investing" into our network, especially as I live in a high-rise apartment with access to outdoor stairwells, I have an excellent line of sight view of the city.
