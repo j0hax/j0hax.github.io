@@ -3,7 +3,7 @@ languageCode = "en-US"
 title = "Johannes Karl Arnold"
 copyright = "Johannes Arnold"
 
-theme = "github.com/j0hax/archie"
+theme = "github.com/joeroe/risotto"
 sectionPagesMenu = "main"
 enableGitInfo = true
 
