@@ -1,8 +1,27 @@
 ---
 title: "Hello"
-date: 2023-07-15T14:17:48+02:00
+date: 2023-07-15
 ---
 
-# Hello there!
+# Hello There!
 
-My name is Johannes, and I go by the handle `j0hax` online. I am currently studying computer science at the Leibniz University of Hannover.
+My name is Johannes, and I go by the handle `j0hax` online.
+
+> test
+
+# About Me
+
+Born
+: Houston, Texas
+
+Age
+: {{< myAge >}} years
+
+Nickname
+: Carl ([Like the llama](https://youtu.be/kZUPCB9533Y))
+
+Location
+: Hannover, Germany
+
+Occupation
+: Linux Consultant
