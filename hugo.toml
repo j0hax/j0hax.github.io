@@ -1,19 +1,24 @@
 baseURL = "https://jka.one/"
 languageCode = "en-US"
 title = "Johannes Karl Arnold"
-copyright = "Johannes Arnold"
-
+copyright = "&copy; Johannes Arnold // The content I author on this website is licensed under the [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)."
 theme = "github.com/joeroe/risotto"
 sectionPagesMenu = "main"
 enableGitInfo = true
 
+[about]
+title = "Hello"
+
 [languages]
+
 [languages.de]
 languageCode = 'de-DE'
 languageDirection = 'ltr'
 languageName = 'Deutsch'
+
 [languages.de.params]
 subtitle = "Moin!"
+
 [languages.en]
 languageCode = 'en-US'
 languageDirection = 'ltr'
@@ -25,17 +30,27 @@ useCDN = false
 subtitle = "Howdy!"
 katex = true
 
-[[params.social]]
-name = "GitHub"
-icon = "github"
+[params.about]
+title = "Personal Website"
+description = '''
+>*Omnibus ex nihilo ducendis sufficit unum*
+
+>In order to produce everything out of nothing one [thing] is sufficient.
+
+--- G. W. Leibniz, in regards to his binary system.
+'''
+
+[[params.socialLinks]]
+title = "GitHub"
+icon = "fa-brands fa-github"
 url = "https://github.com/j0hax"
 
-[[params.social]]
-name = "LinkedIn"
-icon = "linkedin"
+[[params.socialLinks]]
+title = "LinkedIn"
+icon = "fa-brands fa-linkedin"
 url = "https://www.linkedin.com/in/johannes-karl-arnold/"
 
-[[params.social]]
-name = "Email"
-icon = "mail"
+[[params.socialLinks]]
+title = "Email"
+icon = "fa-solid fa-envelope"
 url = "mailto:johannes@rnold.online"
