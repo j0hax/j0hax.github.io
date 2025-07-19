@@ -1,0 +1,15 @@
+{{ $file := .Get 0 }}
+  {{ with .Page.Resources.Get $file }}
+    {{ $data := . | transform.Unmarshal }}
+      {{ range sort $data "quote" }}
+        {{ $quote := index . "quote" }}
+        {{ $author := index . "attr" }}
+        <hr>
+        <blockquote>
+          <p>{{ $quote | markdownify }}</p>
+        </blockquote>
+        <p style="text-align: right"> &mdash; {{ $author }}</p>
+      {{ end }}
+  {{ else }}
+    {{ errorf "The %q shortcode was unable to find %s. See %s" $.Name $file $.Position }}
+  {{ end }}
