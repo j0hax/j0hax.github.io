@@ -1,0 +1,952 @@
+[
+    {
+        "quote": "Zero one one one zero zero one one",
+        "attr": "Alt-J",
+        "work": "In Cold Blood"
+    },
+    {
+        "quote": "Attention and activity lead to mistakes as well as to successes, but a life spent in making mistakes is not only more honorable but more useful than a life spent doing nothing.",
+        "attr": "George Bernard Shaw",
+        "work": "The Doctor’s Dilemma"
+    },
+    {
+        "quote": "There are a thousand hacking at the branches of evil to one who is striking at the root.",
+        "attr": "Henry David Thoreau",
+        "work": "Walden"
+    },
+    {
+        "quote": "If at first you don't succeed, you fail, and the test will be terminated.",
+        "attr": "GlaDOS",
+        "work": "Portal Trailer"
+    },
+    {
+        "quote": "Irrigators channel waters, fletchers straighten arrows, carpenters shape wood, the wise master themselves.",
+        "attr": "Siddhartha Gautama",
+        "work": "Dhammapada"
+    },
+    {
+        "quote": "It is possible to commit no mistakes and still lose. That is not a weakness, that is life.",
+        "attr": "Jean-Luc Picard",
+        "work": "Star Trek: The Next Generation"
+    },
+    {
+        "quote": "For it is unworthy of excellent men to lose hours like slaves in the labour of calculation which would safely be relegated to anyone else if machines were used.",
+        "attr": "Gottfried Wilhelm von Leibniz",
+        "work": "Letter describing a calculating machine"
+    },
+    {
+        "quote": "It’s better to be lucky than smart, but it’s easier to be smart twice than lucky twice.",
+        "attr": "Henry Spencer",
+        "work": "World Science Fiction Convention"
+    },
+    {
+        "quote": "It takes considerable knowledge just to realize the extent of your own ignorance.",
+        "attr": "Thomas Sowell",
+        "work": "A Childish Letter"
+    },
+    {
+        "quote": "Just when the caterpillar thought the world was over, it became a butterfly.",
+        "attr": "Zhuang Zhou",
+        "work": "Zhuangzi"
+    },
+    {
+        "quote": "Never attribute to malice that which can be adequately explained by stupidity.",
+        "attr": "Robert J. Hanlon",
+        "work": "Murphy's Law Book Two"
+    },
+    {
+        "quote": "O’ cruel fate, to be thusly boned! Ask not for whom the bone bones --- it bones for thee.",
+        "attr": "Bender Bending Rodríguez",
+        "work": "Futurama"
+    },
+    {
+        "quote": "Oh, yeah, if I didn't have inner peace, I'd completely go psycho on all you guys all the time.",
+        "attr": "Carl Carlson",
+        "work": "The Simpsons"
+    },
+    {
+        "quote": "Okay. Look. We both said a lot of things that you're going to regret. But I think we can put our differences behind us. For science. You monster.",
+        "attr": "GlaDOS",
+        "work": "Portal 2"
+    },
+    {
+        "quote": "Seize today, for we know nothing of tomorrow. Today is glorious. And none of our tomorrows are guaranteed.",
+        "attr": "Jean-Luc Picard",
+        "work": "Star Trek: Picard"
+    },
+    {
+        "quote": "Share your knowledge. It’s a way to achieve immortality.",
+        "attr": "Tenzin Gyatso",
+        "work": "The Art of Happiness"
+    },
+    {
+        "quote": "Someone once told me that time was a predator that stalked us all our lives. But I rather believe that time is a companion who goes with us on the journey, and reminds us to cherish every moment, because they'll never come again. What we leave behind is not as important as how we lived… After all, Number One, we're only mortal.",
+        "attr": "Jean-Luc Picard",
+        "work": "Star Trek Generations"
+    },
+    {
+        "quote": "There is nothing worse than imagination without taste.",
+        "attr": "Johann Wolfgang von Goethe",
+        "work": "Maximen und Reflexionen"
+    },
+    {
+        "quote": "The root of all suffering is attachment.",
+        "attr": "Siddhartha Gautama",
+        "work": "Pali Canon"
+    },
+    {
+        "quote": "The trouble with the world is that the stupid are cocksure and the intelligent full of doubt.",
+        "attr": "Bertrand Russel",
+        "work": "The Triumph of Stupidity"
+    },
+    {
+        "quote": "They always say time changes things, but you actually have to change them yourself.",
+        "attr": "Andy Warhol",
+        "work": "The Philosophy of Andy Warhol"
+    },
+    {
+        "quote": "Time offers many opportunities, but it rarely offers second chances.",
+        "attr": "Jean-Luc Picard",
+        "work": "Star Trek: Picard"
+    },
+    {
+        "quote": "Too often we enjoy the comfort of opinion without the discomfort of thought.",
+        "attr": "John F. Kennedy",
+        "work": "Yale University Commencement"
+    },
+    {
+        "quote": "We're all hostages to what we love. The only way to truly be free is to love nothing. And how meaningless would that be?",
+        "attr": "Q",
+        "work": "Star Trek: Picard"
+    },
+    {
+        "quote": "What’s reality? I don’t know. When my bird was looking at my computer monitor I thought, \"Woah, that bird has no idea what he’s looking at.\" And yet what does the bird do? Does he panic? No, he can’t really panic, he just does the best he can. Is he able to live in a world where he’s so ignorant? Well, he doesn’t really have a choice ... the bird is okay even though he doesn’t understand the world... You’re that bird looking at the monitor, and you’re thinking to yourself, \"I can figure this out.\" Maybe you have some bird ideas... maybe that’s the best you can do.",
+        "attr": "Terry A. Davis",
+        "work": "Livestream"
+    },
+    {
+        "quote": "When you do things right, people won't be sure you've done anything at all.",
+        "attr": "God Entity",
+        "work": "Futurama"
+    },
+    {
+        "quote": "When you look at someone through rose-colored glasses, all the red flags just look like flags.",
+        "attr": "Wanda Pierce",
+        "work": "Bojack Horseman"
+    },
+    {
+        "quote": "You know as well as I do that fear only exists for one purpose: to be conquered.",
+        "attr": "Kathryn Janeway",
+        "work": "Star Trek: Voyager"
+    },
+    {
+        "quote": "Reject your sense of injury and the injury itself disappears.",
+        "attr": "Marcus Aurelius",
+        "work": "Meditations"
+    },
+    {
+        "quote": "I wholly disapprove of what you say and will defend to the death your right to say it.",
+        "attr": "Evelyn Beatrice Hall",
+        "work": "The Friends of Voltaire"
+    },
+    {
+        "quote": "He who fears he shall suffer, already suffers what he fears.",
+        "attr": "Michel de Montaigne",
+        "work": "The Complete Essays"
+    },
+    {
+        "quote": "You are right. Mister Bond. That is just what I am, a maniac. All the greatest men are maniacs. They are possessed by a mania which drives them forward towards their goal. The great scientists, the philosophers, the religious leaders --- all maniacs. What else but a blind singleness of purpose could have given focus to their genius, would have kept them in the groove of their purpose? Mania, my dear Mister Bond, is as priceless as genius. Dissipation of energy, fragmentation of vision, loss of momentum, the lack of follow-through - these are the vices of the herd.",
+        "attr": "Dr. No",
+        "work": "Dr. No"
+    },
+    {
+        "quote": "A superior pilot uses his superior judgment to avoid having to exercise his superior skill.",
+        "attr": "Frank Borman",
+        "work": "Flying Lessons"
+    },
+    {
+        "quote": "A witty saying proves nothing.",
+        "attr": "Voltaire",
+        "work": "Le Dîner du comte de Boulainvilliers"
+    },
+    {
+        "quote": "Good communication is as stimulating as black coffee, and just as hard to sleep after.",
+        "attr": "Anne Morrow Lindbergh",
+        "work": "Gift from the Sea"
+    },
+    {
+        "quote": "I like offending people because I think people who get offended should be offended.",
+        "attr": "Linus Torvalds",
+        "work": "Q&A at Aalto University"
+    },
+    {
+        "quote": "Real quality means making sure that people are proud of the code they write, that they're involved and taking it personally.",
+        "attr": "Linus Torvalds",
+        "work": "Interview with Linus Torvalds of The Linux Foundation"
+    },
+    {
+        "quote": "Only wimps use tape backup: real men just upload their important stuff on ftp, and let the rest of the world mirror it ;)",
+        "attr": "Linus Torvalds",
+        "work": "linux-kernel mailing list"
+    },
+    {
+        "quote": "The joy of losing consists in this: Where there are no expectations, there is no disappointment.",
+        "attr": "Charles Krauthammer",
+        "work": "The Joys of Losing"
+    },
+    {
+        "quote": "Wise men ne'er sit and wail their loss,<br>But cheerly seek how to redress their harms.",
+        "attr": "William Shakespeare",
+        "work": "Henry VI, Part 3"
+    },
+    {
+        "quote": "Il y a jusque dans les exercices des enfants ce qui pourrait arrêter le plus grand Mathématicien.\n\n [Even in the games of children there are things to interest the greatest mathematician.]",
+        "attr": "Gottfried Wilhelm von Leibniz",
+        "work": "Die philosophischen Schriften"
+    },
+    {
+        "quote": "Music is a hidden arithmetic exercise of the soul, which does not know that it is counting.",
+        "attr": "Gottfried Wilhelm von Leibniz",
+        "work": "Letter to Christian Goldbach"
+    },
+    {
+        "quote": "And as every present state of a simple substance is naturally a consequence of its preceding state, so its present is pregnant with its future.",
+        "attr": "Gottfried Wilhelm von Leibniz",
+        "work": "Monadology"
+    },
+    {
+        "quote": "Life is bristling with thorns, and I know no other remedy than to cultivate one's garden.",
+        "attr": "Voltaire",
+        "work": "Letter to Pierre-Joseph Luneau de Boisjermain"
+    },
+    {
+        "quote": "The perfect is the enemy of the good.",
+        "attr": "Voltaire",
+        "work": "La Bégueule"
+    },
+    {
+        "quote": "I am very fond of truth, but not at all of martyrdom.",
+        "attr": "Voltaire",
+        "work": "Letter to Jean le Rond d'Alembert"
+    },
+    {
+        "quote": "If this is the best of possible worlds, what then are the others?",
+        "attr": "Voltaire",
+        "work": "Candide"
+    },
+    {
+        "quote": "The man, who in a fit of melancholy, kills himself today, would have wished to live had he waited a week.",
+        "attr": "Voltaire",
+        "work": "Cato"
+    },
+    {
+        "quote": "Well done is better than well said.",
+        "attr": "Benjamin Franklin",
+        "work": "Poor Richard’s Almanack"
+    },
+    {
+        "quote": "Your good fortune is not to need good fortune.",
+        "attr": "Seneca the Younger",
+        "work": "On Providence"
+    },
+    {
+        "quote": "Fashion fades, only style remains the same.",
+        "attr": "Coco Chanel",
+        "work": "Architectural Digest"
+    },
+    {
+        "quote": "Simplicity is the keynote of all true elegance.",
+        "attr": "Coco Chanel",
+        "work": "interview in Harper's Bazaar"
+    },
+    {
+        "quote": "Simplicity is prerequisite for reliability.",
+        "attr": "Edsger W. Dijkstra",
+        "work": "How do we tell truths that might hurt?"
+    },
+    {
+        "quote": "A picture may be worth a thousand words, a formula is worth a thousand pictures.",
+        "attr": "Edsger W. Dijkstra",
+        "work": "A first exploration of effective reasoning"
+    },
+    {
+        "quote": "Kein Band hält so fest wie dieses.\n\n[No ribbon holds as well as this one.] (in reference to student sashes)",
+        "attr": "Otto von Bismarck",
+        "work": "Geschichte des Corps Hannovera zu Göttingen"
+    },
+    {
+        "quote": "Wer als Studierender seine Zeit und sein Volk kennenlernen will, muß Farbenstudent werden.\n\n[If a student wishes to understand his time and his people, he must become a student wearing (fraternity) colors.]",
+        "attr": "Friedrich Nietzsche",
+        "work": "Letter to Carl von Gersdorff"
+    },
+    {
+        "quote": "Farbe tragen heißt Farbe bekennen!\n\n[Wearing colors (of a fraternity) means showing colors!]",
+        "attr": "Carl Rabl",
+        "work": "Festschrift zur 100-Semesterfeier, Prag"
+    },
+    {
+        "quote": "so much depends  \nupon\n\na red wheel  \nbarrow\n\nglazed with rain  \nwater\n\nbeside the white  \nchickens.",
+        "attr": "William Carlos Williams",
+        "work": "Spring and All"
+    },
+    {
+        "quote": "Oh, these three worn words  \nOh, that we whisper  \nLike the rubbing hands  \nOf tourists in Verona",
+        "attr": "Alt-J",
+        "work": "3WW"
+    },
+    {
+        "quote": "Sex: the thing that takes up the least amount of time and causes the most amount of trouble.",
+        "attr": "John Barrymore",
+        "work": "Volume 2 of Famous Quotes"
+    },
+    {
+        "quote": "I think that sex is necessary and bankers are not.",
+        "attr": "Lancelot Hogben",
+        "work": "Twentieth Century Authors"
+    },
+    {
+        "quote": "Sex is an antidote to death, or at least, an adequate placebo.",
+        "attr": "Tim Pratt",
+        "work": "Cup and Table"
+    },
+    {
+        "quote": "Once… in the wilds of Afghanistan, I lost my corkscrew, and we were forced to live on nothing but food and water for days.",
+        "attr": "W. C. Fields",
+        "work": "My Little Chickadee"
+    },
+    {
+        "quote": "Candy is dandy\n\nBut liquor is quicker.",
+        "attr": "Ogden Nash",
+        "work": "Reflection on Ice-Breaking"
+    },
+    {
+        "quote": "Whenever you feel like criticizing any one, he told me, just remember that all the people in this world haven’t had the advantages that you’ve had.",
+        "attr": "Nick Carraway’s Father",
+        "work": "The Great Gatsby"
+    },
+    {
+        "quote": "Power doesn't have to show off. Power is confident, self-assuring, self-starting and self-stopping, self-warming and self-justifying. When you have it, you know it.",
+        "attr": "Ralph Ellison",
+        "work": "Invisible Man"
+    },
+    {
+        "quote": "Play the game, but don't believe in it.",
+        "attr": "Ralph Ellison",
+        "work": "Invisible Man"
+    },
+    {
+        "quote": "Perhaps everyone loved someone; I didn't know, I couldn't give much thought to love; in order to travel far you had to be detached, and I had a long road back to the campus before me.",
+        "attr": "Ralph Ellison",
+        "work": "Invisible Man"
+    },
+    {
+        "quote": "I don't care if it's a sad good-by or a bad good-by, but when I leave a place I like to know I'm leaving it. If you don't, you feel even worse.",
+        "attr": "Holden Caulfield",
+        "work": "The Catcher in the Rye"
+    },
+    {
+        "quote": "I'd bet a thousand bucks that Jesus never sent old Judas to Hell. I still would, too, if I had a thousand bucks. I think any one of the Disciples would've sent him to Hell and all — and fast, too — but I'll bet anything Jesus didn't do it.",
+        "attr": "Holden Caulfield",
+        "work": "The Catcher in the Rye"
+    },
+    {
+        "quote": "The mark of the immature man is that he wants to die nobly for a cause, while the mark of a mature man is that he wants to live humbly for one.",
+        "attr": "Mr. Antolini",
+        "work": "The Catcher in the Rye"
+    },
+    {
+        "quote": "Yossarian was a lead bombardier who had been demoted because he no longer gave a damn whether he missed or not. He had decided to live forever or die in the attempt, and his only mission each time he went up was to come down alive.",
+        "attr": "Joseph Heller",
+        "work": "Catch-22"
+    },
+    {
+        "quote": "That men would die was a matter of necessity; which men would die, though, was a matter of circumstance, and Yossarian was willing to be the victim of anything but circumstance.",
+        "attr": "Joseph Heller",
+        "work": "Catch-22"
+    },
+    {
+        "quote": "Some men are born mediocre, some men achieve mediocrity, and some men have mediocrity thrust upon them.",
+        "attr": "Joseph Heller",
+        "work": "Catch-22"
+    },
+    {
+        "quote": "What is a country? A country is a piece of land surrounded on all sides by boundaries, usually unnatural. Englishmen are dying for England, Americans are dying for America, Germans are dying for Germany, Russians are dying for Russia. There are now fifty or sixty countries fighting in this war. Surely so many countries can't all be worth dying for.Anything worth living for, said Nately, is worth dying for.And everything worth dying for, answered the sacrilegious old man, is certainly worth living for.",
+        "attr": "Joseph Heller",
+        "work": "Catch-22"
+    },
+    {
+        "quote": "There are many parts of my youth that I'm not proud of… there were loose threads… untidy parts of me that I would like to remove. But when I pulled on one of those threads… it unraveled the tapestry of my life.",
+        "attr": "Jean-Luc Picard",
+        "work": "Star Trek: The Next Generation"
+    },
+    {
+        "quote": "We're all scared. It's the human condition. Why do you thinks I put on this tough guy façade? Now beats it!",
+        "attr": "Sal",
+        "work": "Futurama"
+    },
+    {
+        "quote": "He, who, from zone to zone,  \nGuides through the boundless sky thy certain flight,  \nIn the long way that I must trace alone,  \nWill lead my steps aright.",
+        "attr": "William Cullen Bryant",
+        "work": "To a Waterfowl"
+    },
+    {
+        "quote": "Beaten paths are for beaten men.",
+        "attr": "Eric Johnston",
+        "work": "Braude's Second Encyclopedia of Stories, Quotes, and Anecdotes"
+    },
+    {
+        "quote": "But what is grief, if not love persevering?",
+        "attr": "Vision",
+        "work": "WandaVision"
+    },
+    {
+        "quote": "The heart which grief hath cankered<br>Hath one unfailing remedy - the Tankard.",
+        "attr": "Charles Stuart Calverley",
+        "work": "Beer"
+    },
+    {
+        "quote": "Nullus dolor est quem non longinquitas temporis minuat ac molliat.\n\n[There is no grief which time does not lessen and soften.]",
+        "attr": "Cicero",
+        "work": "Writings"
+    },
+    {
+        "quote": "One often calms one's grief by recounting it.",
+        "attr": "Pierre Corneille",
+        "work": "Polyeucte"
+    },
+    {
+        "quote": "Grief is the price we pay for love.",
+        "attr": "Elizabeth II",
+        "work": "Message from the Queen, read by the British ambassador to Washington, Sir Christopher Meyer, St Thomas's Episcopal Church on Fifth Avenue"
+    },
+    {
+        "quote": "Ponamus nimios gemitus: flagrantior æquo  \nNon debet dolor esse viri, nec vulnere major.\n\n[Let us moderate our sorrows. The grief of a man should not exceed proper bounds, but be in proportion to the blow he has received.]",
+        "attr": "Juvenal",
+        "work": "Satires"
+    },
+    {
+        "quote": "Grief &mdash; unlike sex, music, and cheating at cards &mdash; was not a skill that could be honed by practice.",
+        "attr": "Tim Pratt",
+        "work": "Cup and Table"
+    },
+    {
+        "quote": "<i>Curæ leves loquuntur, ingentes stupent.</i>[Light sorrows are communicative, great ones silent.]",
+        "attr": "Seneca the Younger",
+        "work": "Hippolytus"
+    },
+    {
+        "quote": "<i>Levis est dolor qui capere consilium potest.</i>[That grief is light which can take counsel.]",
+        "attr": "Seneca the Younger",
+        "work": "Medea"
+    },
+    {
+        "quote": "<i>Magnus sibi ipse non facit finem dolor.</i>[Great grief does not of itself put an end to itself.]",
+        "attr": "Seneca the Younger",
+        "work": "Troades"
+    },
+    {
+        "quote": "This grief is crowned with consolation",
+        "attr": " your old smock brings forth a new petticoat.",
+        "work": "William Shakespeare"
+    },
+    {
+        "quote": "The only thing I regret about my past is the length of it. If I had to live my life again, I'd make the same mistakes, only sooner.",
+        "attr": "Tallulah Bankhead",
+        "work": "Tallulah: My Autobiography"
+    },
+    {
+        "quote": "Of all fruitless errands, sending a tear to look after a day that is gone is the most fruitless.",
+        "attr": "Charles Dickens",
+        "work": "Nicholas Nickleby"
+    },
+    {
+        "quote": "I knew that what I had felt was envy or regret, not for something lost but for something never achieved.",
+        "attr": "Dr. Theodore Faron",
+        "work": "The Children of Men"
+    },
+    {
+        "quote": "<i>Mieux vaut faire, et se repentir / Que se repentir, et rien faire</i>[It's better to act and to regret / Than to regret not to have acted]",
+        "attr": "Mellin de Saint-Gelais",
+        "work": "Quatrains"
+    },
+    {
+        "quote": "<i>Mes malheurs sont comblés, mais ma vertu me reste.</i>[My sorrows are overwhelming, but my virtue is left to me.]",
+        "attr": "Jean-François Ducis",
+        "work": "Hamlet"
+    },
+    {
+        "quote": "<i>Melior est ira risu quia per tristitiam vultus corrigitur animus delinquentis</i>[Anger is better than laughter, because the heart of the offender is corrected by the sadness of the countenance]",
+        "attr": "Eclessiastes 7:3",
+        "work": "Vulgate Bible"
+    },
+    {
+        "quote": "Past sorrows, let us moderately lament them;<br>For those to come, seek wisely to prevent them.",
+        "attr": "John Webster",
+        "work": "The Duchess of Malfi"
+    },
+    {
+        "quote": "<i>In omni adversitate fortunæ, infelicissimum genus est infortunii fuisse felicem.</i>[In every adversity of fortune, to have been happy is the most unhappy kind of misfortune.]",
+        "attr": "Boethius",
+        "work": "De Consolatione Philosophiæ"
+    },
+    {
+        "quote": "The path of sorrow, and that path alone<br>Leads to the land where sorrow is unknown:<br>No traveller ever reached that blessed abode,<br>Who found not thorns and briers in his road.",
+        "attr": "William Cowper",
+        "work": "To an Afflicted Protestant Lady."
+    },
+    {
+        "quote": "Nessun maggior dolore  \nChe ricordarsi del tempo felice  \nNella miseria.\n\n[There is no greater sorrow<br>Than to be mindful of the happy time<br>In misery.]",
+        "attr": "Dante Alighieri",
+        "work": "Inferno"
+    },
+    {
+        "quote": "Ach! aus dem Glück entwickelt oft sich Schmerz.  \n[Alas! sorrow from happiness is oft evolved.]",
+        "attr": "Johann Wolfgang von Goethe",
+        "work": "Die Natürliche Tochter"
+    },
+    {
+        "quote": "Wer nie sein Brod mit Thränen ass,<br>Wer nicht die kummervollen Nächte<br>Auf seinem Bette weinend sass,<br>Der kennt euch nicht, ihr himmlischen Mächte.[Who never ate his bread in sorrow,<br>Who never spent the darksome hours<br>Weeping, and watching for the morrow,—<br>He knows ye not, ye gloomy Powers.]",
+        "attr": "Johann Wolfgang von Goethe",
+        "work": "Wilhelm Meisters Lehrjahre"
+    },
+    {
+        "quote": "I walked a mile with Pleasure;<br>She chattered all the way,<br>But left me none the wiser<br>For all she had to say.I walked a mile with Sorrow<br>And ne'er a word said she;<br>But, oh, the things I learned from her<br>When Sorrow walked with me.",
+        "attr": "Robert Browning Hamilton",
+        "work": "Along the Road"
+    },
+    {
+        "quote": "<i>Die Leiden sind wie die Gewitterwolken; in der Ferne sehen sie schwartz aus, über uns kaum grau.</i>[Sorrows are like thunderclouds; in the distance they look black, over our heads scarcely gray.]",
+        "attr": "Jean Paul",
+        "work": "Hesperus"
+    },
+    {
+        "quote": "<i>Kurz ist der Schmerz, und ewig ist die Freude!</i>[Brief is sorrow, and endless is joy.]",
+        "attr": "Friedrich Schiller",
+        "work": "Die Jungfrau von Orleans"
+    },
+    {
+        "quote": "Each time we love,<br>We turn a nearer and a broader mark<br>To that keen archer, Sorrow, and he strikes.",
+        "attr": "Alexander Smith",
+        "work": "A Boy’s Dream"
+    },
+    {
+        "quote": "Don't commit suicide, because you might change your mind two weeks later.",
+        "attr": "Art Buchenwald",
+        "work": "Too Soon to Say Goodbye"
+    },
+    {
+        "quote": "The man who kills a man, kills a man. The man who kills himself, kills all men. As far as he is concerned he wipes out the world.",
+        "attr": "G. K. Chesterson",
+        "work": "Orthodoxy"
+    },
+    {
+        "quote": "What a silly thing to do, he thought. What a goddam silly thing to do. You wont even be there to watch their faces.",
+        "attr": "James Jones",
+        "work": "From Here to Eternity"
+    },
+    {
+        "quote": "Suicide is a huge folly, because it places the committer of it in an infinitely worse position than he was in under the conditions from which he foolishly hoped to escape. It is not death. It is only a leaving of one well-known house in familiar surroundings to go into a new place where terror and despair alone have place.",
+        "attr": "William Quan Judge",
+        "work": "Theosophical Articles"
+    },
+    {
+        "quote": "Suicide kills two people. That's what it's for.",
+        "attr": "Arthur Miller",
+        "work": "After the Fall"
+    },
+    {
+        "quote": "We cannot tear out a single page from our life, but we can throw the whole book into the fire.",
+        "attr": "George Sand",
+        "work": "Mauprat"
+    },
+    {
+        "quote": "About 90% of this world's problems are caused by little words that come in pairs. We're healthy and we're happy… Yet when anybody asks us, we say not bad.",
+        "attr": "Steve McBride",
+        "work": "Shameless"
+    },
+    {
+        "quote": "One cannot fight what one does not know.",
+        "attr": "Rollo May",
+        "work": "The Meaning of Anxiety"
+    },
+    {
+        "quote": "Tell me thy company and I will tell thee what thou art.",
+        "attr": "Miguel de Cervantes",
+        "work": "Don Quixote"
+    },
+    {
+        "quote": "Why does a man who is truly in love insist that this relationship must continue and be lifelong? Because life is pain and the enjoyment of love is an anesthetic. Who would want to wake up halfway through an operation?",
+        "attr": "Cesare Pavese",
+        "work": "This Business of Living"
+    },
+    {
+        "quote": "It is stupid to grieve for the loss of a girl friend: you might never have met her, so you can do without her.",
+        "attr": "Cesare Pavese",
+        "work": "This Business of Living"
+    },
+    {
+        "quote": "How can you have confidence in a woman who will <em>not</em> risk entrusting her whole life to you, day and night?",
+        "attr": "Cesare Pavese",
+        "work": "This Business of Living"
+    },
+    {
+        "quote": "<i>Ante, inquit, circumspiciendum est, cum quibos edas et bibas, quam quid edas et bibas.</i>[He says that you should rather have regard to the company with whom you eat and drink, than to what you eat and drink.]",
+        "attr": "Seneca the Younger",
+        "work": "Epistulae Morales ad Lucilium"
+    },
+    {
+        "quote": "I feel that if I only convince people that the other side is a reasonable position to take, even if they themselves don’t take it, then I’ve been a success.",
+        "attr": "Aaron Swartz",
+        "work": "UTI Interview"
+    },
+    {
+        "quote": "There is always something ridiculous about the emotions of people whom one has ceased to love.",
+        "attr": "Oscar Wilde",
+        "work": "The Picture of Dorian Gray"
+    },
+    {
+        "quote": "Starved for affection, terrified of abandonment, I began to wonder if sex was really just an excuse to look deeply into another human being's eyes.",
+        "attr": "Douglas Coupland",
+        "work": "Generation X"
+    },
+    {
+        "quote": "...after you're dead and buried and floating around whatever place we go to, what's going to be your best memory of Earth? ... What moment for you defines what it's like to be alive on this planet?",
+        "attr": "Douglas Coupland",
+        "work": "Generation X"
+    },
+    {
+        "quote": "I have this feeling watching Jasmine &mdash; that as you grow older, it becomes harder to feel 100 percent happy; you learn all the things that can go wrong; you become superstitious about tempting fate, about bringing disaster upon your life by accidentally feeling too good one day.",
+        "attr": "Douglas Coupland",
+        "work": "Shampoo Planet"
+    },
+    {
+        "quote": "Your inability to achieve solitude makes you settle for substandard relationships.",
+        "attr": "Douglas Coupland",
+        "work": "Shampoo Planet"
+    },
+    {
+        "quote": "You pretend to be more eccentric than you actually are because you worry you are an interchangeable cog.",
+        "attr": "Douglas Coupland",
+        "work": "Shampoo Planet"
+    },
+    {
+        "quote": "You wait for fate to bring about the changes in life which you should be bringing about yourself.",
+        "attr": "Douglas Coupland",
+        "work": "Shampoo Planet"
+    },
+    {
+        "quote": "I'm trying to feel more well adjusted than I really am, which is, I guess, the human condition.",
+        "attr": "Douglas Coupland",
+        "work": "Microserfs"
+    },
+    {
+        "quote": "People who advocate simplicity have money in the bank; the money came first, not the simplicity.",
+        "attr": "Douglas Coupland",
+        "work": "JPod"
+    },
+    {
+        "quote": "I have this theory about smart people. If you’re smart, you’re either the only person in your family who’s smart, or everybody in the family is smart. No in-between.I considered this. I think I come from the everybody’s smart category. But they don’t apply their smarts to… larger picture pursuits. That includes me.",
+        "attr": "Douglas Coupland",
+        "work": "JPod"
+    },
+    {
+        "quote": "If you can control your emotions, chances are you don’t have too many.",
+        "attr": "Douglas Coupland",
+        "work": "JPod"
+    },
+    {
+        "quote": "A girl can’t control who will and who won’t fall in love with her, Ethan. And sometimes, when a nuisance person falls in love with you, it can be awfully… awkward.",
+        "attr": "Douglas Coupland",
+        "work": "JPod"
+    },
+    {
+        "quote": "The problem is, after a week of intense googling, we’ve started to burn out on knowing the answer to everything. God must feel that way all the time. I think people in the year 2020 are going to be nostalgic for the sensation of feeling clueless.",
+        "attr": "Douglas Coupland",
+        "work": "JPod"
+    },
+    {
+        "quote": "Being alive is just a brief technicality.",
+        "attr": "Douglas Coupland",
+        "work": "Generation A"
+    },
+    {
+        "quote": "Why do most of us make such boring choices for the stories of our lives? How hard can it be to change gears and say, You know what? Instead of inventing and telling stories, I’m going to make my life a more interesting story.",
+        "attr": "Douglas Coupland",
+        "work": "Generation A"
+    },
+    {
+        "quote": "We have to count. I want to be part of history. I want a Wikipedia page. I want Google hits. I don’t want to be just a living organism that comes and goes and leaves no trace on this planet.",
+        "attr": "Douglas Coupland",
+        "work": "Player One"
+    },
+    {
+        "quote": "Life need not be a story, but it does need to be an adventure.",
+        "attr": "Douglas Coupland",
+        "work": "Player One"
+    },
+    {
+        "quote": "Now a recipe is a lot like a computer program. A computer program's a lot like a recipe: a series of steps to be carried out to get some result that you want. So it's just as natural to do those same things with computer programs — hand a copy to your friend. Make changes in it because the job it was written to do isn't exactly what you want. It did a great job for somebody else, but your job is a different job. And after you've changed it, that's likely to be useful for other people. Maybe they have a job to do that's like the job you do. So they ask, Hey, can I have a copy? Of course, if you're a nice person, you're going to give a copy. That's the way to be a decent person.",
+        "attr": "Richard Stallman",
+        "work": "Free Software: Freedom and Cooperation"
+    },
+    {
+        "quote": "The fact that we're all connected, the fact that we've got this information space — does change the parameters",
+        "attr": "Tim-Berners Lee",
+        "work": "developersWorks Interviews: Tim Berners-Lee"
+    },
+    {
+        "quote": "When I invented the web, I didn't have to ask anyone's permission. Now, hundreds of millions of people are using it freely. I am worried that that is going end in the USA. … Democracy depends on freedom of speech. Freedom of connection, with any application, to any party, is the fundamental social basis of the Internet, and, now, the society based on it.",
+        "attr": "Tim-Berners Lee",
+        "work": "Net Neutrality: This is Serious"
+    },
+    {
+        "quote": "We have to remember that what we observe is not nature herself, but nature exposed to our method of questioning.",
+        "attr": "Werner Heisenberg",
+        "work": "Physics and Philosophy"
+    },
+    {
+        "quote": "Both narrow-minded science and narrow-minded theology stand opposed to free will. …The philosophical problem of chance and free will are closely related. The Socinian theology deals with both together. Free will is the coupling of a human mind to otherwise random processes inside the brain. God's will is the coupling of a universal mind to otherwise random processes in the world at large.",
+        "attr": "Freeman Dyson",
+        "work": "Infinite in All Directions"
+    },
+    {
+        "quote": "<i>Niemand ist mehr Sklave, als der sich für frei hält, ohne es zu sein.</i>[None are more hopelessly enslaved than those who falsely believe they are free.]",
+        "attr": "Johann Wolfgang von Goethe",
+        "work": "Elective Affinities"
+    },
+    {
+        "quote": "I said: Then in reality I had little choice.Let us say that your character has already determined your choice.",
+        "attr": "Michael Moorcock",
+        "work": "The War Hound and the World’s Pain"
+    },
+    {
+        "quote": "You think shuffling a deck of cards gives it free will? Kai shakes his head. Nobody’s believed that shit for a hundred years. Until someone comes up with a neuron that fires without being poked, we’re all just &mdash; reacting.",
+        "attr": "Peter Watts",
+        "work": "Hotshot"
+    },
+    {
+        "quote": "The curve described by a single molecule of air or vapor is regulated in a manner just as certain as the planetary orbits",
+        "attr": " the only difference between them that which comes from our ignorance.",
+        "work": "Pierre-Simon Laplace"
+    },
+    {
+        "quote": "This is a funny question: we all know what it means to do something. But the problem is, if the act wasn't determined in advance, by your desires, beliefs, and personality, among other things, it seems to be something that just happened, without any explanation. And in that case, how was it your doing?",
+        "attr": "Thomas Nagel",
+        "work": "What Does It All Mean?"
+    },
+    {
+        "quote": "Men believe themselves to be free, simply because they are conscious of their actions, and unconscious of the causes whereby those actions are determined.",
+        "attr": "Baruch Spinoza",
+        "work": "Ethics"
+    },
+    {
+        "quote": "If man were not free, then he could not conceive of causality at all, and could not form any concept of it. Insight into lawfulness is already freedom from it.",
+        "attr": "Otto Weininger",
+        "work": "Collected Aphorisms"
+    },
+    {
+        "quote": "There is a great satisfaction in building good tools for other people to use.",
+        "attr": "Freeman Dyson",
+        "work": "Disturbing the Universe"
+    },
+    {
+        "quote": "If we had a reliable way to label our toys good and bad, it would be easy to regulate technology wisely. But we can rarely see far enough ahead to know which road leads to damnation. Whoever concerns himself with big technology, either to push it forward or to stop it, is gambling in human lives.",
+        "attr": "Freeman Dyson",
+        "work": "Disturbing the Universe"
+    },
+    {
+        "quote": "A good scientist is a person with original ideas. A good engineer is a person who makes a design that works with as few original ideas as possible. There are no prima donnas in engineering.",
+        "attr": "Freeman Dyson",
+        "work": "Disturbing the Universe"
+    },
+    {
+        "quote": "I am content to be one of the multitude of Christians who do not care much about the doctrine of the Trinity or the historical truth of the gospels. Both as a scientist and as a religious person, I am accustomed to living with uncertainty. Science is exciting because it is full of unsolved mysteries, and religion is exciting for the same reason.",
+        "attr": "Freeman Dyson",
+        "work": "Progress In Religion"
+    },
+    {
+        "quote": "It appears that mind, as manifested by the capacity to make choices, is to some extent inherent in every atom. The universe as a whole is also weird, with laws of nature that make it hospitable to the growth of mind. I do not make any clear distinction between mind and God. God is what mind becomes when it has passed beyond the scale of our comprehension.",
+        "attr": "Freeman Dyson",
+        "work": "Progress In Religion"
+    },
+    {
+        "quote": "We stand, in a manner of speaking, midway between the unpredictability of atoms and the unpredictability of God.",
+        "attr": "Freeman Dyson",
+        "work": "Progress In Religion"
+    },
+    {
+        "quote": "The great question for our time is, how to make sure that the continuing scientific revolution brings benefits to everybody rather than widening the gap between rich and poor. To lift up poor countries, and poor people in rich countries, from poverty, to give them a chance of a decent life, technology is not enough. Technology must be guided and driven by ethics if it is to do more than provide new toys for the rich.",
+        "attr": "Freeman Dyson",
+        "work": "Progress In Religion"
+    },
+    {
+        "quote": "The monuments of wit survive the monuments of power.",
+        "attr": "Francis Bacon",
+        "work": "Essex's Device"
+    },
+    {
+        "quote": "<i>Es kann mich doch niemand daran hindern, jeden Tag klüger zu werden.</i>[I reserve the right to be smarter today than I was yesterday.]",
+        "attr": "Konrad Adenauer",
+        "work": "Loggers' Handbook Vol. 36"
+    },
+    {
+        "quote": "<i>Man darf nie vergessen: Jeder Baum wird klein gepflanzt!</i>[One must never forget, every tree starts small!]",
+        "attr": "Konrad Adenauer",
+        "work": "to Anneliese Poppinga"
+    },
+    {
+        "quote": "<i>Alles Negative wird gelesen und bleibt haften, aber alles Positive wird als selbstverständlich hingenommen.</i>[Everything negative is read and sticks, but everything positive is taken for granted.]",
+        "attr": "Konrad Adenauer",
+        "work": "Speech to CDU"
+    },
+    {
+        "quote": "<i>Mein sogenannter Optimismus ist nichts anderes als das Vertrauen in die Kraft der Notwendigkeiten.</i>[My so-called optimism is nothing other than trust in the power of necessity.]",
+        "attr": "Konrad Adenauer",
+        "work": "Interview with Friedlaender"
+    },
+    {
+        "quote": "<i>Wir sind alle Sünder. Und das beste ist, die Sünden aufrichtig zu bereuen, dann aber auch wirklich zu vergessen.</i>[We are all sinners. And the best thing is to sincerely regret your sins, but then really forget them.]",
+        "attr": "Konrad Adenauer",
+        "work": "Auf den Spuren Konrad Adenauers durch Köln"
+    },
+    {
+        "quote": "<i>Keiner ist im Besitze der alleinigen Wahrheit. Nur durch Rede und Gegenrede und durch gegenseitigen Austausch kann man hoffen, doch der Wahrheit möglichst nahe zu kommen.</i>[No one is in possession of the sole truth. Only through speech and objection and through mutual exchange can one hope to come as close as possible to the truth.]",
+        "attr": "Konrad Adenauer",
+        "work": "Speech to CDU"
+    },
+    {
+        "quote": "<i>Die Erfahrungen sind die Samenkörner, aus denen die Klugheit emporwächst.</i>[Experience is the seed from which wisdom grows.]",
+        "attr": "Konrad Adenauer",
+        "work": "Interview on Welt am Sonntag"
+    },
+    {
+        "quote": "I used to be with it, but then they changed what it was, and now what I’m with isn’t it. And what’s it seems weird and scary to me.",
+        "attr": "Abraham Simpson",
+        "work": "The Simpsons"
+    },
+    {
+        "quote": "I, for one, welcome our new insect overlords.",
+        "attr": "Kent Brockman",
+        "work": "The Simpsons"
+    },
+    {
+        "quote": "It takes two to lie: one to lie and one to listen.",
+        "attr": "Homer Simpson",
+        "work": "The Simpsons"
+    },
+    {
+        "quote": "I didn’t think it was physically possible, but this both sucks and blows.",
+        "attr": "Bart Simpson",
+        "work": "The Simpsons"
+    },
+    {
+        "quote": "Loneliness and cheeseburgers are a dangerous mix.",
+        "attr": "Comic Book Guy",
+        "work": "The Simpsons"
+    },
+    {
+        "quote": "Don’t blame me, I voted for Kodos.",
+        "attr": "Homer Simpson",
+        "work": "The Simpsons"
+    },
+    {
+        "quote": "Don’t make me run. I’m full of chocolate!",
+        "attr": "Üter Zorker",
+        "work": "The Simpsons"
+    },
+    {
+        "quote": "I think women and sea men don’t mix.",
+        "attr": "Waylon Smithers",
+        "work": "The Simpsons"
+    },
+    {
+        "quote": "She's like a Milk Dud, Lis. Sweet on the outside, poison on the inside.",
+        "attr": "Bart Simpson",
+        "work": "The Simpsons"
+    },
+    {
+        "quote": "Why do I get the feeling that someday I'll be describing this to a psychiatrist?",
+        "attr": "Lisa Simpson",
+        "work": "The Simpsons"
+    },
+    {
+        "quote": "I learned that beneath my goody two-shoes lie some very dark socks.",
+        "attr": "Lisa Simpson",
+        "work": "The Simpsons"
+    },
+    {
+        "quote": "Well I can't say for sure, but as a Christian, I assume the worst.",
+        "attr": "Ned Flanders",
+        "work": "The Simpsons"
+    },
+    {
+        "quote": "Call me Delta Airlines, because I can't handle all your extra baggage.",
+        "attr": "Ned Flanders",
+        "work": "The Simpsons"
+    },
+    {
+        "quote": "Please don’t go, please don’t goI love you so, I love you soPlease break my heart, hey",
+        "attr": "Alt-J",
+        "work": "Breezeblocks"
+    },
+    {
+        "quote": "Triangles are my favorite shape.Three points where two lines meet, toe to toe, back to back.Let’s go my love; it’s very late.‘Til morning comes, let’s tessellate.",
+        "attr": "Alt-J",
+        "work": "Tesselate"
+    },
+    {
+        "quote": "Given the choice between slim and none, I’ll take slim any day.",
+        "attr": "William T. Riker",
+        "work": "Star Trek: The Next Generation"
+    },
+    {
+        "quote": "Congratulations, universe. You win.",
+        "attr": "Jim Halpert",
+        "work": "The Office"
+    },
+    {
+        "quote": "Absolutely have to have dark in order to have light. Gotta have opposites – dark and light, light and dark – continually in a painting. If you have light on light, you have nothing. If you have dark on dark, you basically have nothing.You know, it's like in life: you've gotta have a little sadness once in a while, so you know when the good times come. I'm waiting on the good times now.",
+        "attr": "Bob Ross",
+        "work": "The Joy of Painting"
+    },
+    {
+        "quote": "I must not fear.Fear is the mind-killer.Fear is the little-death that brings total obliteration.I will face my fear.I will permit it to pass over me and through me.And when it has gone past, I will turn the inner eye to see its path.Where the fear has gone there will be nothing. Only I will remain.",
+        "attr": "Litany Against Fear",
+        "work": "Dune"
+    },
+    {
+        "quote": "So I just made a choice. I would let the fear in, let it take over, let it do it’s thing. But only for five seconds. That’s all I was going to give it.",
+        "attr": "Jack Shephard",
+        "work": "Lost"
+    },
+    {
+        "quote": "A leader can’t lead ’til he knows where he’s going.",
+        "attr": "John Locke",
+        "work": "Lost"
+    },
+    {
+        "quote": "I’m a complex guy, sweetheart.",
+        "attr": "James Sawyer Ford",
+        "work": "Lost"
+    },
+    {
+        "quote": "You see this little hole? This moth’s just about to emerge. It’s in there right now, struggling. It’s digging it’s way through the thick hide of the cocoon. Now, I could help it – take my knife, gently widen the opening, and the moth would be free – but it would be too weak to survive. Struggle is nature’s way of strengthening it.",
+        "attr": "John Locke",
+        "work": "Lost"
+    },
+    {
+        "quote": "You know maybe if you eat more comfort food you wouldn’t have to go around shooting people.",
+        "attr": "Hugo Hurley Reyes",
+        "work": "Lost"
+    },
+    {
+        "quote": "Here’s to the crazy ones.<br>The misfits.<br>The rebels.<br>The troublemakers.The round pegs in the square holes.<br>The ones who see things differently.<br>They’re not fond of rules.<br>And they have no respect for the status quo.<br>You can quote them, disagree with them, glorify or vilify them.<br>But the only thing you can’t do is ignore them.<br>Because they change things.<br>They push the human race forward.<br>And while some may see them as the crazy ones,<br>We see genius.<br>Because the people who are crazy enough to think<br>they can change the world,<br>Are the ones who do.",
+        "attr": "Apple",
+        "work": "Think different Campaign"
+    },
+    {
+        "quote": "You've got suckers' luck have you given up?<br>\nDoes it feel like a trial?<br>\nDoes it trouble your mind the<br>\nWay you trouble mine?<br>\nDoes it feel like a trial?<br>\nDid you fall for the<br>\nSame empty answers again?",
+        "attr": "The National",
+        "work": "Exile Vilify"
+    }
+]
