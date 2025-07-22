@@ -1,0 +1,16 @@
+{{ $file := .Get 0 }}
+{{ with .Page.Resources.Get $file }}
+  {{ $data := . | transform.Unmarshal }}
+  {{ $daysSinceEpoch := math.Div (time.Now.Sub (time.AsTime "1970-01-01T00:00:00Z")).Hours 24 }}
+  {{ $i := math.Mod (math.Sub $daysSinceEpoch 1) (len $data) }}
+  {{ with index $data $i }}
+    {{ $quote := index . "quote" }}
+    {{ $author := index . "attr" }}
+    <blockquote>
+      <p>{{ $quote | markdownify }}</p>
+    </blockquote>
+    <p style="text-align: right"> &mdash; {{ $author }}</p>
+  {{ end }}
+{{ else }}
+  {{ errorf "The %q shortcode was unable to find %s. See %s" $.Name $file $.Position }}
+{{ end }}

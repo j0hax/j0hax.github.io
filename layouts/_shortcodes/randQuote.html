@@ -1,10 +1,9 @@
 {{ $file := .Get 0 }}
 {{ with .Page.Resources.Get $file }}
   {{ $data := . | transform.Unmarshal }}
-    {{ range sort $data "quote" }}
+    {{ with index ($data | shuffle) 0 }}
       {{ $quote := index . "quote" }}
       {{ $author := index . "attr" }}
-      <hr>
       <blockquote>
         <p>{{ $quote | markdownify }}</p>
       </blockquote>

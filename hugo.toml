@@ -31,14 +31,8 @@ subtitle = "Howdy!"
 katex = true
 
 [params.about]
-title = "Personal Website"
-description = '''
->*Omnibus ex nihilo ducendis sufficit unum*
-
->In order to produce everything out of nothing one [thing] is sufficient.
-
---- G. W. Leibniz, in regards to his binary system.
-'''
+title = "Quote of the Day"
+description = '{{< motd "quotes.json" >}}'
 
 [[params.socialLinks]]
 title = "GitHub"
