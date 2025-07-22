@@ -195,12 +195,13 @@
         "work": "The Joys of Losing"
     },
     {
-        "quote": "Wise men ne'er sit and wail their loss,<br>But cheerly seek how to redress their harms.",
+        "quote": "Wise men ne'er sit and wail their loss,\n\nBut cheerly seek how to redress their harms.",
         "attr": "William Shakespeare",
         "work": "Henry VI, Part 3"
     },
     {
-        "quote": "Il y a jusque dans les exercices des enfants ce qui pourrait arrêter le plus grand Mathématicien.\n\n [Even in the games of children there are things to interest the greatest mathematician.]",
+        "quote": "Il y a jusque dans les exercices des enfants ce qui pourrait arrêter le plus grand Mathématicien.",
+        "translation": "Even in the games of children there are things to interest the greatest mathematician.",
         "attr": "Gottfried Wilhelm von Leibniz",
         "work": "Die philosophischen Schriften"
     },
@@ -270,17 +271,20 @@
         "work": "A first exploration of effective reasoning"
     },
     {
-        "quote": "Kein Band hält so fest wie dieses.\n\n[No ribbon holds as well as this one.] (in reference to student sashes)",
+        "quote": "Kein Band hält so fest wie dieses.",
+        "translation": "No ribbon holds as well as this one [in reference to student sashes]",
         "attr": "Otto von Bismarck",
         "work": "Geschichte des Corps Hannovera zu Göttingen"
     },
     {
-        "quote": "Wer als Studierender seine Zeit und sein Volk kennenlernen will, muß Farbenstudent werden.\n\n[If a student wishes to understand his time and his people, he must become a student wearing (fraternity) colors.]",
+        "quote": "Wer als Studierender seine Zeit und sein Volk kennenlernen will, muß Farbenstudent werden.",
+        "translation": "If a student wishes to understand his time and his people, he must become a student wearing (fraternity) colors.",
         "attr": "Friedrich Nietzsche",
         "work": "Letter to Carl von Gersdorff"
     },
     {
-        "quote": "Farbe tragen heißt Farbe bekennen!\n\n[Wearing colors (of a fraternity) means showing colors!]",
+        "quote": "Farbe tragen heißt Farbe bekennen!",
+        "translation": "Wearing colors (of a fraternity) means showing colors!",
         "attr": "Carl Rabl",
         "work": "Festschrift zur 100-Semesterfeier, Prag"
     },
@@ -420,7 +424,8 @@
         "work": "Message from the Queen, read by the British ambassador to Washington, Sir Christopher Meyer, St Thomas's Episcopal Church on Fifth Avenue"
     },
     {
-        "quote": "Ponamus nimios gemitus: flagrantior æquo  \nNon debet dolor esse viri, nec vulnere major.\n\n[Let us moderate our sorrows. The grief of a man should not exceed proper bounds, but be in proportion to the blow he has received.]",
+        "quote": "Ponamus nimios gemitus: flagrantior æquo  \nNon debet dolor esse viri, nec vulnere major.",
+        "translation": "Let us moderate our sorrows. The grief of a man should not exceed proper bounds, but be in proportion to the blow he has received.",
         "attr": "Juvenal",
         "work": "Satires"
     },
@@ -430,17 +435,20 @@
         "work": "Cup and Table"
     },
     {
-        "quote": "<i>Curæ leves loquuntur, ingentes stupent.</i>[Light sorrows are communicative, great ones silent.]",
+        "quote": "Curæ leves loquuntur, ingentes stupent.",
+        "translation": "Light sorrows are communicative, great ones silent.",
         "attr": "Seneca the Younger",
         "work": "Hippolytus"
     },
     {
-        "quote": "<i>Levis est dolor qui capere consilium potest.</i>[That grief is light which can take counsel.]",
+        "quote": "Levis est dolor qui capere consilium potest.",
+        "translation": "That grief is light which can take counsel.",
         "attr": "Seneca the Younger",
         "work": "Medea"
     },
     {
-        "quote": "<i>Magnus sibi ipse non facit finem dolor.</i>[Great grief does not of itself put an end to itself.]",
+        "quote": "Magnus sibi ipse non facit finem dolor.",
+        "translation": "Great grief does not of itself put an end to itself.",
         "attr": "Seneca the Younger",
         "work": "Troades"
     },
@@ -465,12 +473,14 @@
         "work": "The Children of Men"
     },
     {
-        "quote": "<i>Mieux vaut faire, et se repentir / Que se repentir, et rien faire</i>[It's better to act and to regret / Than to regret not to have acted]",
+        "quote": "Mieux vaut faire, et se repentir / Que se repentir, et rien faire",
+        "translation": "It's better to act and to regret / Than to regret not to have acted",
         "attr": "Mellin de Saint-Gelais",
         "work": "Quatrains"
     },
     {
-        "quote": "<i>Mes malheurs sont comblés, mais ma vertu me reste.</i>[My sorrows are overwhelming, but my virtue is left to me.]",
+        "quote": "Mes malheurs sont comblés, mais ma vertu me reste.",
+        "translation": "My sorrows are overwhelming, but my virtue is left to me.",
         "attr": "Jean-François Ducis",
         "work": "Hamlet"
     },
@@ -485,7 +495,8 @@
         "work": "The Duchess of Malfi"
     },
     {
-        "quote": "<i>In omni adversitate fortunæ, infelicissimum genus est infortunii fuisse felicem.</i>[In every adversity of fortune, to have been happy is the most unhappy kind of misfortune.]",
+        "quote": "In omni adversitate fortunæ, infelicissimum genus est infortunii fuisse felicem.",
+        "translation": "In every adversity of fortune, to have been happy is the most unhappy kind of misfortune.",
         "attr": "Boethius",
         "work": "De Consolatione Philosophiæ"
     },
@@ -495,37 +506,42 @@
         "work": "To an Afflicted Protestant Lady."
     },
     {
-        "quote": "Nessun maggior dolore  \nChe ricordarsi del tempo felice  \nNella miseria.\n\n[There is no greater sorrow<br>Than to be mindful of the happy time<br>In misery.]",
+        "quote": "Nessun maggior dolore\n\nChe ricordarsi del tempo felice\n\nNella miseria.",
+        "translation": "There is no greater sorrow\n\nThan to be mindful of the happy time\n\nIn misery.",
         "attr": "Dante Alighieri",
         "work": "Inferno"
     },
     {
-        "quote": "Ach! aus dem Glück entwickelt oft sich Schmerz.  \n[Alas! sorrow from happiness is oft evolved.]",
+        "quote": "Ach! aus dem Glück entwickelt oft sich Schmerz.",
+        "translation": "Alas! sorrow from happiness is oft evolved.",
         "attr": "Johann Wolfgang von Goethe",
         "work": "Die Natürliche Tochter"
     },
     {
-        "quote": "Wer nie sein Brod mit Thränen ass,<br>Wer nicht die kummervollen Nächte<br>Auf seinem Bette weinend sass,<br>Der kennt euch nicht, ihr himmlischen Mächte.[Who never ate his bread in sorrow,<br>Who never spent the darksome hours<br>Weeping, and watching for the morrow,—<br>He knows ye not, ye gloomy Powers.]",
+        "quote": "Wer nie sein Brod mit Thränen ass,\n\nWer nicht die kummervollen Nächte\n\nAuf seinem Bette weinend sass,\n\nDer kennt euch nicht, ihr himmlischen Mächte.",
+        "translation": "Who never ate his bread in sorrow,\n\nWho never spent the darksome hours\n\nWeeping, and watching for the morrow,\n\nHe knows ye not, ye gloomy Powers.",
         "attr": "Johann Wolfgang von Goethe",
         "work": "Wilhelm Meisters Lehrjahre"
     },
     {
-        "quote": "I walked a mile with Pleasure;<br>She chattered all the way,<br>But left me none the wiser<br>For all she had to say.I walked a mile with Sorrow<br>And ne'er a word said she;<br>But, oh, the things I learned from her<br>When Sorrow walked with me.",
+        "quote": "I walked a mile with Pleasure;\n\nShe chattered all the way,\n\nBut left me none the wiser\n\nFor all she had to say.\n\nI walked a mile with Sorrow\n\nAnd ne'er a word said she;\n\nBut, oh, the things I learned from her\n\nWhen Sorrow walked with me.",
         "attr": "Robert Browning Hamilton",
         "work": "Along the Road"
     },
     {
-        "quote": "<i>Die Leiden sind wie die Gewitterwolken; in der Ferne sehen sie schwartz aus, über uns kaum grau.</i>[Sorrows are like thunderclouds; in the distance they look black, over our heads scarcely gray.]",
+        "quote": "Die Leiden sind wie die Gewitterwolken; in der Ferne sehen sie schwartz aus, über uns kaum grau.",
+        "translation": "Sorrows are like thunderclouds; in the distance they look black, over our heads scarcely gray.",
         "attr": "Jean Paul",
         "work": "Hesperus"
     },
     {
-        "quote": "<i>Kurz ist der Schmerz, und ewig ist die Freude!</i>[Brief is sorrow, and endless is joy.]",
+        "quote": "Kurz ist der Schmerz, und ewig ist die Freude!",
+        "translation": "Brief is sorrow, and endless is joy.",
         "attr": "Friedrich Schiller",
         "work": "Die Jungfrau von Orleans"
     },
     {
-        "quote": "Each time we love,<br>We turn a nearer and a broader mark<br>To that keen archer, Sorrow, and he strikes.",
+        "quote": "Each time we love,\n\nWe turn a nearer and a broader mark\n\nTo that keen archer, Sorrow, and he strikes.",
         "attr": "Alexander Smith",
         "work": "A Boy’s Dream"
     },
@@ -590,7 +606,8 @@
         "work": "This Business of Living"
     },
     {
-        "quote": "<i>Ante, inquit, circumspiciendum est, cum quibos edas et bibas, quam quid edas et bibas.</i>[He says that you should rather have regard to the company with whom you eat and drink, than to what you eat and drink.]",
+        "quote": "Ante, inquit, circumspiciendum est, cum quibos edas et bibas, quam quid edas et bibas.",
+        "translation": "He says that you should rather have regard to the company with whom you eat and drink, than to what you eat and drink.",
         "attr": "Seneca the Younger",
         "work": "Epistulae Morales ad Lucilium"
     },
@@ -710,7 +727,8 @@
         "work": "Infinite in All Directions"
     },
     {
-        "quote": "<i>Niemand ist mehr Sklave, als der sich für frei hält, ohne es zu sein.</i>[None are more hopelessly enslaved than those who falsely believe they are free.]",
+        "quote": "Niemand ist mehr Sklave, als der sich für frei hält, ohne es zu sein.",
+        "translation": "None are more hopelessly enslaved than those who falsely believe they are free.",
         "attr": "Johann Wolfgang von Goethe",
         "work": "Elective Affinities"
     },
@@ -785,37 +803,44 @@
         "work": "Essex's Device"
     },
     {
-        "quote": "<i>Es kann mich doch niemand daran hindern, jeden Tag klüger zu werden.</i>[I reserve the right to be smarter today than I was yesterday.]",
+        "quote": "Es kann mich doch niemand daran hindern, jeden Tag klüger zu werden.",
+        "translation": "I reserve the right to be smarter today than I was yesterday.",
         "attr": "Konrad Adenauer",
         "work": "Loggers' Handbook Vol. 36"
     },
     {
-        "quote": "<i>Man darf nie vergessen: Jeder Baum wird klein gepflanzt!</i>[One must never forget, every tree starts small!]",
+        "quote": "Man darf nie vergessen: Jeder Baum wird klein gepflanzt!",
+        "translation": "One must never forget, every tree starts small!",
         "attr": "Konrad Adenauer",
         "work": "to Anneliese Poppinga"
     },
     {
-        "quote": "<i>Alles Negative wird gelesen und bleibt haften, aber alles Positive wird als selbstverständlich hingenommen.</i>[Everything negative is read and sticks, but everything positive is taken for granted.]",
+        "quote": "Alles Negative wird gelesen und bleibt haften, aber alles Positive wird als selbstverständlich hingenommen.",
+        "translation": "Everything negative is read and sticks, but everything positive is taken for granted.",
         "attr": "Konrad Adenauer",
         "work": "Speech to CDU"
     },
     {
-        "quote": "<i>Mein sogenannter Optimismus ist nichts anderes als das Vertrauen in die Kraft der Notwendigkeiten.</i>[My so-called optimism is nothing other than trust in the power of necessity.]",
+        "quote": "Mein sogenannter Optimismus ist nichts anderes als das Vertrauen in die Kraft der Notwendigkeiten.",
+        "translation": "My so-called optimism is nothing other than trust in the power of necessity.",
         "attr": "Konrad Adenauer",
         "work": "Interview with Friedlaender"
     },
     {
-        "quote": "<i>Wir sind alle Sünder. Und das beste ist, die Sünden aufrichtig zu bereuen, dann aber auch wirklich zu vergessen.</i>[We are all sinners. And the best thing is to sincerely regret your sins, but then really forget them.]",
+        "quote": "Wir sind alle Sünder. Und das beste ist, die Sünden aufrichtig zu bereuen, dann aber auch wirklich zu vergessen.",
+        "translation": "We are all sinners. And the best thing is to sincerely regret your sins, but then really forget them.",
         "attr": "Konrad Adenauer",
         "work": "Auf den Spuren Konrad Adenauers durch Köln"
     },
     {
-        "quote": "<i>Keiner ist im Besitze der alleinigen Wahrheit. Nur durch Rede und Gegenrede und durch gegenseitigen Austausch kann man hoffen, doch der Wahrheit möglichst nahe zu kommen.</i>[No one is in possession of the sole truth. Only through speech and objection and through mutual exchange can one hope to come as close as possible to the truth.]",
+        "quote": "Keiner ist im Besitze der alleinigen Wahrheit. Nur durch Rede und Gegenrede und durch gegenseitigen Austausch kann man hoffen, doch der Wahrheit möglichst nahe zu kommen.",
+        "translation": "No one is in possession of the sole truth. Only through speech and objection and through mutual exchange can one hope to come as close as possible to the truth.",
         "attr": "Konrad Adenauer",
         "work": "Speech to CDU"
     },
     {
-        "quote": "<i>Die Erfahrungen sind die Samenkörner, aus denen die Klugheit emporwächst.</i>[Experience is the seed from which wisdom grows.]",
+        "quote": "Die Erfahrungen sind die Samenkörner, aus denen die Klugheit emporwächst.",
+        "translation": "Experience is the seed from which wisdom grows.",
         "attr": "Konrad Adenauer",
         "work": "Interview on Welt am Sonntag"
     },
@@ -885,12 +910,12 @@
         "work": "The Simpsons"
     },
     {
-        "quote": "Please don’t go, please don’t goI love you so, I love you soPlease break my heart, hey",
+        "quote": "Please don’t go, please don’t go\n\nI love you so, I love you so\n\nPlease break my heart, hey",
         "attr": "Alt-J",
         "work": "Breezeblocks"
     },
     {
-        "quote": "Triangles are my favorite shape.Three points where two lines meet, toe to toe, back to back.Let’s go my love; it’s very late.‘Til morning comes, let’s tessellate.",
+        "quote": "Triangles are my favorite shape. Three points where two lines meet, toe to toe, back to back.Let’s go my love; it’s very late. 'Til morning comes, let’s tessellate.",
         "attr": "Alt-J",
         "work": "Tesselate"
     },
@@ -905,27 +930,27 @@
         "work": "The Office"
     },
     {
-        "quote": "Absolutely have to have dark in order to have light. Gotta have opposites – dark and light, light and dark – continually in a painting. If you have light on light, you have nothing. If you have dark on dark, you basically have nothing.You know, it's like in life: you've gotta have a little sadness once in a while, so you know when the good times come. I'm waiting on the good times now.",
+        "quote": "Absolutely have to have dark in order to have light. Gotta have opposites --- dark and light, light and dark --- continually in a painting. If you have light on light, you have nothing. If you have dark on dark, you basically have nothing.You know, it's like in life: you've gotta have a little sadness once in a while, so you know when the good times come.\n\nI'm waiting on the good times now.",
         "attr": "Bob Ross",
         "work": "The Joy of Painting"
     },
     {
-        "quote": "I must not fear.Fear is the mind-killer.Fear is the little-death that brings total obliteration.I will face my fear.I will permit it to pass over me and through me.And when it has gone past, I will turn the inner eye to see its path.Where the fear has gone there will be nothing. Only I will remain.",
+        "quote": "I must not fear. Fear is the mind-killer. Fear is the little-death that brings total obliteration. I will face my fear. I will permit it to pass over me and through me. And when it has gone past, I will turn the inner eye to see its path. Where the fear has gone there will be nothing. Only I will remain.",
         "attr": "Litany Against Fear",
         "work": "Dune"
     },
     {
-        "quote": "So I just made a choice. I would let the fear in, let it take over, let it do it’s thing. But only for five seconds. That’s all I was going to give it.",
+        "quote": "So I just made a choice. I would let the fear in, let it take over, let it do it’s thing. But only for five seconds. That's all I was going to give it.",
         "attr": "Jack Shephard",
         "work": "Lost"
     },
     {
-        "quote": "A leader can’t lead ’til he knows where he’s going.",
+        "quote": "A leader can’t lead 'til he knows where he’s going.",
         "attr": "John Locke",
         "work": "Lost"
     },
     {
-        "quote": "I’m a complex guy, sweetheart.",
+        "quote": "I'm a complex guy, sweetheart.",
         "attr": "James Sawyer Ford",
         "work": "Lost"
     },
@@ -940,13 +965,38 @@
         "work": "Lost"
     },
     {
-        "quote": "Here’s to the crazy ones.<br>The misfits.<br>The rebels.<br>The troublemakers.The round pegs in the square holes.<br>The ones who see things differently.<br>They’re not fond of rules.<br>And they have no respect for the status quo.<br>You can quote them, disagree with them, glorify or vilify them.<br>But the only thing you can’t do is ignore them.<br>Because they change things.<br>They push the human race forward.<br>And while some may see them as the crazy ones,<br>We see genius.<br>Because the people who are crazy enough to think<br>they can change the world,<br>Are the ones who do.",
+        "quote": "Here’s to the crazy ones. The misfits. The rebels. The troublemakers. The round pegs in the square holes. The ones who see things differently. They’re not fond of rules. And they have no respect for the status quo. You can quote them, disagree with them, glorify or vilify them. But the only thing you can’t do is ignore them. Because they change things. They push the human race forward. And while some may see them as the crazy ones, we see genius. Because the people who are crazy enough to think they can change the world, are the ones who do.",
         "attr": "Apple",
         "work": "Think different Campaign"
     },
     {
-        "quote": "You've got suckers' luck have you given up?<br>\nDoes it feel like a trial?<br>\nDoes it trouble your mind the<br>\nWay you trouble mine?<br>\nDoes it feel like a trial?<br>\nDid you fall for the<br>\nSame empty answers again?",
+        "quote": "You've got suckers' luck\n\nHave you given up?\n\nDoes it feel like a trial?\n\nDoes it trouble your mind the way you trouble mine?\n\nDoes it feel like a trial?\n\nDid you fall for the same empty answers again?",
         "attr": "The National",
         "work": "Exile Vilify"
+    },    
+    {
+        "quote": "In real open source, you have the right to control your own destiny.",
+        "attr": "Linus Torvalds",
+        "work": ""
+    },
+    {
+        "quote": "Intelligence is the ability to avoid doing work, yet getting the work done.",
+        "attr": "Linus Torvalds",
+        "work": ""
+    },
+    {
+      "quote": "The only thing we have a problem with is when the government funds open-source work. Government funding should be for work that is available to everybody.",
+      "attr": "Steve Ballmer",
+      "work": ""
+    },
+    {
+        "quote": "Linux is a cancer that attaches itself in an intellectual property sense to everything it touches. That's the way that the license works.",
+        "attr": "Steve Ballmer",
+        "work": ""
+    },
+    {
+        "quote": "Change will not come if we wait for some other person or some other time. We are the ones we've been waiting for. We are the change that we seek.",
+        "attr": "Barack Obama",
+        "work": ""
     }
 ]
