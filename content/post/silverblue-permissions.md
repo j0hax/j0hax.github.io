@@ -1,6 +1,7 @@
 ---
 title: "Fixing Silverblue Permissions"
 date: 2023-09-09T12:51:09+02:00
+summary: "Fixing an annoying issue with logrotate"
 ---
 
 > error: stat of /var/log/boot.log failed: Permission denied

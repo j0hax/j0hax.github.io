@@ -1,6 +1,7 @@
 ---
 title: "How Sudoku saved an Experiment"
 date: 2023-05-16
+summary: "Theoretical CS has its real-life applications after all"
 ---
 
 My girlfriend, a researcher in animal nutrition, pitched an interesting problem to me. Her task was to create a feeding plan for four pigs with six different types of feed, with the following constraints:

@@ -1,6 +1,7 @@
 ---
 title: "Setting up a Matrix Homeserver on NixOS (Easy Edition)"
 date: 2025-08-15T22:50:57+02:00
+summary: "How I set up my own Homeserver"
 ---
 
 Recently, a client suggested that I contact him via [Matrix](https://matrix.org/), a protocol with the goal of secure, decentralized communication. As my employer _currently_ does not have host a Matrix Homeserver, I took the liberty of trying to set up my own.

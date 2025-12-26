@@ -1,6 +1,7 @@
 ---
 title: "Initial Commit"
 date: 2021-03-31T16:19:01+02:00
+summary: "My first blog post"
 categories:
 - blog
 tags:

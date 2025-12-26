@@ -1,5 +1,6 @@
 ---
 title: "Migrating All the Photos"
+draft: true
 date: 2025-07-16T19:24:51+02:00
 ---
 

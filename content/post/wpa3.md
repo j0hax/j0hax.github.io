@@ -1,6 +1,7 @@
 ---
 title: "WPA3 Troubles"
 date: 2021-06-29
+summary: "Addressing a WPA3 Bug with OpenWRT and Linux"
 categories:
 - networking
 tags:
