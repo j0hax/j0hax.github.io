@@ -4,3 +4,5 @@ github.com/j0hax/ehrlich v0.0.0-20251226160510-b452f6a6fa90 h1:2kT+W8xdfV9Tq43nx
 github.com/j0hax/ehrlich v0.0.0-20251226160510-b452f6a6fa90/go.mod h1:WZPlQWCqdgJeJbwuu/JtNeYIoa2CPEAV9QcS53WXmqQ=
 github.com/j0hax/ehrlich v0.0.0-20251226164956-21932ac2022a h1:D6HpVn2QZogfuJYXlYFixchs/AxuNGxZSx7l4ElUoOw=
 github.com/j0hax/ehrlich v0.0.0-20251226164956-21932ac2022a/go.mod h1:WZPlQWCqdgJeJbwuu/JtNeYIoa2CPEAV9QcS53WXmqQ=
+github.com/j0hax/ehrlich v0.0.0-20251226180929-947e78a0647b h1:pX529HlFI193TT9Fvu0ShYI5ASKoFyzCjUYGTjRrflw=
+github.com/j0hax/ehrlich v0.0.0-20251226180929-947e78a0647b/go.mod h1:WZPlQWCqdgJeJbwuu/JtNeYIoa2CPEAV9QcS53WXmqQ=
