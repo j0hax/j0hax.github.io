@@ -1,8 +1,4 @@
-github.com/j0hax/archie v0.0.0-20250103165717-2bda5c292c12 h1:OcVOUg8iPI2/NJ4ESJjWxGIkSfJ2cSoBrX8ydxS9JJs=
-github.com/j0hax/archie v0.0.0-20250103165717-2bda5c292c12/go.mod h1:C5j0neaECtC2Gyc9OCvxj8A7Eevp8eXFpjfvtuNYXlU=
-github.com/joeroe/risotto v0.4.0 h1:j1Hqnr/wWuKjDGPwKhpOs0yH0L+X6kLLgObxH4APUO8=
-github.com/joeroe/risotto v0.4.0/go.mod h1:50XvgDGSY2RDbp86FP3nWCnUrJgVQAm9uWsWPstFd54=
-github.com/monkeyWzr/hugo-theme-cactus v0.0.0-20240312084910-a5df1d6bed25 h1:wAV8qlIZA6AA+Nq6WHk2+pJgDTE37EUUKq73E1TwOy4=
-github.com/monkeyWzr/hugo-theme-cactus v0.0.0-20240312084910-a5df1d6bed25/go.mod h1:pelyER/z3wJ0lzJtj5JVIlUfnKJJ/sfe4RYyfQG0E/4=
-github.com/nodejh/hugo-theme-mini v0.0.0-20240322021354-34417888405c h1:WUFnrYHzZk6QLla2BgFvySeYORf5nf0SUzcdIANHadU=
-github.com/nodejh/hugo-theme-mini v0.0.0-20240322021354-34417888405c/go.mod h1:+Rl6qKesH3DeBOjXcmPXB1L/LwD3RqXzopTzon/jv5Q=
+github.com/j0hax/ehrlich v0.0.0-20251226155916-c77f03856182 h1:3LT8B0uYdZuAa7Ie8mM8VgjnV5o2Wp/BLGf5vQ976VE=
+github.com/j0hax/ehrlich v0.0.0-20251226155916-c77f03856182/go.mod h1:WZPlQWCqdgJeJbwuu/JtNeYIoa2CPEAV9QcS53WXmqQ=
+github.com/j0hax/ehrlich v0.0.0-20251226160510-b452f6a6fa90 h1:2kT+W8xdfV9Tq43nxE784JkA6Yjki7v+bmdgBjwHRrY=
+github.com/j0hax/ehrlich v0.0.0-20251226160510-b452f6a6fa90/go.mod h1:WZPlQWCqdgJeJbwuu/JtNeYIoa2CPEAV9QcS53WXmqQ=

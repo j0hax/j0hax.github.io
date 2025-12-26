@@ -1,13 +1,17 @@
 baseURL = "https://johannes-arnold.de/"
 languageCode = "en-US"
 title = "Johannes Karl Arnold"
-copyright = "&copy; Johannes Arnold // The content I author on this website is licensed under the [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)."
-theme = "github.com/joeroe/risotto"
+copyright = "&copy; Johannes Arnold. The content I author on this website is licensed under the [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)."
+theme = "github.com/j0hax/ehrlich"
 sectionPagesMenu = "main"
 enableGitInfo = true
+hideHeader = false
 
 [about]
 title = "Hello"
+
+[permalinks]
+    post = '/post/:year/:slug/'
 
 [languages]
 
