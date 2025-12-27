@@ -1,6 +1,7 @@
----
-title: "Journal"
----
++++
+title = 'Journal'
+menus = 'main'
++++
 
 ### From the Desk of Johannes Arnold
 

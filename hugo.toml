@@ -3,7 +3,7 @@ languageCode = "en-US"
 title = "Johannes Karl Arnold"
 copyright = "&copy; Johannes Arnold. The content I author on this website is licensed under the [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)."
 theme = "ehrlich"
-sectionPagesMenu = "main"
+# sectionPagesMenu = "main"
 enableGitInfo = true
 hideHeader = false
 
