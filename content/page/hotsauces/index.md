@@ -1,13 +1,12 @@
 ---
 title: "Hot Sauce Hall of Fame"
 date: 2025-01-03T20:21:09+01:00
+summary: "My favorite Hot Sauces :)"
 tags:
   - food
   - hot sauce
   - personal
 ---
-
-My favorite hot sauces :)
 
 ## Marie Sharp's "Green Nopal"
 
