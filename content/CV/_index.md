@@ -30,13 +30,13 @@ Work with clients across the European Union with a special focus on open-source 
 Next to my usual consulting work, I also held trainings on the following topics:
 
 [S1374](https://www.gfu.net/s1374)
-: Linux Debian/Ubuntu Basic Administration Training
+: Linux Debian/&shy;Ubuntu Basic Administration Training
 
 [S1373](https://www.gfu.net/s1373)
 : Linux Server Basic Administration Training
 
 [S120](https://www.gfu.net/s120)
-: Linux/UNIX System Administration Training
+: Linux/&shy;UNIX System Administration Training
 
 ## Systems Engineer, *KKH Kaufmännische Krankenkasse* (2024 -- 2025)
 - Continuation of work-study position in full-time
