@@ -17,10 +17,22 @@ E-Mail
 # Employment History
 
 ## Linux Consultant, *B1 Systems GmbH* (2025 -- present)
-- Collaboration with both the public and private sector clients across the EU
-- Focus on open-source solutions supporting digital sovereignty
-- Projects
-  - [Linux Client Management](https://www.b1-systems.de/en/solutions/b1-lcm-linux-client-management/)
+
+Work with clients across the European Union with a special focus on open-source solutions supporting digital sovereignty.
+
+### Projects
+
+#### [Linux Client Management](https://www.b1-systems.de/en/solutions/b1-lcm-linux-client-management/)
+
+> Automated deployments of Ubuntu and tailor-made atomic [BootC](https://github.com/bootc-dev/bootc) distributions for workstation and server use for both corporate and public sector clients based on SaltStack, Foreman, and Podman.
+
+### Trainings
+
+Next to my usual consulting work, I also held trainings on the following topics:
+
+- [S1374](https://www.gfu.net/s1374) Linux Debian/Ubuntu Basic Administration Training
+- [S1373](https://www.gfu.net/s1373) Linux Server Basic Administration Training
+- [S120](https://www.gfu.net/s120) Linux/UNIX System Administration Training
 
 ## Systems Engineer, *KKH Kaufännische Krankenkasse* (2024 -- 2025)
 - Continuation of work-study position in full-time
@@ -30,12 +42,11 @@ E-Mail
 - Integration of Debian into an existing SLES environment
 - Introduction of Git and GitLab pipelines for management of configuration files
 
+
 ## Undergraduate Assistant, *Leibniz University of Hannover* (2020 -- 2023)
 - Assistant to IT Administrators at the [Institute of Continuum Mechanics](https://www.ikm.uni-hannover.de/de/)
 - Introduced containerization to existing and new software
 - Developed numerous small, internal applications in Python, Go and PHP
-
----
 
 # Certifications
 
