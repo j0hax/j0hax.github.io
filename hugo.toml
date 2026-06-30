@@ -6,6 +6,9 @@ theme = "github.com/jpanther/congo/v2"
 # sectionPagesMenu = "main"
 enableGitInfo = true
 
+[params]
+  colorScheme = "avocado"
+
 [permalinks]
     post = '/post/:year/:slug/'
 
