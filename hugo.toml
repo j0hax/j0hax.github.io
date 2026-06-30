@@ -8,6 +8,8 @@ enableGitInfo = true
 
 [params]
   colorScheme = "avocado"
+  [article]
+    showDateUpdated = true
 
 [permalinks]
     post = '/post/:year/:slug/'
