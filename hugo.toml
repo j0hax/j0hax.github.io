@@ -8,3 +8,8 @@ enableGitInfo = true
 
 [permalinks]
     post = '/post/:year/:slug/'
+
+# GitHub Actions support
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
