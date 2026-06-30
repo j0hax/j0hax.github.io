@@ -9,8 +9,12 @@ menus: 'main'
 Name
 : Johannes Karl Arnold
 
-Age
-: {{< myage >}} years
+Birthday
+: 1998-05-20 ({{< age >}} years)
+
+Citizenships
+: USA
+: Germany
 
 Contact
 : johannes@arnold.onl
