@@ -37,4 +37,4 @@ I have a particular passion for the following hardware and software:
   - Fedora Silverblue for desktop applications;
   - OpenWrt for my routers
 - 3D printing, some of it useful, much of it kitsch
-open hardware, such as that of PINE64
+- open hardware, such as that of PINE64
