@@ -1,54 +1,10 @@
-baseURL = "https://johannes-arnold.de/"
+baseURL = "https://johannes.arnold.onl/"
 languageCode = "en-US"
 title = "Johannes Karl Arnold"
-copyright = "&copy; Johannes Arnold. The content I author on this website is licensed under the [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)."
-theme = "ehrlich"
+copyright = "&copy; Johannes Arnold."
+theme = "github.com/jpanther/congo/v2"
 # sectionPagesMenu = "main"
 enableGitInfo = true
-hideHeader = false
-
-[about]
-title = "Hello"
 
 [permalinks]
     post = '/post/:year/:slug/'
-
-[languages]
-
-[languages.de]
-languageCode = 'de-DE'
-languageDirection = 'ltr'
-languageName = 'Deutsch'
-
-[languages.de.params]
-subtitle = "Moin!"
-
-[languages.en]
-languageCode = 'en-US'
-languageDirection = 'ltr'
-languageName = 'English'
-
-[params]
-mode = "auto"
-useCDN = false
-subtitle = "Howdy!"
-katex = true
-
-[params.about]
-title = "Quote of the Day"
-description = '{{< motd "quotes.json" >}}'
-
-[[params.socialLinks]]
-title = "GitHub"
-icon = "fa-brands fa-github"
-url = "https://github.com/j0hax"
-
-[[params.socialLinks]]
-title = "LinkedIn"
-icon = "fa-brands fa-linkedin"
-url = "https://www.linkedin.com/in/johannes-karl-arnold/"
-
-[[params.socialLinks]]
-title = "Email"
-icon = "fa-solid fa-envelope"
-url = "mailto:johannes@rnold.online"

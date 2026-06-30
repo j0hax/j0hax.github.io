@@ -1,3 +1,9 @@
+github.com/AmazingRise/hugo-theme-diary v0.0.0-20260130171721-0d8afbaf3d6b h1:cL07ae4niYizaegVtWUSJuaXh+7zJU0gvWMZ4Q4+87c=
+github.com/AmazingRise/hugo-theme-diary v0.0.0-20260130171721-0d8afbaf3d6b/go.mod h1:jFlSWwFHa+nHPenO/b8j3bsMtN/bnsqlWOBK7OxB/Y4=
+github.com/CaiJimmy/hugo-theme-stack v2.6.0+incompatible h1:HOf88geWucQwmTmNCFgHNidVTXjv9jLz3UA72gyFQTE=
+github.com/CaiJimmy/hugo-theme-stack v2.6.0+incompatible/go.mod h1:Tacngkxf7u2kfufDzxoX7yqktykqc/Vi1LwJOHGE6Nw=
+github.com/gethugothemes/academia-hugo v1.0.0 h1:HBk+3Hpi82eJXCbVKNHWSD3nV72hz/CgbdGh/LneZ9I=
+github.com/gethugothemes/academia-hugo v1.0.0/go.mod h1:xEvrNIUyrPjBP3weKkkcS3fJPQmF2Q2ltd01/j2JUaQ=
 github.com/j0hax/ehrlich v0.0.0-20251226155916-c77f03856182 h1:3LT8B0uYdZuAa7Ie8mM8VgjnV5o2Wp/BLGf5vQ976VE=
 github.com/j0hax/ehrlich v0.0.0-20251226155916-c77f03856182/go.mod h1:WZPlQWCqdgJeJbwuu/JtNeYIoa2CPEAV9QcS53WXmqQ=
 github.com/j0hax/ehrlich v0.0.0-20251226160510-b452f6a6fa90 h1:2kT+W8xdfV9Tq43nxE784JkA6Yjki7v+bmdgBjwHRrY=
@@ -6,3 +12,7 @@ github.com/j0hax/ehrlich v0.0.0-20251226164956-21932ac2022a h1:D6HpVn2QZogfuJYXl
 github.com/j0hax/ehrlich v0.0.0-20251226164956-21932ac2022a/go.mod h1:WZPlQWCqdgJeJbwuu/JtNeYIoa2CPEAV9QcS53WXmqQ=
 github.com/j0hax/ehrlich v0.0.0-20251226180929-947e78a0647b h1:pX529HlFI193TT9Fvu0ShYI5ASKoFyzCjUYGTjRrflw=
 github.com/j0hax/ehrlich v0.0.0-20251226180929-947e78a0647b/go.mod h1:WZPlQWCqdgJeJbwuu/JtNeYIoa2CPEAV9QcS53WXmqQ=
+github.com/jpanther/congo/v2 v2.14.0 h1:qzd7vjZpSPJkyX27Yl3KT87jvYs2aghIHCHXPSmJtXo=
+github.com/jpanther/congo/v2 v2.14.0/go.mod h1:1S7DRoO1ZYS4YUdFd1LjTkdyjQwsjFWd8TqSfz3Jd+M=
+github.com/mrmierzejewski/hugo-theme-console v0.0.0-20260618131919-0418631e543a h1:U4/6ilxy+uVXDkRnjLO87oHpmDdin70Q0qi940E6w68=
+github.com/mrmierzejewski/hugo-theme-console v0.0.0-20260618131919-0418631e543a/go.mod h1:EkUHZeZl13EtNkuNyOyNtjuQuZyf0k8W6K9GbCJaBTM=
