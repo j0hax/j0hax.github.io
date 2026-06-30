@@ -1,0 +1,26 @@
+{{- $employer := .Get "employer" -}}
+{{- $position := .Get "position" -}}
+
+{{- $from := time.AsTime (.Get "from") -}}
+{{- $toParam := .Get "to" -}}
+
+{{- $fromDisplay := time.Format "01/2006" $from -}}
+{{- $toDisplay := "<em>Present</em>" -}}
+
+{{- if $toParam -}}
+  {{- $to := time.AsTime $toParam -}}
+  {{- $toDisplay = time.Format "01/2006" $to -}}
+{{- end -}}
+
+<div class="cv-entry">
+  <div class="cv-entry-header">
+    <div class="cv-entry-title">
+      <h2>{{ title $position }}</h2>
+      <p class="cv-entry-employer"><strong>{{ $employer }}</strong> ({{ $fromDisplay }}&ndash;{{ $toDisplay | safeHTML }})</p>
+    </div>
+  </div>
+
+  <div class="cv-entry-body">
+    {{ .Inner | markdownify }}
+  </div>
+</div>

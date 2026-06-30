@@ -7,16 +7,19 @@ menus: 'main'
 # About
 
 Name
-: Johannes Arnold
+: Johannes Karl Arnold
 
-E-Mail
-: johannes@rnold.online
+Age
+: {{< myage >}} years
+
+Contact
+: johannes@arnold.onl
 
 ---
 
 # Employment History
 
-## Linux Consultant, *B1 Systems GmbH* (2025 -- present)
+{{< cvEntry position="Linux consultant and trainer" employer="B1 Systems GmbH" from="2026-04-01" >}}
 
 Work with clients across the European Union with a special focus on open-source solutions supporting digital sovereignty.
 
@@ -29,28 +32,23 @@ Work with clients across the European Union with a special focus on open-source 
 
 Next to my usual consulting work, I also held trainings on the following topics:
 
-[S1374](https://www.gfu.net/s1374)
-: Linux Debian/&shy;Ubuntu Basic Administration
+- [S1374](https://www.gfu.net/s1374): Linux Debian/&shy;Ubuntu Basic Administration
+- [S1373](https://www.gfu.net/s1373): Linux Server Basic Administration
+- [S120](https://www.gfu.net/s120): Linux/&shy;UNIX System Administration
+{{< /cvEntry >}}
 
-[S1373](https://www.gfu.net/s1373)
-: Linux Server Basic Administration
+{{< cvEntry position="Systems Engineer" employer="KKH Kaufmännische Krankenkasse" from="2024-10-01" to="2025-04-01" >}}
+- Managed SLES Servers with Salt/SUSE Multi-Linux Manager
+- Introduced Git and GitLab pipelines for management of configuration files
+- Created and distributed customized Debian ISOs for automatic installation, later integrated with the existing SLES environment and adapted existing infrastructure for a new Linux distribution.
+- Oversaw core workload automation with Broadcom's [Automic](https://www.broadcom.com/products/software/automation/automic-automation)
+{{< /cvEntry >}}
 
-[S120](https://www.gfu.net/s120)
-: Linux/&shy;UNIX System Administration
-
-## Systems Engineer, *KKH Kaufmännische Krankenkasse* (2024 -- 2025)
-- Continuation of work-study position in full-time
-- Additional responsibilities of enterprise workload automation
-
-## Work-Study Trainee, *KKH Kaufmännische Krankenkasse* (2023 -- 2024)
-- Integration of Debian into an existing SLES environment
-- Introduction of Git and GitLab pipelines for management of configuration files
-
-
-## Undergraduate Assistant, *Leibniz University of Hannover* (2020 -- 2023)
+{{< cvEntry position="Research Assistant" employer="Leibniz University of Hannover" from="2020-01-01" to="2023-04-01" >}}
 - Assistant to IT Administrators at the [Institute of Continuum Mechanics](https://www.ikm.uni-hannover.de/de/)
-- Introduced containerization to existing and new software
+- Introduced containerization to existing infrastructure
 - Developed numerous small, internal applications in Python, Go and PHP
+{{< /cvEntry >}}
 
 ---
 
