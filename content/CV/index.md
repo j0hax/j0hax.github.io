@@ -25,7 +25,7 @@ Contact
 
 {{< cvEntry position="Linux consultant and trainer" employer="B1 Systems GmbH" from="2026-04-01" >}}
 
-Consultant and infrastructure engineer specializing in enterprise Linux platforms and open-source technologies with a focus on digital sovereignty. Work with public sector and commercial customers across Germany and the European Union, designing and implementing Linux infrastructure for deployments ranging from several hundred managed systems to large enterprise environments.
+Consultant specializing in enterprise Linux platforms and open-source technologies with a focus on digital sovereignty. Work with public sector and commercial customers across Germany and the European Union, implementing new and improving upon existing Linux infrastructure.
 
 ### Projects
 
