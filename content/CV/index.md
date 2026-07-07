@@ -12,9 +12,9 @@ Name
 Birthday
 : 1998-05-20 ({{< age >}} years)
 
-Citizenships
-: USA
-: Germany
+Languages Spoken
+: German (native)
+: English (native)
 
 Contact
 : johannes@arnold.onl
