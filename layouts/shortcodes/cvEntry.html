@@ -1,7 +1,7 @@
-{{- $employer := .Get "employer" -}}
-{{- $position := .Get "position" -}}
-{{- $type := .Get "type" -}}
-{{- $location := .Get "location" -}}
+{{- $employer := .Get "employer" | markdownify -}}
+{{- $position := .Get "position" | markdownify -}}
+{{- $type := .Get "type" | markdownify -}}
+{{- $location := .Get "location" | markdownify -}}
 
 {{- $from := time.AsTime (.Get "from") -}}
 {{- $toParam := .Get "to" -}}
