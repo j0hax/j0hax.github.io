@@ -23,7 +23,7 @@ Contact
 
 # Employment History
 
-{{< cvEntry position="Linux consultant and trainer" employer="B1 Systems GmbH" location="Hybrid" from="2026-04-01" >}}
+{{< cvEntry position="Linux consultant and trainer" employer="B1 Systems GmbH" location="EU (Hybrid)" from="2026-04-01" >}}
 
 Consultant specializing in enterprise Linux platforms and open-source technologies with a focus on digital sovereignty. Work with public sector and commercial customers across Germany and the European Union, implementing new and improving upon existing Linux infrastructure.
 
