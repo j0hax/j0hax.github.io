@@ -23,7 +23,7 @@ Contact
 
 # Employment History
 
-{{< cvEntry position="Linux consultant and trainer" employer="B1 Systems GmbH" location="EU (Hybrid)" from="2026-04-01" >}}
+{{< cvEntry position="Linux consultant and trainer" employer="B1 Systems GmbH" location="EU (Hybrid)" from="2025-04-01" >}}
 
 Consultant specializing in enterprise Linux platforms and open-source technologies with a focus on digital sovereignty. Work with public sector and commercial customers across Germany and the European Union, implementing new and improving upon existing Linux infrastructure.
 
@@ -55,7 +55,7 @@ Administered an on-premises enterprise Linux infrastructure consisting of severa
 
 {{< /cvEntry >}}
 
-{{< cvEntry position="Research Assistant" employer="Leibniz University of Hannover" location="Hannover, Germany" from="2020-01-01" to="2023-04-01" >}}
+{{< cvEntry position="Research Assistant" employer="Leibniz University of Hannover" location="Hannover, Germany" from="2018-01-01" to="2023-04-01" >}}
 Supported the IT infrastructure of the Institute of Continuum Mechanics, providing Linux systems administration and software development for approximately 50 researchers and staff. Contributed to modernizing the institute's infrastructure by introducing containerization, developing internal tools, and supporting scientific computing workflows.
 
 - Introduced Docker-based containerization to replace traditional deployments based on manually managed tarball releases and systemd services, improving application portability and simplifying software maintenance.
