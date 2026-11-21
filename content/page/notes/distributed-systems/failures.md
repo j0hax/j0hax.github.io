@@ -1,6 +1,7 @@
 ---
 title: "Faults and Failures"
 date: 2023-10-22
+math: true
 ---
 
 # Types of Faults 

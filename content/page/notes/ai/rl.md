@@ -1,6 +1,7 @@
 ---
 title: "(Passive) Reinforcement Learning"
 date: 2023-07-05
+math: true
 ---
 
 Similar to a [Markov Decision Problem]({{< ref "mdp" >}}) with states \\(s \in S\\) and actions \\(a \in A\\), with \\(T(s, a, s^\prime)\\) and \\(R(s, a, s^\prime)\\) **being unknown!**

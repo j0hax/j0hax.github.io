@@ -1,6 +1,6 @@
 ---
 title: "Hot Sauce Hall of Fame"
-date: 2025-01-03T20:21:09+01:00
+date: 2025-01-03
 summary: "My favorite Hot Sauces :)"
 tags:
   - food

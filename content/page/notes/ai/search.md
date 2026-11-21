@@ -1,6 +1,7 @@
 ---
 title: "Search"
 date: 2023-04-27
+math: true
 ---
 
 ## Heuristics of \\(A^\ast\\)

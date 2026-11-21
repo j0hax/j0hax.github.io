@@ -1,6 +1,7 @@
 ---
 title: "Consensus Algorithms"
 date: 2023-10-22
+math: true
 ---
 
 Multiple independent processes need to agree on an outcome.

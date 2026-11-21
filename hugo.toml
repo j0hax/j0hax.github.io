@@ -1,5 +1,6 @@
 baseURL = "https://johannes.arnold.onl/"
-languageCode = "en-US"
+locale = "en-US"
+timeZone = "Europe/Berlin"
 title = "Johannes Karl Arnold"
 copyright = "&copy; Johannes Arnold."
 theme = "github.com/jpanther/congo/v2"

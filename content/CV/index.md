@@ -70,8 +70,8 @@ Supported the IT infrastructure of the Institute of Continuum Mechanics, providi
 
 # Certifications
 
-- SUSE Certified Engineer (SCE) in SUSE Linux Enterprise Server 15 [[Certificate](./SCE.pdf)]
-- SUSE Certified Administrator (SCA) in SUSE Linux Enterprise Server 15 [[Certificate](./SCA.pdf)]
+- SUSE Certified Engineer (SCE) in SUSE Linux Enterprise Server 15 ([Certificate](./SCE.pdf))
+- SUSE Certified Administrator (SCA) in SUSE Linux Enterprise Server 15 ([Certificate](./SCA.pdf))
 
 ---
 
@@ -79,7 +79,7 @@ Supported the IT infrastructure of the Institute of Continuum Mechanics, providi
 
 ## Bachelor of Science in Computer Science, *Leibniz University of Hannover*
 
-- Thesis: *On the Power Estimation of a RISC-V Platform using Performance Monitoring Counters and RTOS Events* [[Link](https://www.sra.uni-hannover.de/Theses/2024/BA-AHA-energy-pmc.html)]
+- Thesis: *On the Power Estimation of a RISC-V Platform using Performance Monitoring Counters and RTOS Events* ([Link](https://www.sra.uni-hannover.de/Theses/2024/BA-AHA-energy-pmc.html))
   - Developed a framework for estimating the energy consumption of a RISC-V embedded platform using hardware Performance Monitoring Counters (PMCs) and operating system events from the Zephyr RTOS.
   - Designed and implemented a custom benchmarking and measurement framework using C, assembly, and Python to automate benchmark execution, data acquisition, and model evaluation on an ESP32-C3-DevKitM-1.
   - Evaluated the accuracy of the resulting power estimation model, achieving a Mean Absolute Percentage Error (MAPE) of 1.85%.

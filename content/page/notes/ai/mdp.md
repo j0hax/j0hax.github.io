@@ -1,6 +1,7 @@
 ---
 title: "Markov Decision Problems"
 date: 2023-06-21
+math: true
 ---
 
 Markov Decision Processes consist of:

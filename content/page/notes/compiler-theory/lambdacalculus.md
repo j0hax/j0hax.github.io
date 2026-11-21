@@ -1,6 +1,7 @@
 ---
 title: "Lambda Calculus"
 date: 2023-04-27
+math: true
 ---
 
 Formal system introduced by Alonzo Church in 1930. One of the two approaches that lead to the notion of an Algorithm, the other being the Turing Machine.

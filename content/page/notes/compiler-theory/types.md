@@ -1,6 +1,7 @@
 ---
 title: "Types"
 date: 2023-05-12
+math: true
 ---
 
 Type systems help to apply and check for a syntactically consistent interpretation. They rule out programs that do not make any sense and allow certain operations while disallowing others.

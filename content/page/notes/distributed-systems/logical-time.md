@@ -1,6 +1,7 @@
 ---
 title: "Logical Time"
 date: 2023-10-22
+math: true
 ---
 
 >- Time is a canonical way of establishing ordering between events

@@ -1,3 +1,5 @@
+/* Custom theme overrides loaded by Congo after its own stylesheets. */
+
 @font-face {
     font-family: 'Barlow';
     font-weight: 100;
@@ -126,4 +128,8 @@
 
 body {
     font-family: 'Barlow', sans-serif;
+}
+
+* {
+    hyphens: auto;
 }
