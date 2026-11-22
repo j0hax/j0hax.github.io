@@ -102,6 +102,8 @@ I use self-raised perennial herbs such as rosemary, thyme, and oregano daily whe
 
 {{< details summary="Entertainment" >}}
 
+### Youtube
+
 I watch a lot of YouTube. Some of my favorite channels include Big Clive, Adam Ragusea, and DankPods.
 
 I am also a big Trekkie: Janeway may have broken the prime directive one too many times, but she's still my favorite captain.
@@ -119,6 +121,6 @@ In particular, I enjoy
   - Foster the People
   - LCD Soundsystem
 
-- jazz, especially hard bop (Coltrane, Mingus). My favorite jazz song of all time is Mingus' "moanin'". I also really like death grips and some hyperpop.
+- I enjoy a wide variety of music, especially jazz, especially hard bop artists like John Coltrane and Charles Mingus; my favorite jazz song of all time is Mingus' "Moanin'", which you can listen to on YouTube: https://www.youtube.com/results?search_query=Charles+Mingus+Moanin'.
 
 {{< /details >}}
