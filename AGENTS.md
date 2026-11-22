@@ -65,5 +65,8 @@ Custom shortcodes live in `layouts/shortcodes/`:
 ## Style notes
 
 - Prose is personal writing; keep voice intact when editing content and don't "correct" intentional style.
+- **Never extend writing unprompted**: agents should not add, reword, or improvise prose when making content changes. Only fix grammar, spelling, and idioms — and only when asked or clearly needed.
+- **Tone**: keep it warm yet intellectual; avoid slang, hype, and stiff or overwrought phrasing while preserving the author's voice.
+- **Technical fixes are welcome**: correct broken front matter (e.g., invalid dates that change permalinks), missing/malformed SEO fields (`description`, `images`, Open Graph, Twitter cards), and similar mechanical issues — these are not "extending writing" and should be fixed proactively.
 - Commit messages are short, imperative (`Fix dates`, `Update CV`, `Reword`). No conventional-commit prefixes.
 - `public/` and `resources/_gen/` are generated and gitignored; never edit them.
