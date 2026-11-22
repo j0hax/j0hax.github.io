@@ -117,5 +117,6 @@ In particular, I enjoy
   - Alt-J
   - The Alan Parsons Project
   - Foster the People
+  - LCD Soundsystem
 
 {{< /details >}}
