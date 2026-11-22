@@ -119,4 +119,6 @@ In particular, I enjoy
   - Foster the People
   - LCD Soundsystem
 
+- jazz, especially hard bop (Coltrane, Mingus). My favorite jazz song of all time is Mingus' "moanin'". I also really like death grips and some hyperpop.
+
 {{< /details >}}
