@@ -9,7 +9,7 @@ categories:
 
 Beginning with commit [879f3af](https://github.com/j0hax/nixos-configurations/commit/879f3af878e61fed632bd5520f6b3eeee33afc28) in January 2025, I have been using [uutils](https://uutils.github.io/) on my NixOS machines.
 
-Uutils is a Rust rewrite of the [GNU coreutils](https://www.gnu.org/software/coreutils/coreutils.html) and the experience has been nothing but wonderful. **I've encountered zero bugs, and everything is snappy.[^fast]**
+uutils is a Rust rewrite of the [GNU coreutils](https://www.gnu.org/software/coreutils/coreutils.html), and the experience has been nothing but wonderful. **I've encountered zero bugs, and everything is snappy.[^fast]**
 
 ## How to enable it?
 
