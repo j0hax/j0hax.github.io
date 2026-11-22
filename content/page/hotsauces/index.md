@@ -1,7 +1,7 @@
 ---
 title: "Hot Sauce Hall of Fame"
 date: 2025-01-03
-summary: "My favorite Hot Sauces :)"
+summary: "My favorite hot sauces :)"
 tags:
   - food
   - hot sauce
@@ -16,7 +16,7 @@ tags:
 
 While not particularly hot, this is easily one of the *tastiest* hot sauces I have tried.
 
-* Well rounded, with notes of garlic and fruit
+* Well-rounded, with notes of garlic and fruit
 * Adds a dash of flavor to basically any dish
 * Even people who don't care for spicy food may like this one
 
@@ -37,8 +37,8 @@ A hot hot sauce, supposedly based on a Mayan recipe.
 
 {{< rating score="65" >}}
 
-Nothing wrong with this sauce; an honest to God "standard" hot sauce, popular for a good reason.
+Nothing wrong with this sauce; an honest-to-God "standard" hot sauce, popular for a good reason.
 
 * Medium-low heat
 * Not too acidic
-* **Available anywhere:** even across regular grocery stores northern Europe. This means it I can consume and share it without paying exorbitant prices for small imports.
+* **Available anywhere:** even in regular grocery stores across northern Europe. This means I can consume and share it without paying exorbitant prices for small imports.

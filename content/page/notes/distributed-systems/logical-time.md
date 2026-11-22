@@ -25,7 +25,7 @@ This is the main drawback of lamport clocks.
 
 On a system of \(n\) nodes, each node \(i\) maintains a vector \(V\) of length \(n\).
 
-Initially, all clocks are zero, with \(V_i\) being the number of events that occured at node \(i\) and \(V_i[j]\) being the number of events observed by node \(i\) that occurred at node \(j\).
+Initially, all clocks are zero, with \(V_i\) being the number of events that occurred at node \(i\) and \(V_i[j]\) being the number of events observed by node \(i\) that occurred at node \(j\).
 
 - Local events increment \(V_i[i]\)
 - When \(i\) sends a message to \(j\), it includes \(V_i\)

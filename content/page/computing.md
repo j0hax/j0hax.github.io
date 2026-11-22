@@ -4,12 +4,12 @@ date: 2023-07-15
 draft: true
 ---
 
-Since recieving my first computer at the age of 10, computers have been a dominant interest of mine. I spend a lot of time doing recreational programming.
+Since receiving my first computer at the age of 10, computers have been a dominant interest of mine. I spend a lot of time doing recreational programming.
 
 # Software
-I have a particular interest in Linux. It all started around 2009 when I installed Ubuntu 9.04 *Jaunty Jackalope* on my first computer, a 2008 iMac (Model `A1224`). I've distrohopped around more than I care to admit, going "down the rabbit hole" including Arch Linux, fully optimized Gentoo installations and even NixOS.
+I have a particular interest in Linux. It all started around 2009 when I installed Ubuntu 9.04 *Jaunty Jackalope* on my first computer, a 2008 iMac (Model `A1224`). I've distrohopped around more than I care to admit, going "down the rabbit hole" with Arch Linux, fully optimized Gentoo installations, and even NixOS.
 
-Currently, I use [Fedora Silverblue](https://fedoraproject.org/silverblue/) on all my personal computers. While I enjoyed tinkering around, I currently need something that "just works." I do believe that immutable distributions are the future of Linux (and, hopefully, Windows?)
+Currently, I use [Fedora Silverblue](https://fedoraproject.org/silverblue/) on all my personal computers. While I enjoyed tinkering around, I currently need something that "just works." I do believe that immutable distributions are the future of Linux (and, hopefully, Windows?).
 
 # Hardware
 
@@ -17,29 +17,29 @@ Currently, I use [Fedora Silverblue](https://fedoraproject.org/silverblue/) on a
 I have two laptops:
 
 ### 2014 MacBook Air
-Model `A1466` specifically. While this machine no longer gets the latest macOS updates from Apple, it runs Linux equally well. Unfortunately, the 4GiB soldered RAM are limiting the machine more and more for daily tasks. I still keep it around because the battery still holds an astoundingly good charge for its age. Combined with the slim form factor its a great machine to take to university classes for taking notes.
+Model `A1466` specifically. While this machine no longer gets the latest macOS updates from Apple, it runs Linux equally well. Unfortunately, the 4 GiB of soldered RAM is limiting the machine more and more for daily tasks. I still keep it around because the battery still holds an astoundingly good charge for its age. Combined with the slim form factor, it's a great machine to take to university classes for taking notes.
 
 ### ThinkPad X230
-This machine was offered to my by a friend in 2018 for a 150€. Originally I only bought it as a secondary backup and to play around with Linux. After quite a few upgrades (thank you eBay) it became my primary computer. Upgrades:
-- 8GiB DDR3 RAM
-- 500GiB Crucial MX500 SSD
-- (Backlit) Keyboard in US ANSI layout
+This machine was offered to me by a friend in 2018 for €150. Originally I only bought it as a secondary backup and to play around with Linux. After quite a few upgrades (thank you eBay), it became my primary computer. Upgrades:
+- 8 GiB DDR3 RAM
+- 500 GiB Crucial MX500 SSD
+- (Backlit) keyboard in US ANSI layout
 
 It's really incredible how much of a beating this brick can take. It even survived getting a glass of wine spilled over it, thanks to the drain holes in the bottom.
 
 ### Desktop
-In 2020 I was gifted the old gaming PC of my *Leibfux,*[^fux] in which I subsequently upgraded nearly every component akin to the ship of theseus:
-- 16GiB DDR3 RAM
+In 2020 I was gifted the old gaming PC of my *Leibfux,*[^fux] and I subsequently upgraded nearly every component, akin to the Ship of Theseus:
+- 16 GiB DDR3 RAM
 - 256 GiB SanDisk SSD
 - AMD Radeon R9 290X
-- 2x4TiB Drive Array
+- 2x4 TiB drive array
 - 3 old 1280x1024 Dell monitors
 
 While the hardware is more or less a decade old, it fits my budget and meets my needs.
 
-[^fux]: German word for a younger mentee of a fraternity, similar to the "little brother" in american fraternities.
+[^fux]: German word for a younger mentee of a fraternity, similar to the "little brother" in American fraternities.
 
 ## Cell Phone
-I used iPhones exclusively between 2012 and 2023. While I still think they're greate phones, I consider myself more appreciative of the freedom that Android offers.
+I used iPhones exclusively between 2012 and 2023. While I still think they're great phones, I consider myself more appreciative of the freedom that Android offers.
 
-In the summer of 2023 I switched to a Fairphone 4 flashed with [LineageOS](https://lineageos.org/). While I'm quite happy with the Software and most of Fairphones' hardware, it does suffer from the seemingly common [ghost inputs](https://forum.fairphone.com/t/ghost-inputs-on-fp4/82837/427). 
+In the summer of 2023 I switched to a Fairphone 4 flashed with [LineageOS](https://lineageos.org/). While I'm quite happy with the software and most of the Fairphone's hardware, it does suffer from the seemingly common [ghost inputs](https://forum.fairphone.com/t/ghost-inputs-on-fp4/82837/427).

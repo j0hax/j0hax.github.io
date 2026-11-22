@@ -118,4 +118,4 @@ Supported the IT infrastructure of the Institute of Continuum Mechanics, providi
 
 ## Hobbies and Interests
 
-- Recreational programming in Golang, [NixOS](https://nixos.org), FOSS embedded systems (e.g. [Tasmota](https://tasmota.github.io/docs/), [QMK](https://qmk.fm/), [OpenWRT](https://tasmota.github.io/docs/))
+- Recreational programming in Golang, [NixOS](https://nixos.org), FOSS embedded systems (e.g. [Tasmota](https://tasmota.github.io/docs/), [QMK](https://qmk.fm/), [OpenWrt](https://openwrt.org/))
