@@ -1,7 +1,7 @@
 ---
 title: "WPA3 Troubles"
 date: 2021-06-29
-summary: "Addressing a WPA3 Bug with OpenWRT and Linux"
+summary: "Addressing a WPA3 bug with OpenWrt and Linux"
 categories:
 - networking
 tags:
@@ -13,7 +13,7 @@ tags:
 - linux
 ---
 
-After doing a clean install of OpenWRT 21.02.0-rc3 and configuring WPA3 I expected some devices to have trouble re-connecting to the fresh Wi-Fi network, the least of which was my trusted ThinkPad X230. Of course, the problem was quickly diagnosed: the culprit turned out to be WPA3 *and* 802.11w Management Frame Protection.
+After a clean install of OpenWrt 21.02.0-rc3 and configuring WPA3, I expected some devices to have trouble reconnecting to the fresh Wi-Fi network—not least my trusted ThinkPad X230. Of course, the problem was quickly diagnosed: the culprit turned out to be WPA3 *and* 802.11w Management Frame Protection.
 
 Here's an example of the errors I was getting from kernel 5.10 on NixOS:
 
@@ -37,6 +37,6 @@ Here's an example of the errors I was getting from kernel 5.10 on NixOS:
 
 My X230's Advanced-N 6205 wireless adapter and a BCM2046B1-Based Adapter from TP-Link both showed symptoms of reconnection loops. Some devices, such as my aging Sonos Play:1 and Fire TV Stick, didn't connect to the network at all.
 
-The solution was to hop on to OpenWRTs excellent LuCI web interface from a wired machine and change the encryption to WPA2 (unfortunately, *mixed mode* also gave me problems, even though NetworkManager did recognize WPA3 being available) and to disable *802.11w Management Frame Protection* completely. Voilà: the instant my Wireless network came back up, all my devices were visible again.
+The solution was to open OpenWrt's excellent LuCI web interface from a wired machine, change the encryption to WPA2 (unfortunately, *mixed mode* also gave me trouble, even though NetworkManager did recognize WPA3 as available), and disable *802.11w Management Frame Protection* entirely. Voilà: the instant my wireless network came back up, all my devices were visible again.
 
-I've decided not to file a bug report just yet, as WiFi under Linux is notoriously finnicky, and I'm certainly not the only person to have encountered issues using release candidates. This post is mostly to be "the glass of ice water in hell" for other early adopters having trouble. Given time, I'm sure newer generations of wireless security will become just as reliable as WPA2.
+I've decided not to file a bug report just yet, as Wi-Fi under Linux is notoriously finicky, and I'm certainly not the only person to have encountered issues using release candidates. This post is mostly meant to be "the glass of ice water in hell" for other early adopters having trouble. Given time, I'm sure newer generations of wireless security will become just as reliable as WPA2.
