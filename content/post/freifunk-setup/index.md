@@ -38,7 +38,7 @@ Of course, in the small apartment shared by my wife and I, with neighbors who al
 
 An ideal deployment, however, was at my former student dormitory, where five Ubiquiti UAP-AC-Pro access points are deployed, one on each floor. These prosumer-grade routers feature a neat minimalistic design and PoE support. With some coaxing, they can even be flashed with OpenWRT/Freifunk.
 
-Not only were the old access points in *dire* need of a software update (I stopped maintaining the stock Unifi setup after moving out), but a clear seperation between residents and guests seemed like an ideal use-case for Freifunk's dumb AP feature. By replacing the old Unifi firmware with Freifunks, I not only get a modern, isolated guest Wi-Fi, but Freifunk's infrastructure also includes an optional auto-update mechanism, allowing management of the devices to be more or less deployed as "fire-and-forget" without any additional maintenance from users.
+Not only were the old access points in *dire* need of a software update (I stopped maintaining the stock Unifi setup after moving out), but a clear separation between residents and guests seemed like an ideal use-case for Freifunk's dumb AP feature. By replacing the old Unifi firmware with Freifunks, I not only get a modern, isolated guest Wi-Fi, but Freifunk's infrastructure also includes an optional auto-update mechanism, allowing management of the devices to be more or less deployed as "fire-and-forget" without any additional maintenance from users.
 
 
 ### Installing Freifunk
@@ -182,3 +182,7 @@ The [Wikipedia Article](https://en.wikipedia.org/wiki/Right_to_Internet_access) 
 >The right to Internet access, also known as the right to broadband or freedom to connect, is the view that all people must be able to access the Internet in order to exercise and enjoy their rights to freedom of expression and opinion and other fundamental human rights [...]
 
 and then delves into the UN's criticisms of internet censorship.
+
+But for me, the argument does not need to be that grand. Internet access should not be a privilege reserved for those who can afford it, know how to set it up, or are old enough to sign a contract. A grandmother checking her e-mail, a teenager doing homework, a visitor looking up directions, someone applying for a job or an appointment at the Bürgeramt: all of them deserve unrestricted access, without captive portals, paywalls, or anyone else's permission.
+
+Running a Freifunk node is, for me, a small and practical form of "love thy neighbor": sharing the connection I already pay for with whoever happens to be nearby, no questions asked, no technical skill required. The internet has quietly become the public square, the library, the town hall, and the marketplace all at once. Cutting anyone off from it, whether through cost, technical barriers, or censorship, cuts them off from public life itself. And a neighbor without internet access is a neighbor I can actually do something about. In my case, that something is a Wi-Fi network that simply works for everyone.
