@@ -7,22 +7,22 @@ tags:
   - Open Source
 ---
 
-Around a year ago (Summer 2025) I set up my first [Freifunk](https://freifunk.net/) access point.
+Around a year ago (summer 2025) I set up my first [Freifunk](https://freifunk.net/) access point.
 
-Originally, I had purchased the router for the princely sum of $6.99 at Goodwill with the intent to extend my existing home network using a wireless mesh as described in my [previous post]({{< ref "openwrt-meshing" >}}), but after moving to a new apartment with my wife I decided to try (and stick with) some [TP-Link Powerline-Adapters](https://www.tp-link.com/de/home-networking/powerline/tl-pa7017p-kit/), making my wireless mesh effectively obsolete.
+Originally, I had purchased the router for the princely sum of $6.99 at Goodwill with the intent to extend my existing home network using a wireless mesh as described in my [previous post]({{< ref "openwrt-meshing" >}}), but after moving to a new apartment with my wife, I decided to try (and stick with) some [TP-Link Powerline adapters](https://www.tp-link.com/de/home-networking/powerline/tl-pa7017p-kit/), making my wireless mesh effectively obsolete.
 
 
-Looking for a new use case for the hardware, I decided to give *Freifunk* a try, whereby one provides a *free* and *publicly accessible* Wi-Fi hotspot. Thanks to VPNs hosted by the project the whole ordeal is not as scary as it may sound; both clients and providers are protected from each other for commonest abuse cases, an important consideration with Germany's strict copyright infringement laws.
+Looking for a new use case for the hardware, I decided to give *Freifunk* a try, whereby one provides a *free* and *publicly accessible* Wi-Fi hotspot. Thanks to VPNs hosted by the project, the whole ordeal is not as scary as it may sound; both clients and providers are protected from each other in the most common abuse cases, an important consideration with Germany's strict copyright infringement laws.
 
-The entire project runs fairly decentralized, with each broad geographic area being their own legally recognized *Verein* (association) which provides the necessary firmware and back-end technology. For example, my city's Freifunk Club, [Freifunk Hannover](https://hannover.freifunk.net) is carried by [FNorden e.V.](https://fnorden.net/), an association funded through membership fees, donations, and even the state's [Ministry of Economic Affairs](https://www.mw.niedersachsen.de/startseite/uber_uns/presse/presseinformationen/wirtschaftsministerium-foerdert-freifunk-initiativen-im-land--142482.html)!
+The entire project runs fairly decentralized, with each broad geographic area having its own legally recognized *Verein* (association), which provides the necessary firmware and back-end technology. For example, my city's Freifunk Club, [Freifunk Hannover](https://hannover.freifunk.net), is carried by [FNorden e.V.](https://fnorden.net/), an association funded through membership fees, donations, and even the state's [Ministry of Economic Affairs](https://www.mw.niedersachsen.de/startseite/uber_uns/presse/presseinformationen/wirtschaftsministerium-foerdert-freifunk-initiativen-im-land--142482.html)!
 
 ## Getting Started
 
-For the average tinkerer, Freifunk is easy to get started with. All one needs is a supported router which can run their Freifunk Association's custom firmware, usually a customized [OpenWRT](https://openwrt.org/) image built with [Gluon](https://gluon.readthedocs.io/en/latest/). The router can be flashed using the exact same (manufacturer specific) methods one uses to flash stock OpenWRT as well.
+For the average tinkerer, Freifunk is easy to get started with. All one needs is a supported router that can run the Freifunk association's custom firmware, usually a customized [OpenWrt](https://openwrt.org/) image built with [Gluon](https://gluon.readthedocs.io/en/latest/). The router can be flashed using the exact same (manufacturer-specific) methods one uses to flash stock OpenWrt as well.
 
-Once flashed, the router can be configured using a simple web interface. In my case, it is possible to use the default values and participate "passively" by meshing with other Freifunk routers in the vicinity, or to connect directly to the backbone network run by the association, and additionally act as a gateway.
+Once flashed, the router can be configured using a simple web interface. In my case, it is possible to use the default values and participate "passively" by meshing with other Freifunk routers in the vicinity, or to connect directly to the backbone network run by the association and additionally act as a gateway.
 
-A Freifunk router is *not* a sacrificial device; parallel to running a public access point and routing that traffic, it can also act as a "dumb" AP, i.e. provide a second SSID that just bridges to an upstream Ethernet connection. As such a Freifunk device can trivially be set up to provide a public and private Wi-Fi.
+A Freifunk router is *not* a sacrificial device; parallel to running a public access point and routing that traffic, it can also act as a "dumb" AP, i.e., provide a second SSID that just bridges to an upstream Ethernet connection. As such, a Freifunk device can trivially be set up to provide both a public and a private Wi-Fi network.
 
 ## Good Infrastructure
 
@@ -30,22 +30,22 @@ As mentioned, Freifunk provides both firmware builds and its VPN servers preconf
 
 {{< figure src="grafana.png" caption="Effortless statistics" >}}
 
-Freifunk Hannover even goes beyond that, by providing a complete monitoring stack using InfluxDB and Grafana, with each access points' anonymized statistics being publicly available online. Additionally, they assign a public IPv6 to each access point via their VPN infrastructure, making remote management a breeze; I can now log in to a device from anywhere in the world, provided I have IPv6 internet connection.
+Freifunk Hannover even goes beyond that, by providing a complete monitoring stack using InfluxDB and Grafana, with each access point's anonymized statistics being publicly available online. Additionally, they assign a public IPv6 address to each access point via their VPN infrastructure, making remote management a breeze; I can now log in to a device from anywhere in the world, provided I have an IPv6 internet connection.
 
 ## Deploying for Everyone
 
-Of course, in the small apartment shared by my wife and I, with neighbors who all have their own wireless networks, a public access point provides seldom benefit.
+Of course, in the small apartment shared by my wife and me, with neighbors who all have their own wireless networks, a public access point provides little benefit.
 
-An ideal deployment, however, was at my former student dormitory, where five Ubiquiti UAP-AC-Pro access points are deployed, one on each floor. These prosumer-grade routers feature a neat minimalistic design and PoE support. With some coaxing, they can even be flashed with OpenWRT/Freifunk.
+An ideal deployment, however, was at my former student dormitory, where five Ubiquiti UAP-AC-Pro access points are deployed, one on each floor. These prosumer-grade routers feature a neat minimalist design and PoE support. With some coaxing, they can even be flashed with OpenWrt/Freifunk.
 
-Not only were the old access points in *dire* need of a software update (I stopped maintaining the stock Unifi setup after moving out), but a clear separation between residents and guests seemed like an ideal use-case for Freifunk's dumb AP feature. By replacing the old Unifi firmware with Freifunks, I not only get a modern, isolated guest Wi-Fi, but Freifunk's infrastructure also includes an optional auto-update mechanism, allowing management of the devices to be more or less deployed as "fire-and-forget" without any additional maintenance from users.
+Not only were the old access points in *dire* need of a software update (I stopped maintaining the stock UniFi setup after moving out), but a clear separation between residents and guests seemed like an ideal use case for Freifunk's dumb AP feature. By replacing the old UniFi firmware with Freifunk's firmware, I not only get a modern, isolated guest Wi-Fi, but Freifunk's infrastructure also includes an optional auto-update mechanism, allowing the devices to be managed more or less "fire-and-forget," without any additional maintenance from users.
 
 
 ### Installing Freifunk
 
-Installing Freifunk varies by device, but is surprisingly easy on the Unifi UAP-AC devices, as they already run a modified version of OpenWRT. When factory resetting them, there is a default admin user (`ubnt:ubnt`) with which one can install the Freifunk firmware. 
+Installing Freifunk varies by device, but is surprisingly easy on the UniFi UAP-AC devices, as they already run a modified version of OpenWrt. After a factory reset, there is a default admin user (`ubnt:ubnt`) with which one can install the Freifunk firmware.
 
-All it took is writing the magic string `5edfacbf` to `/proc/ubnthal/.uf` in order to unlock the firmware, then copying over the Freifunk firmware image and installing it:
+All it took was writing the magic string `5edfacbf` to `/proc/ubnthal/.uf` in order to unlock the firmware, then copying over the Freifunk firmware image and installing it:
 
 ```console
 ubnt@192.168.1.237's password: 
@@ -159,11 +159,11 @@ A complete guide can be found on [Freifunk Darmstadt's forum](https://forum.darm
 
 ## Follow-Up: Performance Issues
 
-One of the neat features of Freifunk is that one device can mesh with other nodes, extending the Freifunk network even if only few access points have an uplink to the Freifunk VPN.
+One of the neat features of Freifunk is that one device can mesh with other nodes, extending the Freifunk network even if only a few access points have an uplink to the Freifunk VPN.
 
-Unfortunately, this feature caused some grave performance issues on devices with such weak processors as the Unifi AP AC Pro. Meshing caused *insane* SIRQs, according to `top` eating up 99% of CPU time, causing sustained load averages over 2.5.
+Unfortunately, this feature caused some grave performance issues on devices with processors as weak as the UniFi AP AC Pro. Meshing caused *insane* SIRQs—according to `top`, eating up 99% of CPU time—and sustained load averages over 2.5.
 
-The solution was simple: disable meshing, and pipe each access point's traffic through its wired connection instead of the Freifunk mesh. This meant that I needed to have the admins add each node's WireGuard public key to the VPN servers, which is fortunately no big deal as they are very helpful. Then, I needed to reconfigure the nodes using `uci`, OpenWRT's, and by extension Freifunk's, configuration tool:
+The solution was simple: disable meshing, and pipe each access point's traffic through its wired connection instead of the Freifunk mesh. This meant that I needed to have the admins add each node's WireGuard public key to the VPN servers, which was fortunately no big deal, as they are very helpful. Then, I needed to reconfigure the nodes using `uci`, OpenWrt's, and by extension Freifunk's, configuration tool:
 
 ```
 uci set wireless.client_radio0.disabled='0'
@@ -172,13 +172,13 @@ uci commit
 wifi reload
 ```
 
-This effectively disables the mesh network for 2.4 and 5 Ghz frequencies.
+This effectively disables the mesh network for 2.4 and 5 GHz frequencies.
 
-Afterwards, the load averages significantly dropped to around 0.02, restoring full speed to wireless users.
+Afterwards, the load averages dropped significantly to around 0.02, restoring full speed to wireless users.
 
 ## Epilogue: The Right to Internet Access
 
-The [Wikipedia Article](https://en.wikipedia.org/wiki/Right_to_Internet_access) on the subject starts with
+The [Wikipedia article](https://en.wikipedia.org/wiki/Right_to_Internet_access) on the subject starts with
 >The right to Internet access, also known as the right to broadband or freedom to connect, is the view that all people must be able to access the Internet in order to exercise and enjoy their rights to freedom of expression and opinion and other fundamental human rights [...]
 
 and then delves into the UN's criticisms of internet censorship.
