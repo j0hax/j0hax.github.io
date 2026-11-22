@@ -15,6 +15,6 @@ renamed './2015/04/01/IMG_1462.MOV' -> './IMG_1462.MOV'
 renamed './2015/04/01/IMG_1463.MOV' -> './IMG_1463.MOV'
 ```
 
-Note the `-i` flag passed to mv, to prevent any accidental overwrites.
+Note the `-i` flag passed to `mv` to prevent any accidental overwrites.
 
 `2025/07/16 19:28:46 INFO  : 2015/07/09/IMG_5308.MOV: Moved (server-side) to: IMG_5308.MOV`

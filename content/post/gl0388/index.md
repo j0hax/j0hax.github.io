@@ -7,81 +7,81 @@ tags:
     - design
 ---
 
-## It started with Black Friday Curiosity
-One cool evening in mid November I decided to head back to Drop.com. Considering my new job and the upcoming black Friday deals I figured it would be the perfect time to check up on my once[^drop] beloved drop-shipping site. It was here that a watch caught my eye: the Drop + Glycine Combat Sub "Soda", pictured below.
+## It Started with Black Friday Curiosity
+One cool evening in mid-November I decided to head back to Drop.com. Considering my new job and the upcoming Black Friday deals, I figured it would be the perfect time to check up on my once[^drop] beloved shopping site. It was here that a watch caught my eye: the Drop + Glycine Combat Sub "Soda", pictured below.
 
 {{< figure src="drop-combat-sub.webp" title="Drop + Glycine Combat Sub \"Soda\"" caption="Reference No. GL0196" attr="Drop.com" attrlink="https://drop.com/buy/drop-glycine-combat-sub-automatic-watch-m3" >}}
 
 I’ve wanted a dive watch for two reasons:
 1. measuring elapsed time is a useful everyday function,[^elapsed]
 2. they’re durable as hell.
-I immediately fell in love with the classic blue/red bezel, **but considering that Drop only ships limited numbers of products, the watch was currently not for sale.**
+I immediately fell in love with the classic blue/red bezel, **but considering that Drop only ships limited numbers of products, the watch was not currently for sale.**
 
-Now being hooked on the Glycine Combat Sub series, I took a look at the official Glycine shop. I consider myself fairly picky with watche aesthetics, and of the barrage of dive watches, only two stood out to me:
+Now hooked on the Glycine Combat Sub series, I took a look at the official Glycine shop. I consider myself fairly picky with watch aesthetics, and of the barrage of dive watches, only two stood out to me:
 
 {{< figure src="subs.webp" title="Reference Nos. GL0185 and GL0388" caption="On the right, a typical Combat Sub, featuring utilitarian design with 24h markers, much like a field watch. To the left, one of the newer designs by Glycine, similar to the limited edition from Drop." attr="glycine-watch.ch" attrlink="https://glycine-watch.ch/collections/combat" >}}
 
 ### Interesting Pricing Tactics
-Glycine enjoyed a [long history](https://en.wikipedia.org/wiki/Glycine_(watch)#History) as an independent watch company, and manufactured a range of watches for soldiers, pilots and astronauts. In 2016 the company was purchased by Invicta, a company infamous for producing large, gaudy and colorful watches which rarely align with the tastes of the watch enthusiast community. Although some Invicta watches *can* offer good value for the money, most follow an interesting pricing tactic of extreme markdowns from the official MSRP.
+Glycine enjoyed a [long history](https://en.wikipedia.org/wiki/Glycine_(watch)#History) as an independent watch company and manufactured a range of watches for soldiers, pilots, and astronauts. In 2016 the company was purchased by Invicta, a company infamous for producing large, gaudy, and colorful watches which rarely align with the tastes of the watch enthusiast community. Although some Invicta watches *can* offer good value for the money, most follow an interesting pricing strategy of extreme markdowns from the official MSRP.
 
-Just my luck, these Glycine watches were "on sale" just as those of their parent company: reduced from € 1026 to *just* € 545, a generous 53% off.
+Just my luck: these Glycine watches were "on sale" just like those of their parent company, reduced from € 1026 to *just* € 545, a generous 53% off.
 
 #### Value for the Money
 Going over the specifications of modern Combat Subs:
 
 Automatic Movement
-: Using the GL224 movement, AKA the SW200-1, a reliable workhorse movement that is easy to service and features all the basic complications such as central seconds and a calendar.
+: The GL224 movement, also known as the SW200-1, is a reliable workhorse that is easy to service and features all the basic complications, such as central seconds and a date.
 
 Sapphire Crystal
-: "Unscratchably" hard material. While these are grown artificially and should not be confused for a precious gem, they do of course increase the value of a watch compared to one using mineral glass.
+: An "unscratchably" hard material. While these are grown artificially and should not be confused with a precious gem, they do of course increase the value of a watch compared to one using mineral glass.
 
 Swiss Made
-: not necesarily an indication of quality, but does indicate tradition and high(er) standards
+: Not necessarily an indication of quality, but it does indicate tradition and higher standards.
 
-While these specs are more than acceptable for a watch in the € 500 price range, I was still out for a bargain, as I went out on a limb that there must be a better deal that that what Invicta offers. As such, I headed to Jomeshop.com, probably the most well-known reputable gray-market watch seller on the internet.
+While these specs are more than acceptable for a watch in the € 500 price range, I was still after a bargain, and I went out on a limb that there must be a better deal than what Invicta offers. As such, I headed to Jomashop.com, probably the best-known reputable gray-market watch seller on the internet.
 
-{{< figure src="gl0083.png#center" title="Reference No. GL0083" caption="The only \"traditional\" combat sub I could find on Jomashop. While I don't mind the (cheaper) NATO in place of a bracelet, the fauxtina on the watch hands was an absolute dealbreaker for my tastes." attr="glycine-watch.ch" attrlink="https://glycine-watch.ch/watches/gl0083-combat-sub-unisex" >}}
+{{< figure src="gl0083.png#center" title="Reference No. GL0083" caption="The only \"traditional\" Combat Sub I could find on Jomashop. While I don't mind the (cheaper) NATO in place of a bracelet, the fauxtina on the watch hands was an absolute dealbreaker for my tastes." attr="glycine-watch.ch" attrlink="https://glycine-watch.ch/watches/gl0083-combat-sub-unisex" >}}
 
 Unfortunately, I was not able to find a more traditional Combat Sub design, such as the GL0185. As a result, I settled for the blue-red [GL0388 on Jomashop](https://www.jomashop.com/glycine-combat-sub-sport-steel-automatic-black-dial-mens-watch-gl0388.html) for an unbeatable $322.05.
 
-## Déjà vu?
-Looking at the watch from a distance does remind one of perhaps more famous ~~status symbols~~ watches. Without a doubt, Rolex has had an enormous impact on not just the industry but our day-to-day perception of watches.
+## Déjà Vu?
+Looking at the watch from a distance does bring to mind perhaps more famous ~~status symbols~~ watches. Without a doubt, Rolex has had an enormous impact on not just the industry but also our day-to-day perception of watches.
 
 {{< figure src="pepsi.png" title="Corporate needs you to identify the difference between this picture and this picture." caption="They're the same picture: Rolex GMT-Master II vs. Pagani Design \"Pepsi\" vs. Glycine Combat Sub." >}}
 
-This specific Combat Sub's similarity has, of course, caught the attention of watch ~~snobs~~ enthusiasts, with varying opinions. Following [quote](https://www.watchuseek.com/threads/does-the-glycine-combat-sub-pepsi-gmt-count-as-an-homage.5286224/post-53116271) in particular got to me:
+This specific Combat Sub's similarity has, of course, caught the attention of watch ~~snobs~~ enthusiasts, with varying opinions. The following [quote](https://www.watchuseek.com/threads/does-the-glycine-combat-sub-pepsi-gmt-count-as-an-homage.5286224/post-53116271) in particular got to me:
 
 >It’s worse than a homage.
 >
 >First, they put the GMT colors on a dive timing bezel. It’s spastic. Turrrble idea and should not be bought with anyone’s money.
 
-Yes, there are GMT colors (in reference to day/night cycles between circa 06:00 and 18:00) on the watch, and I'll admit that Rolex was the first company to produce a watch with this a two-tone bezel. But does that make it an homage? I don't think so. Consider something like the Seiko SKX009K2 or the SNE591. These have also featured red/blue bezels for decades without being considered an homage to anything.
+Yes, there are GMT colors (in reference to day/night cycles between circa 06:00 and 18:00) on the watch, and I'll admit that Rolex was the first company to produce a watch with this two-tone bezel. But does that make it an homage? I don't think so. Consider something like the Seiko SKX009K2 or the SNE591. These have also featured red/blue bezels for decades without being considered an homage to anything.
 
-What about the dial, featuring triangle/rectangle/circle hours indices? As far as I'm concerned, these are also a very traditional style, found on dive watches from Bremont and Hamilton. The Glycine GL0388 simply happens to check all the boxes of an archetypical dive watch.
+What about the dial, featuring triangle/rectangle/circle hour indices? As far as I'm concerned, this is also a very traditional style, found on dive watches from Bremont and Hamilton. The Glycine GL0388 simply happens to check all the boxes of an archetypal dive watch.
 
-Still, the Glycine _is_ different. It doesn't feature the typical Rolex date magnifier. The date display, and minute tracks and seconds hand are very different from the GMT-Master II or Submariner. The bezel's form and typography are unique as well. The devil is in the details.
+Still, the Glycine _is_ different. It doesn't feature the typical Rolex date magnifier. The date display, minute track, and seconds hand are very different from those of the GMT-Master II or Submariner. The bezel's form and typography are unique as well. The devil is in the details.
 
-### It's not just Glycine
+### It's Not Just Glycine
 
 {{< figure src="timex-q.webp#center" title="Timex Q Ref. TW2T80700" caption="At the time of its introduction I even considered ordering this very similar Timex as a colorful beater." attr="timex.eu" attrlink="https://timex.eu/products/q-timex-reissue-38mm-stainless-steel-bracelet-watch-tw2t80700" >}}
 
-I'm under the impression that certain styles will never die. The "Pepsi" bezel has been popular since its introduction, and I have been drawn to it for several months. 
+I'm under the impression that certain styles will never die. The "Pepsi" bezel has been popular since its introduction, and I have been drawn to it for several months.
 
 #### Case in Point: Bauhaus Watches
-I adore my NOMOS Tangente, but they weren't the first Bauhaus watch by far, and very few enthusiasts would claim they are "just" an homage.
+I adore my NOMOS Tangente, but NOMOS was far from the first Bauhaus watchmaker, and very few enthusiasts would claim the Tangente is "just" an homage.
 
 {{< figure src="Antea_Back_To_Bauhaus_history.jpg" title="Bauhaus style watches over the decades" caption="Lange & Söhne and STOWA built similar watches many decades before NOMOS was even founded." attr="manufaktuhr.info" attrlink="https://manufaktuhr.info/?p=1560" >}}
 
 {{< figure src="tangente.jpg" title="NOMOS Tangente Reference No. 139" caption="Perhaps one of the most celebrated German watches in the past 30 years." attr="nomos-glashuette.com" attrlink="https://nomos-glashuette.com/en/tangente/tangente-139" >}}
 
-All in all, I believe that much like phenotypes in biology, watch designs boil down to their heritage. These traits can be seen a celebration of history, while still providing leeway for individuality in the details.
+All in all, I believe that much like phenotypes in biology, watch designs boil down to their heritage. These traits can be seen as a celebration of history, while still providing leeway for individuality in the details.
 
 ## My Verdict
 
 {{< figure src="wristshot.jpg" title="The obligatory wristshot" caption="Taken during my tour along the Oregon coast" >}}
 
-It's a charming watch that adds a splash of color to my wrist. I use the rotating bezel to time daily tasks like brewing my coffee all the time. The solid steel case, SW200 movement and sapphire crystal mean I can probably _wear the hell_ out of this watch daily.[^wear] Some people may mistake it for a Rolex or homage thereof at a distance, but at the end of the day, I bought this watch for myself because I like it.
+It's a charming watch that adds a splash of color to my wrist. I use the rotating bezel constantly to time daily tasks like brewing my coffee. The solid steel case, SW200 movement, and sapphire crystal mean I can probably _wear the hell_ out of this watch every day.[^wear] Some people may mistake it for a Rolex or an homage thereof at a distance, but at the end of the day, I bought this watch for myself because I like it.
 
-[^drop]: They were better when they offered a broader range of things outside of keyboards and audiophile equipment. I stopped frequently browsing around 2022
-[^elapsed]: ...for someone as easily distracted as me *(how long has that french press been steeping?)*
+[^drop]: They were better when they offered a broader range of things beyond keyboards and audiophile equipment. I stopped browsing frequently around 2022.
+[^elapsed]: ...for someone as easily distracted as me *(how long has that French press been steeping?)*
 [^wear]: Scratches are inevitable. They'll look better on a diver than a dress watch.

@@ -11,8 +11,8 @@ tags:
 
 This is my first blog post.
 
-Not sure if anybody will be interested in reading this, but it's better to share my opinions with the internet instead of somebody who doesn't want to listen, right?
+I'm not sure anyone will be interested in reading this, but it's better to share my opinions with the internet than with someone who doesn't want to listen, right?
 
 ---
 
-**Update, 2023-07-15:** I am now using [hugo](https://gohugo.io/) for building this website, as I've had good experiences using it for other organizations. In the future I plan to publish more often.
+**Update, 2023-07-15:** I am now using [Hugo](https://gohugo.io/) to build this website, as I've had good experiences with it for other organizations. In the future, I plan to publish more often.
