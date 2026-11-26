@@ -32,6 +32,7 @@ Consultant specializing in enterprise Linux platforms and open-source technologi
 [Linux Client Management](https://www.b1-systems.de/en/solutions/b1-lcm-linux-client-management/)
 : Design and implementation of enterprise Linux client management solutions for Ubuntu and custom atomic BootC-based distributions, including architecture, deployment automation, configuration management, CI/CD integration, and customer workshops. Develop Salt states, Foreman provisioning workflows, container-based build pipelines, and internal automation tooling to simplify deployment and lifecycle management. Contribute to the continued development of the on-premises product as well as the company's multi-tenant SaaS offering, including technical project management responsibilities.
 : Worked with customers from the German federal and state public sectors, the automotive industry, and consulting partners deploying and operating environments consisting of hundreds of managed Linux systems.
+: Set up automated certificate signing request (CSR) processing for a global payments processor using a split PKI: the OpenVPN server presents a public Let's Encrypt certificate, while clients receive per-host certificates from an internal OpenBao CA, with keys stored in the TPM 2.0.
 : Contributed improvements upstream to the NixOS ecosystem and the Salt Project while applying open-source best practices throughout customer engagements.
 
 ### Trainings
@@ -105,15 +106,25 @@ Supported the IT infrastructure of the Institute of Continuum Mechanics, providi
 ## DevOps & Automation
 - GitLab CI/CD
 - Salt
+- Ansible
 - Linux image building
 - BootC
-- Foreman
+- Foreman and Katello
+- Pulp
+- Podman and Quadlet
+
+## Security & Networking
+- Public key infrastructure (OpenBao, OpenSSL, Let's Encrypt)
+- OpenVPN
+- TPM 2.0 and PKCS#11
+- sops and age
 
 ### Operating Systems
 - Debian
 - Ubuntu
 - Fedora
-- SUSE Linux Enterprise
+- AlmaLinux
+- SUSE Linux Enterprise and openSUSE Leap
 - NixOS
 
 ## Hobbies and Interests
