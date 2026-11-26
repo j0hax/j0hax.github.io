@@ -1,7 +1,7 @@
 ---
 # This post was written with the assistance of LLMs.
 title: "Five Years of NixOS, Refactored with Dendritic Patterns"
-date: 2026-11-26T10:30:00+01:00
+date: 2026-09-05T14:00:00+02:00
 summary: "After five years and five thousand commits in /etc/nixos, I restructured my configuration around the dendritic pattern — here's what changed and why"
 tags:
   - nixos
@@ -9,7 +9,7 @@ tags:
   - configuration
 ---
 
-My NixOS configuration has lived in git since May 3, 2021 — the "Initial commit" of `/etc/nixos`, a flake from day one. As of today that is 5,253 commits across five machines: `kirby` (my ThinkPad X230), `clay` (a MacBook Pro), `aptenodytes` (my work laptop), `kneippweg` (the Mac mini home server), and `skylab` (a Hetzner ARM VPS).[^dabble] Over five years the config grew organically, and this September I finally did something about its structure: commit `afb1e173` ("Refactor with dendritic patterns") rewrote 38 files (+1911/−1473) to put every feature behind an option.
+My NixOS configuration has lived in git since May 3, 2021 — the "Initial commit" of `/etc/nixos`, a flake from day one. As of today that is 5,039 commits across five machines: `kirby` (my ThinkPad X230), `clay` (a MacBook Pro), `aptenodytes` (my work laptop), `kneippweg` (the Mac mini home server), and `skylab` (a Hetzner ARM VPS).[^dabble] Over five years the config grew organically, and today I finally did something about its structure: commit `afb1e173` ("Refactor with dendritic patterns") rewrote 38 files (+1911/−1473) to put every feature behind an option.
 
 ## What the config looked like
 
@@ -72,7 +72,7 @@ skylab = {
 
 ## Why dendritic
 
-The motivation was never aesthetics --- it was that the old structure made mistakes easy and cheap:
+Nix code is partially self-documenting: options with their defaults read like documentation. The old structure buried that behind import lists --- you had to know which file to open before you could see what it did. The rewrite pays off most where features compose: my HTTP-exposed services all reuse the same Caddy setup, so each one just sets `jka.services.caddy.enable = lib.mkDefault true;` and adds a `services.caddy.virtualHosts` entry, getting TLS certificates and reverse-proxying for free. And it guards me from mistakes: since every module is imported on every host, a renamed or broken option fails `nix flake check` on all five machines at once, and there is no per-host import list left to forget a line in.
 
 - **Options exist everywhere.** Because every module is imported on every host, `jka.services.matrix.enable` is a valid option on all five machines. CI runs `nix flake check --no-build`, which evaluates every host, so a broken option fails the build long before it reaches a machine.
 - **Enabling a feature is one line.** No import lists to keep in sync; a host is now just a declarative answer to "what does this machine run?"
