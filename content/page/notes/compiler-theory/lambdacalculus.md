@@ -33,7 +33,7 @@ All variable names are local to definitions.
     - \\(y\\) is a free variable.
 - For the example \\((\lambda x . x)~(\lambda y.yx)\\)
     - \\(x\\) is bound in the first term,
-    - \\(x\\) is free in the second, but \\(y\\) is bounded.
+    - \\(x\\) is free in the second, but \\(y\\) is bound.
 
 \\(\alpha\\)-Conversion
 : Renaming the parameter in a function abstraction
@@ -60,7 +60,7 @@ Church-Rosser-Theorem
 - \\(3 := \lambda s . \lambda z . s (s(sz))\\)
 - \\(n := \lambda s . \lambda z . s^n z\\)
 - \\(\text{PLUS} := \lambda m . \lambda n . \lambda s . \lambda z. m s (n s z)\\)
-    - \\(\text{PLUS 1} \implies \lambda n . \lambda s \lambda z . s (nsz)) = \text{SUCC}\\)
+    - \\(\text{PLUS 1} \implies \lambda n . \lambda s. \lambda z. s (nsz)) = \text{SUCC}\\)
     - \\(\text{SUCC 1} \implies (\lambda s \lambda z . s (s z)) = 2\\)
 
 ## Example
@@ -85,7 +85,7 @@ Y := \lambda f . (\lambda x . f(xx)) (\lambda x . f(xx))
 \\(\beta\\) reduction on a function \\(g\\) results in
 \begin{align}
 Y g &= \lambda f . (\lambda x . f(xx)) (\lambda x . f(xx)) g\\\
-&= (\lambda x . g (xx)) \(\lambda x . g (xx))\\\
+&= (\lambda x . g (xx)) (\lambda x . g (xx))\\\
 &= g ((\lambda x . g(xx)) (\lambda x . g(xx)))\\\
 &= g(Y g)
 \end{align}

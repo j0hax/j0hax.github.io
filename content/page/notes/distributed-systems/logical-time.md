@@ -11,13 +11,13 @@ math: true
 
 Propose we have two events, \(A\) and \(B\). Lamport timestamps allow for a "happens before" relationship, \(A \to B.\)
 
-Each node \(p\) maintains a counter \(LT(p)\), which gets incremented when \(p\) performs an action. When \(p\) sends a message, it includes \(LT(p)\). A recieving node \(q\) then updates its own counter to \(\max\{LT(p),~LT(q)\}\)
+Each node \(p\) maintains a counter \(LT(p)\), which gets incremented when \(p\) performs an action. When \(p\) sends a message, it includes \(LT(p)\). A receiving node \(q\) then updates its own counter to \(\max\{LT(p),~LT(q)\}\)
 
 *...Kind of like TCP's `seqno` to track packet orders?* 
 
 If \(A \to B\), then \(LT(a) < LT(b)\):
 - however \(LT(a) < LT(b) \nRightarrow a \to b\)
-- possible that \(L(a) = L(b)\) when \(a \ne b\)
+- possible that \(LT(a) = LT(b)\) when \(a \ne b\)
 
 This is the main drawback of lamport clocks.
 

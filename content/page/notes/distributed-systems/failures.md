@@ -13,7 +13,7 @@ Intermittent
 : Irregular, comes and goes
 
 Permanent
-: Occurs only once and then goes away. Continues to exist (until repair)
+: Occurs once and continues to exist until repaired
 
 # Propagation
 

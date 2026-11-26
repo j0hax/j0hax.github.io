@@ -29,7 +29,7 @@ The front of the case containing the solar panel seals the internals of the devi
 
 ## Finding the Optimal Spot
 
-The high-rise apartment I currently live in certainly has its benefits --- such as a direct view of my city's skyline. Still, the device requires ample amounts of light to operate. While all residents of my complex have roof access, I would prefer to keep the node out of view of shared spaces. Unfortunately, some of the metal trimmings around the roof are made of aluminium or some other non-magnetic metal. As such, I had to keep exploring for placement spots.
+The high-rise apartment I currently live in certainly has its benefits --- such as a direct view of my city's skyline. Still, the device requires ample amounts of light to operate. While all residents of my complex have roof access, I would prefer to keep the node out of view of shared spaces. Unfortunately, some of the metal trimmings around the roof are made of aluminum or some other non-magnetic metal. As such, I had to keep exploring for placement spots.
 
 {{< figure src="2024-04-29-08-03-02-462.jpg" title="The installed node" caption="With a clear view of Hannover's eastern horizon" >}}
 

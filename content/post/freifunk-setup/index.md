@@ -7,9 +7,9 @@ tags:
   - Open Source
 ---
 
-Around a year ago (summer 2025) I set up my first [Freifunk](https://freifunk.net/) access point.
+Around a year ago (summer 2025), I set up my first [Freifunk](https://freifunk.net/) access point.
 
-Originally, I had purchased the router for the princely sum of $6.99 at Goodwill with the intent to extend my existing home network using a wireless mesh as described in my [previous post]({{< ref "openwrt-meshing" >}}), but after moving to a new apartment with my wife, I decided to try (and stick with) some [TP-Link Powerline adapters](https://www.tp-link.com/de/home-networking/powerline/tl-pa7017p-kit/), making my wireless mesh effectively obsolete.
+Originally, I had purchased the router for the princely sum of $6.99 at Goodwill with the intent of extending my existing home network using a wireless mesh as described in my [previous post]({{< ref "openwrt-meshing" >}}), but after moving to a new apartment with my wife, I decided to try (and stick with) some [TP-Link Powerline adapters](https://www.tp-link.com/de/home-networking/powerline/tl-pa7017p-kit/), making my wireless mesh effectively obsolete.
 
 
 Looking for a new use case for the hardware, I decided to give *Freifunk* a try, whereby one provides a *free* and *publicly accessible* Wi-Fi hotspot. Thanks to VPNs hosted by the project, the whole ordeal is not as scary as it may sound; both clients and providers are protected from each other in the most common abuse cases, an important consideration with Germany's strict copyright infringement laws.

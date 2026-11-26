@@ -11,7 +11,7 @@ Markov Decision Processes consist of:
 - Transition functions \\(T(s,a,s^\prime)\\)
     - Gives the probability of transitioning from state \\(s\\) to \\(s^\prime\\) when taking action \\(a\\)
 - Reward functions \\(R(s,a,s^\prime)\\)
-    - Typically, a positive value is "good," a negativ is "punishment"
+    - Typically, a positive value is "good," a negative value is "punishment"
 - Discount factor \\(\gamma\\)
     - Coefficient that determines how strongly the next iteration is influenced by the previous
     - Helps the algorithms converge

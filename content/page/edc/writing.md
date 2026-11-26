@@ -13,6 +13,6 @@ While I do have an extensive fountain pen collection, this one is my go-to pen. 
 # Parker Jotter
 There are many (nicer) metal pens out there. Somehow the light, slender form of the Jotter just caught my eye. It's elegant, yet being a ballpoint, still the first choice for utilitarian purposes.
 
-While I prefer the smoothness of a gel refill, they don't last long enough.[^gel] Fortunately there is a *huge* variety of G2 ballpoint refills.
+While I prefer the smoothness of a gel refill, they don't last long enough.[^gel] Fortunately, there is a *huge* variety of G2 ballpoint refills.
 
-[^gel]: A Schneider Gelion Plus writes well, but only lasts two or three weeks when I use this pen for University.
+[^gel]: A Schneider Gelion Plus writes well, but only lasts two or three weeks when I use this pen for university.

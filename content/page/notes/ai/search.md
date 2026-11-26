@@ -6,7 +6,7 @@ math: true
 
 ## Heuristics of \\(A^\ast\\)
 
-**Admissability:** heuristic cost is less than or equal to the actual cost to the goal.
+**Admissibility:** heuristic cost is less than or equal to the actual cost to the goal.
 
 \begin{equation}
 h(A) \leq \text{actual cost from A to G}

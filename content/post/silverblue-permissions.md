@@ -24,7 +24,7 @@ Relabeled /var/log/fsck_hfs.log from system_u:object_r:var_t:s0 to system_u:obje
 Relabeled /var/log/boot.log from system_u:object_r:var_t:s0 to system_u:object_r:plymouthd_var_log_t:s0
 ```
 
-So running this command indeed "fixed" both the boot log we suspected and another one as well.[^hfs] After re-starting `logrotate.service`, the error was gone.
+So running this command indeed "fixed" both the boot log we suspected and another one as well.[^hfs] After restarting `logrotate.service`, the error was gone.
 [^hfs]: fsck_hfs.log probably is a remnant of the original macOS partition that was wiped during the installation of Silverblue.
 
 ## A Word on "Immutability"

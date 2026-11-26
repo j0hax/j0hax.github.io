@@ -7,7 +7,7 @@ tags:
   - mesh
 ---
 
-After moving to a new, larger apartment, I had a problem: **the office had a terrible Wi-Fi connection,** and the office was so far away from our DSL gateway that running a long Ethernet cable was out of the question. Fortunately, during a trip to the USA, I found something I couldn't pass up: a TP-Link Archer A7[^old] at Goodwill for a whopping $6.99.
+After moving to a new, larger apartment, I had a problem: **the office had a terrible Wi-Fi connection,** and it was so far away from our DSL gateway that running a long Ethernet cable was out of the question. Fortunately, during a trip to the USA, I found something I couldn't pass up: a TP-Link Archer A7[^old] at Goodwill for a whopping $6.99.
 
 {{< figure src="goodwill.jpg" caption="For less than the price of a fast food meal" >}}
 
@@ -19,7 +19,7 @@ The great question remained: how to bridge the wireless signal from one router t
 
 There are many ways to set up 802.11s meshing. My first attempt, manually connecting the routers via OpenWrt's built-in 802.11s networking, failed. I must have overlooked something. Another method, called [B.A.T.M.A.N.](https://openwrt.org/docs/guide-user/network/wifi/mesh/batman), seemed like overkill. I really wanted a solution that was as reproducible and plug-and-play as possible.
 
-The [mesh11sd](https://github.com/openNDS/mesh11sd) project makes meshing easy, by automatically detecting the roles of different network nodes.
+The [mesh11sd](https://github.com/openNDS/mesh11sd) project makes meshing easy by automatically detecting the roles of different network nodes.
 
 ### One more thing...
 

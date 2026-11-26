@@ -24,7 +24,7 @@ Use value iteration as with normal MDPs. Repeat steps one and two as needed.
 Task: "policy evaluation"
 - Input: a fixed policy \\(\pi(s)\\)
 - No knowledge of \\(T(s, a, s^\prime)\\) or \\(R(s, a, s^\prime)\\)
-- **Goal ist to learn the state values**
+- **Goal is to learn the state values**
 
 In this case the learner has no choice about what actions to take, it just executes the policy and learns from experience. 
 
@@ -53,7 +53,7 @@ Idea: Average together observed sample values
 - As a result, takes a long time
 
 ### Temporal Difference Learning
-TD value leaning is a model-free way to do policy evaluation, mimicking Bellman updates with running sample averages.
+TD value learning is a model-free way to do policy evaluation, mimicking Bellman updates with running sample averages.
 
 \begin{align}
 \text{sample}_i &= R(s, \pi(s), s^\prime_i) + \gamma V_k^\pi (s^\prime_i)\\\
@@ -79,7 +79,7 @@ Q_{k+1}(s,a) \leftarrow \sum_{s^\prime} T(s, a, s^\prime) \left[R(s, a, s^\prime
 
 1. Receive a sample \\((s,a,s^\prime,r)\\)
 2. Consider your old estimate: \\(Q(s, a)\\)
-3. Consider your new sample estimate: \\(\text{sample} = R(s, a, s^\prime) + \gamma \max_{a^\prime} Q(s^\prime a^\prime)\\)
+3. Consider your new sample estimate: \\(\text{sample} = R(s, a, s^\prime) + \gamma \max_{a^\prime} Q(s^\prime, a^\prime)\\)
 4. Incorporate the new estimate into a running average: \\(Q(s, a) \leftarrow (1 - \alpha) Q(s,a) + (\alpha) [\text{sample}]\\)
 
 **Off-policy learning:** Q-learning converges to optimal policy, even with non-optimal actions.
@@ -97,7 +97,7 @@ There is a tradeoff between exploration and exploitation: "stay in the usual pla
 Takes a value estimate \\(u\\) and a visit count \\(n\\), and returns an optimistic utility such as \\(f(u, n) = u + \frac{k}{n}\\)
 
 ## Regret
-Regret is a measure of your total mistake cost: difference between your (expected) rewards and and optimal (expected) rewards.
+Regret is a measure of your total mistake cost: difference between your (expected) rewards and the optimal (expected) rewards.
 
 Random exploration has a higher regret than exploration functions.
 

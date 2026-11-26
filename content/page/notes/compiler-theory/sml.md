@@ -3,7 +3,7 @@ title: "SML Example"
 date: 2023-06-06
 ---
 
-Following Code contains solutions in part to the excercises (`traverse`) and the exam from the Summersemester 2022 (`print`). It is meant to serve as a small guide to SML syntax and data types.
+The following code contains solutions in part to the exercises (`traverse`) and the exam from the Summersemester 2022 (`print`). It is meant to serve as a small guide to SML syntax and data types.
 
 ```sml
 (* Helper function to recursively concatenate a list*)

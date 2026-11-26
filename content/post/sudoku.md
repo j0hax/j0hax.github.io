@@ -13,7 +13,7 @@ My first idea was to start off each pig with a different feed, shifting every pi
 After the two of us had pondered it for a while, the answer dawned on me while I was staring at an empty spreadsheet. I had heard enough lectures on complexity theory in the past two semesters to scratch just that itch: _What if I were to reduce this problem to a different, known problem?_
 
 ## Sudoku to the rescue
-The excellent [Libre-Sudoku](https://github.com/kaajjo/Libre-Sudoku) app for Android allows one to generate 6x6 playing fields. All that had to be done was solve the puzzle, trim the playing field to the number of pigs in the experiment, and map integers to the specific feeds.
+The excellent [Libre-Sudoku](https://github.com/kaajjo/Libre-Sudoku) app for Android allows one to generate 6x6 playing fields. All that had to be done was to solve the puzzle, trim the playing field to the number of pigs in the experiment, and map integers to the specific feeds.
 
 | F | T | N | P |
 |:---:|:---:|:---:|:---:|

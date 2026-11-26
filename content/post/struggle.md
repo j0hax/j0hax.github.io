@@ -30,7 +30,7 @@ I think my mental health hit rock bottom at this point, and in some ways, I gues
 
 It was in the spring of 2018 that I received a final warning from the university. My grades were too low, I was about to be kicked out, and I realized I had no option but to change the direction of my life. I clearly wasn't interested in electrical engineering. It was then that I went to a consultation appointment with a university counselor. I was thankful that they took the time to try to help me, but I was fairly unsatisfied with the initial advice I was given.
 
-Even though I had long given up on day-to-day student life, I really wasn't keen on officially dropping out, which was one of the options presented to me. I tried to explain my situation: that I was keen on actually earning a degree, and that I had spent much of my free time before tinkering with *nix and programming. It was here that a new alternative came to mind:
+Even though I had long given up on day-to-day student life, I really wasn't keen on officially dropping out, which was one of the options presented to me. I tried to explain my situation: that I was keen on actually earning a degree, and that I had spent much of my free time beforehand tinkering with *nix and programming. It was here that a new alternative came to mind:
 
 # Switching Majors to Computer Science
 

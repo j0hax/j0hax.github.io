@@ -3,7 +3,7 @@ title: "Watches"
 date: 2023-07-15
 ---
 
-I currently have a couple watches in my daily rotation:
+I currently have a couple of watches in my daily rotation:
 
 # NOMOS Tangente
 This is my go-to watch. Dressy yet minimalist enough for "normal" occasions like university classes or traveling. Even though the design is approaching 100 years old, the minimalist look makes it subtle and compatible with many outfits.

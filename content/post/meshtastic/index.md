@@ -11,7 +11,7 @@ I believe the first time I heard of [Meshtastic](https://meshtastic.org/) was du
 
 ## Fast Forward to 2024
 
-In the late summer of 2023 I moved in with my partner. Our new residence is in a high-rise building from the 70s. While much of the apartment was in need of renovation, our water meters were curious: no utilities worker had to come by and take readings from each meter, nor did we have to report usage to the company. They were all marked with "LoRa."
+In the late summer of 2023, I moved in with my partner. Our new residence is in a high-rise building from the 70s. While much of the apartment was in need of renovation, our water meters were curious: no utilities worker had to come by and take readings from each meter, nor did we have to report usage to the company. They were all marked with "LoRa."
 
 {{< figure src="meter.jpg" title="It doesn't take a genius to guess how these are read" caption="Excuse the heavy obfuscation, but these things are covered in seemingly unique numbers, and I'm just not quite ready to doxx myself via a water meter of all things." >}}
 

@@ -35,7 +35,7 @@ I have a particular passion for the following hardware and software:
 - [*nix](https://en.wikipedia.org/wiki/Unix-like), especially
   - NixOS for my server;
   - Fedora Silverblue for desktop applications;
-  - OpenWrt for my routers
+  - OpenWrt for my routers;
 - 3D printing, some of it useful, much of it kitsch
 - open hardware, such as that of PINE64
 
@@ -45,9 +45,7 @@ I have a particular passion for the following hardware and software:
 {{< details summary="Food and Drink" >}}
 I'm not sure I have a favorite food ;)
 
-Although I like meat, I tend to eat little of it. Instead, I season vegetarian food well. I love my herbs and chili.
-
-Of the finer things in life I also appreciate
+Although I like meat, I tend to eat little of it. Instead, I season vegetarian food generously. I love my herbs and chili, and of the finer things in life, I also appreciate
 
 - strong cheeses, such as Esrom, Camembert, or Parmigiano-Reggiano
 - fresh, black coffee
@@ -92,7 +90,7 @@ Most recently, I have settled on a [Happy Hacking Keyboard](https://en.wikipedia
 
 {{< details summary="Botany" >}}
 
-Ever since I learned of plant blindness I've tried to be more mindful of this incredibly diverse kingdom of life.
+Ever since I learned of plant blindness, I've tried to be more mindful of this incredibly diverse kingdom of life.
 
 I enjoy propagating and raising plants for aesthetic and culinary purposes.
 
@@ -102,7 +100,7 @@ I use self-raised perennial herbs such as rosemary, thyme, and oregano daily whe
 
 {{< details summary="Entertainment" >}}
 
-### Youtube
+### YouTube
 
 I watch a lot of YouTube. Some of my favorite channels include Big Clive, Adam Ragusea, and DankPods.
 
@@ -120,7 +118,6 @@ In particular, I enjoy
   - The Alan Parsons Project
   - Foster the People
   - LCD Soundsystem
-
-- I enjoy a wide variety of music, especially jazz, especially hard bop artists like John Coltrane and Charles Mingus; my favorite jazz song of all time is Mingus' "Moanin'", which you can listen to on YouTube: https://www.youtube.com/results?search_query=Charles+Mingus+Moanin'.
+- jazz, especially hard bop artists like John Coltrane and Charles Mingus; my favorite jazz song of all time is Mingus' "Moanin'", which you can listen to on [YouTube](https://www.youtube.com/results?search_query=Charles+Mingus+Moanin').
 
 {{< /details >}}

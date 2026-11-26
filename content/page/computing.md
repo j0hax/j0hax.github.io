@@ -9,7 +9,7 @@ Since receiving my first computer at the age of 10, computers have been a domina
 # Software
 I have a particular interest in Linux. It all started around 2009 when I installed Ubuntu 9.04 *Jaunty Jackalope* on my first computer, a 2008 iMac (Model `A1224`). I've distrohopped around more than I care to admit, going "down the rabbit hole" with Arch Linux, fully optimized Gentoo installations, and even NixOS.
 
-Currently, I use [Fedora Silverblue](https://fedoraproject.org/silverblue/) on all my personal computers. While I enjoyed tinkering around, I currently need something that "just works." I do believe that immutable distributions are the future of Linux (and, hopefully, Windows?).
+Currently, I use [Fedora Silverblue](https://fedoraproject.org/silverblue/) on all my personal computers. While I enjoyed tinkering around, I now need something that "just works." I do believe that immutable distributions are the future of Linux (and, hopefully, Windows?).
 
 # Hardware
 
@@ -40,6 +40,6 @@ While the hardware is more or less a decade old, it fits my budget and meets my 
 [^fux]: German word for a younger mentee of a fraternity, similar to the "little brother" in American fraternities.
 
 ## Cell Phone
-I used iPhones exclusively between 2012 and 2023. While I still think they're great phones, I consider myself more appreciative of the freedom that Android offers.
+I used iPhones exclusively between 2012 and 2023. While I still think they're great phones, I've come to appreciate the freedom that Android offers.
 
-In the summer of 2023 I switched to a Fairphone 4 flashed with [LineageOS](https://lineageos.org/). While I'm quite happy with the software and most of the Fairphone's hardware, it does suffer from the seemingly common [ghost inputs](https://forum.fairphone.com/t/ghost-inputs-on-fp4/82837/427).
+In the summer of 2023, I switched to a Fairphone 4 flashed with [LineageOS](https://lineageos.org/). While I'm quite happy with the software and most of the Fairphone's hardware, it does suffer from the seemingly common [ghost inputs](https://forum.fairphone.com/t/ghost-inputs-on-fp4/82837/427).

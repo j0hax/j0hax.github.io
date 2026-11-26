@@ -12,7 +12,7 @@ Now, I'm no stranger to Matrix. My university set up a demo server around the ti
 
 **I love [Caddy](https://caddyserver.com/)!** Really. It is my go-to reverse proxy _that just works._ For most of my self-hosted applications, including Matrix, I can just declare a virtual host and pass the `reverse_proxy` directive. SSL, HTTP/3, websockets, everything is _just there._
 
-NixOS again simplifies the installation process, because I just declare the way I want things configured. This means that I can trivially connect Caddy to a Matrix homeserver. In this case, I chose [tuwunel](https://github.com/matrix-construct/tuwunel), which, despite the questionable name, seems to strike the best compromise between resource usage, stability and features.
+NixOS again simplifies the installation process, because I just declare how I want things configured. This means that I can trivially connect Caddy to a Matrix homeserver. In this case, I chose [tuwunel](https://github.com/matrix-construct/tuwunel), which, despite the questionable name, seems to strike the best compromise between resource usage, stability and features.
 
 All I had to do to get a basic configuration working was enable the services and supply the configuration.
 
@@ -67,7 +67,7 @@ in
 }
 ```
 
-Note that `matrix.example.com` also serves [Element](https://element.io/), a fully featured Matrix chat client which can be served from a static page.
+Note that `matrix.example.com` also serves [Element](https://element.io/), a fully featured Matrix chat client that can be served as a static page.
 
 Now I just needed to set up my server of choice, which, in the case of Tuwunel, was remarkably simple as well:
 

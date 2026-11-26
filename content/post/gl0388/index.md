@@ -8,7 +8,7 @@ tags:
 ---
 
 ## It Started with Black Friday Curiosity
-One cool evening in mid-November I decided to head back to Drop.com. Considering my new job and the upcoming Black Friday deals, I figured it would be the perfect time to check up on my once[^drop] beloved shopping site. It was here that a watch caught my eye: the Drop + Glycine Combat Sub "Soda", pictured below.
+One cool evening in mid-November, I decided to head back to Drop.com. Considering my new job and the upcoming Black Friday deals, I figured it would be the perfect time to check up on my once[^drop] beloved shopping site. It was here that a watch caught my eye: the Drop + Glycine Combat Sub "Soda", pictured below.
 
 {{< figure src="drop-combat-sub.webp" title="Drop + Glycine Combat Sub \"Soda\"" caption="Reference No. GL0196" attr="Drop.com" attrlink="https://drop.com/buy/drop-glycine-combat-sub-automatic-watch-m3" >}}
 
@@ -55,7 +55,7 @@ This specific Combat Sub's similarity has, of course, caught the attention of wa
 >
 >First, they put the GMT colors on a dive timing bezel. It’s spastic. Turrrble idea and should not be bought with anyone’s money.
 
-Yes, there are GMT colors (in reference to day/night cycles between circa 06:00 and 18:00) on the watch, and I'll admit that Rolex was the first company to produce a watch with this two-tone bezel. But does that make it an homage? I don't think so. Consider something like the Seiko SKX009K2 or the SNE591. These have also featured red/blue bezels for decades without being considered an homage to anything.
+Yes, there are GMT colors (in reference to day/night cycles between circa 06:00 and 18:00) on the watch, and I'll admit that Rolex was the first company to produce a watch with this two-tone bezel. But does that make it a homage? I don't think so. Consider something like the Seiko SKX009K2 or the SNE591. These have also featured red/blue bezels for decades without being considered a homage to anything.
 
 What about the dial, featuring triangle/rectangle/circle hour indices? As far as I'm concerned, this is also a very traditional style, found on dive watches from Bremont and Hamilton. The Glycine GL0388 simply happens to check all the boxes of an archetypal dive watch.
 
@@ -68,19 +68,19 @@ Still, the Glycine _is_ different. It doesn't feature the typical Rolex date mag
 I'm under the impression that certain styles will never die. The "Pepsi" bezel has been popular since its introduction, and I have been drawn to it for several months.
 
 #### Case in Point: Bauhaus Watches
-I adore my NOMOS Tangente, but NOMOS was far from the first Bauhaus watchmaker, and very few enthusiasts would claim the Tangente is "just" an homage.
+I adore my NOMOS Tangente, but NOMOS was far from the first Bauhaus watchmaker, and very few enthusiasts would claim the Tangente is "just" a homage.
 
 {{< figure src="Antea_Back_To_Bauhaus_history.jpg" title="Bauhaus style watches over the decades" caption="Lange & Söhne and STOWA built similar watches many decades before NOMOS was even founded." attr="manufaktuhr.info" attrlink="https://manufaktuhr.info/?p=1560" >}}
 
 {{< figure src="tangente.jpg" title="NOMOS Tangente Reference No. 139" caption="Perhaps one of the most celebrated German watches in the past 30 years." attr="nomos-glashuette.com" attrlink="https://nomos-glashuette.com/en/tangente/tangente-139" >}}
 
-All in all, I believe that much like phenotypes in biology, watch designs boil down to their heritage. These traits can be seen as a celebration of history, while still providing leeway for individuality in the details.
+All in all, I believe that, much like phenotypes in biology, watch designs boil down to their heritage. These traits can be seen as a celebration of history, while still providing leeway for individuality in the details.
 
 ## My Verdict
 
 {{< figure src="wristshot.jpg" title="The obligatory wristshot" caption="Taken during my tour along the Oregon coast" >}}
 
-It's a charming watch that adds a splash of color to my wrist. I use the rotating bezel constantly to time daily tasks like brewing my coffee. The solid steel case, SW200 movement, and sapphire crystal mean I can probably _wear the hell_ out of this watch every day.[^wear] Some people may mistake it for a Rolex or an homage thereof at a distance, but at the end of the day, I bought this watch for myself because I like it.
+It's a charming watch that adds a splash of color to my wrist. I use the rotating bezel constantly to time daily tasks like brewing my coffee. The solid steel case, SW200 movement, and sapphire crystal mean I can probably _wear the hell_ out of this watch every day.[^wear] Some people may mistake it for a Rolex or a homage thereof at a distance, but at the end of the day, I bought this watch for myself because I like it.
 
 [^drop]: They were better when they offered a broader range of things beyond keyboards and audiophile equipment. I stopped browsing frequently around 2022.
 [^elapsed]: ...for someone as easily distracted as me *(how long has that French press been steeping?)*

@@ -26,7 +26,7 @@ While not particularly hot, this is easily one of the *tastiest* hot sauces I ha
 
 {{< rating score="85" >}}
 
-A hot hot sauce, supposedly based on a Mayan recipe.
+A seriously hot sauce, supposedly based on a Mayan recipe.
 
 * Quite hot but still enjoyable, a delight for chili heads
 * Probably underrated
